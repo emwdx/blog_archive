@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Electric Circuits &#8211; starting at the end.	</title>
-	<atom:link href="/2012/05/27/electric-circuits-starting-at-the-end/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/05/27/electric-circuits-starting-at-the-end/</link>
+	<atom:link href="/blog_archive/2012/05/27/electric-circuits-starting-at-the-end/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2012/05/27/electric-circuits-starting-at-the-end/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Wed, 30 May 2012 03:30:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,18 +23,18 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/05/27/electric-circuits-starting-at-the-end/#comment-75</link>
+		<link>/blog_archive/2012/05/27/electric-circuits-starting-at-the-end/#comment-75</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Wed, 30 May 2012 03:30:59 +0000</pubDate>
-		<guid isPermaLink="false">/?p=621#comment-75</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=621#comment-75</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/05/27/electric-circuits-starting-at-the-end/#comment-74&quot;&gt;John Burk Burk&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/05/27/electric-circuits-starting-at-the-end/#comment-74&quot;&gt;John Burk Burk&lt;/a&gt;.
 
 I did see that post - really impressive how much thinking goes into designing even the charger at Apple. I do see it being a bit overwhelming if a student opens something up and doesn&#039;t have some sort of guidance on what they are looking at. As recently as several years ago, I felt that way when I wanted to replace a laptop hard drive. 
 
 I think it taps into mindset too. &quot;You&#039;re so smart, you know what all this stuff does, so can you tell me what it does?&quot; vs. &quot;Wow - you figured out how it worked? Can you show me how you figured it out?&quot;]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/05/27/electric-circuits-starting-at-the-end/#comment-74">John Burk Burk</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/05/27/electric-circuits-starting-at-the-end/#comment-74">John Burk Burk</a>.</p>
 <p>I did see that post &#8211; really impressive how much thinking goes into designing even the charger at Apple. I do see it being a bit overwhelming if a student opens something up and doesn&#8217;t have some sort of guidance on what they are looking at. As recently as several years ago, I felt that way when I wanted to replace a laptop hard drive. </p>
 <p>I think it taps into mindset too. &#8220;You&#8217;re so smart, you know what all this stuff does, so can you tell me what it does?&#8221; vs. &#8220;Wow &#8211; you figured out how it worked? Can you show me how you figured it out?&#8221;</p>
 ]]></content:encoded>
@@ -43,11 +43,11 @@ I think it taps into mindset too. &quot;You&#039;re so smart, you know what all 
 		<item>
 		<title>
 		By: John Burk Burk		</title>
-		<link>/2012/05/27/electric-circuits-starting-at-the-end/#comment-74</link>
+		<link>/blog_archive/2012/05/27/electric-circuits-starting-at-the-end/#comment-74</link>
 
 		<dc:creator><![CDATA[John Burk Burk]]></dc:creator>
 		<pubDate>Wed, 30 May 2012 02:47:22 +0000</pubDate>
-		<guid isPermaLink="false">/?p=621#comment-74</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=621#comment-74</guid>
 
 					<description><![CDATA[Evan,
 You&#039;ve convinced me too. I really like your project ideas, and the idea of starting students with different types of voltage sources (solar cells, batteries, generators) from the very beginning. Did you see the recent post showing a teardown of one of the &lt;a href=&quot;http://www.arcfn.com/2012/05/apple-iphone-charger-teardown-quality.html&quot; rel=&quot;nofollow ugc&quot;&gt;small apple iPhone chargers&lt;/a&gt;? I would really like for my students to be able to take a device (we could start with a toaster before jumping into a charger like this), and figure out the function of all the various parts. 
@@ -62,11 +62,11 @@ You&#8217;ve convinced me too. I really like your project ideas, and the idea of
 		<item>
 		<title>
 		By: pshircliff		</title>
-		<link>/2012/05/27/electric-circuits-starting-at-the-end/#comment-73</link>
+		<link>/blog_archive/2012/05/27/electric-circuits-starting-at-the-end/#comment-73</link>
 
 		<dc:creator><![CDATA[pshircliff]]></dc:creator>
 		<pubDate>Sun, 27 May 2012 19:58:14 +0000</pubDate>
-		<guid isPermaLink="false">/?p=621#comment-73</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=621#comment-73</guid>
 
 					<description><![CDATA[I have not done electrostatics in years.  We jump in with lighting various bulbs (next year I might skip the edison style bulbs because they are so expensive ; just use various LED&#039;s that are cheap on ebay).  We then built various circuits &#038; used PhET, played with generators, built motors. This year I added squishy circuits (conductive &quot;play dough&quot;).  I have yet to throw in resistors, but maybe I should.  We bridged sound &#038; electricity by building a functional paper plate  speaker.  I love this exploring part of Physics.  Maybe Alternative Energy generation next year.]]></description>
 			<content:encoded><![CDATA[<p>I have not done electrostatics in years.  We jump in with lighting various bulbs (next year I might skip the edison style bulbs because they are so expensive ; just use various LED&#8217;s that are cheap on ebay).  We then built various circuits &amp; used PhET, played with generators, built motors. This year I added squishy circuits (conductive &#8220;play dough&#8221;).  I have yet to throw in resistors, but maybe I should.  We bridged sound &amp; electricity by building a functional paper plate  speaker.  I love this exploring part of Physics.  Maybe Alternative Energy generation next year.</p>

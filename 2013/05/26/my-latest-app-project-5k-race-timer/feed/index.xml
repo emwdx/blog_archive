@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: My latest app project: 5K Race Timer	</title>
-	<atom:link href="/2013/05/26/my-latest-app-project-5k-race-timer/feed/" rel="self" type="application/rss+xml" />
-	<link>/2013/05/26/my-latest-app-project-5k-race-timer/</link>
+	<atom:link href="/blog_archive/2013/05/26/my-latest-app-project-5k-race-timer/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2013/05/26/my-latest-app-project-5k-race-timer/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Sun, 16 Jun 2013 12:38:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2013/05/26/my-latest-app-project-5k-race-timer/#comment-216</link>
+		<link>/blog_archive/2013/05/26/my-latest-app-project-5k-race-timer/#comment-216</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Sun, 16 Jun 2013 12:38:06 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1500#comment-216</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=1500#comment-216</guid>
 
 					<description><![CDATA[Hi Mina,
 
@@ -43,11 +43,11 @@ I&#039;ll be sure to recommend your app to anyone that asks about the program. G
 		<item>
 		<title>
 		By: Mina		</title>
-		<link>/2013/05/26/my-latest-app-project-5k-race-timer/#comment-215</link>
+		<link>/blog_archive/2013/05/26/my-latest-app-project-5k-race-timer/#comment-215</link>
 
 		<dc:creator><![CDATA[Mina]]></dc:creator>
 		<pubDate>Sat, 15 Jun 2013 19:47:24 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1500#comment-215</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=1500#comment-215</guid>
 
 					<description><![CDATA[Great job Evan, 
 I am a runner as well and my running club was suffering from the exact same problem. So being a computer developer,  I developed a iphone/ipad app, RaceTimingApp, you can find it at www.racetimingapp.com. This is a mobile race timer software. I solved the simultaneous bib entry problem you were talking about by running the app on multiple iphone devices and sending data to a server. We used it 4 times in our races so far and it worked like a charm. Each time we had two people with the iphones and the apps entering the data and we did not miss a single runner. We also implemented a feature to enter the race day registries. We usually get 30-40 people to register on the race day. The app will be available in the app store in two weeks. If anyone is interested, please email me at hooysum@gmail.com]]></description>

@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Let&#8217;s Collect Some Data Together!	</title>
-	<atom:link href="/2016/11/01/lets-collect-some-data-together/feed/" rel="self" type="application/rss+xml" />
-	<link>/2016/11/01/lets-collect-some-data-together/</link>
+	<atom:link href="/blog_archive/2016/11/01/lets-collect-some-data-together/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2016/11/01/lets-collect-some-data-together/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Tue, 01 Nov 2016 16:21:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: Xavier		</title>
-		<link>/2016/11/01/lets-collect-some-data-together/#comment-485</link>
+		<link>/blog_archive/2016/11/01/lets-collect-some-data-together/#comment-485</link>
 
 		<dc:creator><![CDATA[Xavier]]></dc:creator>
 		<pubDate>Tue, 01 Nov 2016 16:21:41 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2556#comment-485</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2556#comment-485</guid>
 
 					<description><![CDATA[I can&#039;t help you because I do not use Desmos because it&#039;s a propiertary software. I just use free software like R or geogebra.]]></description>
 			<content:encoded><![CDATA[<p>I can&#8217;t help you because I do not use Desmos because it&#8217;s a propiertary software. I just use free software like R or geogebra.</p>

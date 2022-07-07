@@ -12,8 +12,8 @@
 
 <channel>
 	<title>studentwork</title>
-	<atom:link href="/category/studentwork/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/category/studentwork/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Wed, 19 Apr 2017 04:54:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.7.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">180381780</site>	<item>
 		<title>An Experiment: Swapping Numerical Grades for Skill-Levels and Emoji</title>
-		<link>/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/</link>
-					<comments>/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/#respond</comments>
+		<link>/blog_archive/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/</link>
+					<comments>/blog_archive/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 19 Apr 2017 04:54:13 +0000</pubDate>
@@ -35,7 +35,7 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[emoji grading]]></category>
 		<category><![CDATA[numerical grades]]></category>
-		<guid isPermaLink="false">/?p=2693</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2693</guid>
 
 					<description><![CDATA[I decided to try something different for my pre-Calculus class for the past three weeks. There was a mix of factors that led me to do this when I did: The quarter ended one week, with spring break beginning at the end of the next. Not a great time to]]></description>
 										<content:encoded><![CDATA[<p>I decided to try something different for my pre-Calculus class for the past three weeks. There was a mix of factors that led me to do this when I did:</p>
@@ -55,7 +55,7 @@
 <li>Questions related to Unit 7 would still appear on the final exam for the semester, where scores will be point based.</li>
 </ul>
 <p>I also let students submit some examples of an appropriate scale. Here&#8217;s what I settled on based on their recommendations:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM.png"><img loading="lazy" class="alignnone size-medium wp-image-2696" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-300x32.png" alt="" width="300" height="32" srcset="/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-300x32.png 300w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-1024x109.png 1024w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-768x82.png 768w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-1200x127.png 1200w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM.png 1526w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM.png"><img loading="lazy" class="alignnone size-medium wp-image-2696" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-300x32.png" alt="" width="300" height="32" srcset="/blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-300x32.png 300w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-1024x109.png 1024w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-768x82.png 768w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-1200x127.png 1200w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM.png 1526w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>I also asked them for their feedback before this all began. Here&#8217;s what they said:</p>
 <ul>
 <li>Positive Feedback:
@@ -76,8 +76,8 @@
 <p>So I proceeded with the unit. I used a mix of direct instruction, some Trello style lists of tasks from textbooks, websites, and Desmos, and lots of circulating and helping students individually where they needed it. I tried to keep the only major change to this unit to be the communication of the scores through the grade book using the emoji and verbal designation of beginner, intermediate, expert. As I also said earlier, I gave skills quizzes throughout.</p>
 <p>The unit exam was a series of medium level questions that I wanted to use to gauge where students were when everything was together. As with my other units, I gave a review class after the spring break where students could work on their own and in groups, asking questions where they needed it. Anecdotally, the class was as focused and productive as for any other unit this year.</p>
 <p>I was able to ask one group some questions about this after their unit test, and here&#8217;s how they responded:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM.png"><img loading="lazy" class="alignnone wp-image-2697 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1024x303.png" alt="" width="604" height="179" srcset="/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1024x303.png 1024w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-300x89.png 300w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-768x227.png 768w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1536x454.png 1536w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-2048x605.png 2048w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1200x355.png 1200w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1980x585.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM.png"><img loading="lazy" class="alignnone wp-image-2698 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1024x300.png" alt="" width="604" height="177" srcset="/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1024x300.png 1024w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-300x88.png 300w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-768x225.png 768w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1536x449.png 1536w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-2048x599.png 2048w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1200x351.png 1200w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1980x579.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM.png"><img loading="lazy" class="alignnone wp-image-2697 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1024x303.png" alt="" width="604" height="179" srcset="/blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1024x303.png 1024w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-300x89.png 300w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-768x227.png 768w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1536x454.png 1536w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-2048x605.png 2048w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1200x355.png 1200w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1980x585.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM.png"><img loading="lazy" class="alignnone wp-image-2698 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1024x300.png" alt="" width="604" height="177" srcset="/blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1024x300.png 1024w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-300x88.png 300w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-768x225.png 768w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1536x449.png 1536w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-2048x599.png 2048w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1200x351.png 1200w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1980x579.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
 <p>The fact that the stress level was the same, if not less, was good to see. The effort level did drop in the case of a couple of students here, but for the most part, there isn&#8217;t any major change. This class as a whole values working independently, so I&#8217;m not surprised that none reported working <u>harder</u> during this unit.</p>
 <p>I also asked them to give me general feedback about the no-numerical-grades policy. Some of them deleted their responses before I could take a look, but here&#8217;s some of what they shared:</p>
 <ul>
@@ -96,15 +96,15 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2693</post-id>	</item>
 		<item>
 		<title>Class Notes and Workflow (On The Other Side of the Wall)</title>
-		<link>/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/</link>
-					<comments>/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/#respond</comments>
+		<link>/blog_archive/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/</link>
+					<comments>/blog_archive/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2016 13:13:26 +0000</pubDate>
@@ -113,12 +113,12 @@
 		<category><![CDATA[Google docs]]></category>
 		<category><![CDATA[notebook]]></category>
 		<category><![CDATA[workflow]]></category>
-		<guid isPermaLink="false">/?p=2550</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2550</guid>
 
 					<description><![CDATA[I&#8217;ve struggled in the past with the role of class notes. I wrote more than a year ago about my solution using Microsoft OneNote. Since moving out of China, I&#8217;ve realized just how far behind I am in just awareness of what Google Docs are capable of doing. My new]]></description>
-										<content:encoded><![CDATA[<p>I&#8217;ve struggled in the past with the role of class notes. <a href="/2015/08/30/rethinking-class-notes-with-onenote/">I wrote more than a year ago about my solution using Microsoft OneNote</a>. Since moving out of China, I&#8217;ve realized just how far behind I am in just awareness of what Google Docs are capable of doing. My new school uses them extensively for all sorts of organizational and administrative purposes, not to mention applications in the classroom. I decided to upgrade my class notebook system this year to make better use of these tools. Now that we&#8217;re approaching three months in, I&#8217;m feeling pretty happy about my system thus far.</p>
+										<content:encoded><![CDATA[<p>I&#8217;ve struggled in the past with the role of class notes. <a href="http://evanweinberg.com/2015/08/30/rethinking-class-notes-with-onenote/">I wrote more than a year ago about my solution using Microsoft OneNote</a>. Since moving out of China, I&#8217;ve realized just how far behind I am in just awareness of what Google Docs are capable of doing. My new school uses them extensively for all sorts of organizational and administrative purposes, not to mention applications in the classroom. I decided to upgrade my class notebook system this year to make better use of these tools. Now that we&#8217;re approaching three months in, I&#8217;m feeling pretty happy about my system thus far.</p>
 <p>I now make all my handouts on Google Docs. The bandwidth and lack of a Great Firewall make it a reliable way to have access to files both at school and at home, which means that I&#8217;m not dragging my computer back and forth anymore. There&#8217;s something to be said for carrying a minimalist backpack, especially given the temperatures here. I relied on iCloud Drive last year which worked well enough, but the fact that I&#8217;m not worrying about files syncing between home and school is a clear change for the better. These files are titled <b>U3D02 &#8211; CW &#8211; Title of Day&#8217;s Lesson</b> to signify &#8216;Unit 3, Day 2&#8217; for ease of identifying files and their order. These are starting points for class activities, resources to use during class such as Desmos activities, videos, or other parts of what might be useful to students learning a given topic.</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1024x965.png" alt="screen-shot-2016-10-31-at-8-16-35-pm" width="500" height="471" class="alignnone size-large wp-image-2554" srcset="/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1024x965.png 1024w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-300x283.png 300w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-768x723.png 768w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1536x1447.png 1536w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1200x1130.png 1200w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM.png 1896w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1024x965.png" alt="screen-shot-2016-10-31-at-8-16-35-pm" width="500" height="471" class="alignnone size-large wp-image-2554" srcset="/blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1024x965.png 1024w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-300x283.png 300w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-768x723.png 768w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1536x1447.png 1536w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1200x1130.png 1200w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM.png 1896w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>Each handout is shared with the class through <a href="http://www.hapara.com/">Hapara</a> teacher dashboard and Google Drive, and I give students read access on each file. Two students are randomly picked to be responsible for class notes. These two students make a copy of this handout during class, name it with the same title and unit/day designation, and then change CW (class work) to NB (notebook) file to indicate the purpose of this file.</p>
 <p>I take notes during class using <a href="http://gingerlabs.com/">Notability</a> and my Wacom tablet. It&#8217;s easy to copy and paste images from the digital handout into the notes, and then annotate them as needed. I take photos of student work with my phone and use Airdrop to get them to my classroom laptop. At the end of the class, I paste images of the notes I take during class into the relevant part of the notes. The two students are responsible for solving problems from the class handout and from homework, taking pictures, and putting them into the notes file on Google Docs. Links to these files are then shared on the course website with the rest of the class.</p>
 <p>My class handouts are still printed on A5 paper as an analog backup, and quizzes are usually still on paper as well. I still insist on students doing problems by hand since that&#8217;s ultimately how they will be assessed. The computer is there for access to <a href="http://www.desmos.com/calculator">Desmos</a>, Geogebra, and the digital handout. </p>
@@ -126,15 +126,15 @@
 <p>It&#8217;s pretty amazing what is possible when a major world power <u>isn&#8217;t</u> disrupting the technology you want to use in the classroom (or for whatever) on a regular basis.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2550</post-id>	</item>
 		<item>
 		<title>My Unscientific Case Study on Helpful Explanations</title>
-		<link>/2015/11/18/my-unscientific-case-study-on-helpful-explanations/</link>
-					<comments>/2015/11/18/my-unscientific-case-study-on-helpful-explanations/#comments</comments>
+		<link>/blog_archive/2015/11/18/my-unscientific-case-study-on-helpful-explanations/</link>
+					<comments>/blog_archive/2015/11/18/my-unscientific-case-study-on-helpful-explanations/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 18 Nov 2015 02:17:20 +0000</pubDate>
@@ -143,91 +143,91 @@
 		<category><![CDATA[explaining]]></category>
 		<category><![CDATA[showing work]]></category>
 		<category><![CDATA[understanding]]></category>
-		<guid isPermaLink="false">/?p=2358</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2358</guid>
 
 					<description><![CDATA[I&#8217;ve been fascinated by the discussion on Dan Meyer&#8217;s blog about explanations and their role in a math class. This was prompted by this article that makes assertions about the usefulness of these explanations to indicating understanding. The question of what merits the label of explanation and how that relates]]></description>
 										<content:encoded><![CDATA[<p>I&#8217;ve been fascinated by the <a href="http://blog.mrmeyer.com/2015/understanding-math-v-explaining-answers/">discussion on Dan Meyer&#8217;s blog</a> about explanations and their role in a math class. This was prompted by <a href="http://www.theatlantic.com/education/archive/2015/11/math-showing-work/414924/">this article</a> that makes assertions about the usefulness of these explanations to indicating understanding. The question of what merits the label of explanation and how that relates to &#8216;showing work&#8217; is an important one, and has been hashed around by the commenters on Dan&#8217;s blog. I decided to pitch a question to students that asked them to explain and nudge them in a discussion to get meaning out of their responses.</p>
 <p>Here&#8217;s the question, which is from the Amsco Integrated Algebra textbook on page 115:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM.png"><img loading="lazy" class="alignnone wp-image-2359 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-1024x264.png" alt="Screen Shot 2015-11-18 at 9.54.27 AM" width="500" height="129" srcset="/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-1024x264.png 1024w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-300x77.png 300w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-768x198.png 768w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-1536x397.png 1536w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-1200x310.png 1200w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM.png 1580w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM.png"><img loading="lazy" class="alignnone wp-image-2359 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-1024x264.png" alt="Screen Shot 2015-11-18 at 9.54.27 AM" width="500" height="129" srcset="/blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-1024x264.png 1024w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-300x77.png 300w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-768x198.png 768w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-1536x397.png 1536w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM-1200x310.png 1200w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-9.54.27-AM.png 1580w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>I took pictures of their responses and then put them up two at a time in front of the class. I didn&#8217;t pair them up deliberately, which might have been more interesting. After putting them up, I asked students to first share their observations about what made them different. There wasn&#8217;t much of a responses, but I wrote what was shared underneath. I also asked for each pair to vote on which of the two was more <u>helpful</u> to understanding the answers. Here are the results:</p>
 <p>Pair A:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM.png"><img loading="lazy" class="alignnone wp-image-2360 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-1024x319.png" alt="Screen Shot 2015-11-18 at 10.00.07 AM" width="500" height="156" srcset="/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-1024x319.png 1024w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-300x94.png 300w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-768x240.png 768w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-1536x479.png 1536w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-1200x374.png 1200w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM.png 1584w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM.png"><img loading="lazy" class="alignnone wp-image-2360 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-1024x319.png" alt="Screen Shot 2015-11-18 at 10.00.07 AM" width="500" height="156" srcset="/blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-1024x319.png 1024w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-300x94.png 300w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-768x240.png 768w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-1536x479.png 1536w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM-1200x374.png 1200w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.00.07-AM.png 1584w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>3 voted for the one on the left, 11 voted for the one on the right.</p>
 <p>The one student that spoke up said that the one on the left makes more sense because the one on the right merely shows the pattern. I didn&#8217;t get more out of this student in terms of explanation, and other students weren&#8217;t stepping up to share.</p>
 <p>Pair B:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM.png"><img loading="lazy" class="alignnone wp-image-2361 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-1024x448.png" alt="Screen Shot 2015-11-18 at 10.02.03 AM" width="500" height="219" srcset="/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-1024x448.png 1024w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-300x131.png 300w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-768x336.png 768w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-1536x671.png 1536w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-1200x524.png 1200w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM.png 1556w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM.png"><img loading="lazy" class="alignnone wp-image-2361 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-1024x448.png" alt="Screen Shot 2015-11-18 at 10.02.03 AM" width="500" height="219" srcset="/blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-1024x448.png 1024w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-300x131.png 300w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-768x336.png 768w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-1536x671.png 1536w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM-1200x524.png 1200w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.03-AM.png 1556w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>10 voted for the one on the left, 4 voted for the one on the right.</p>
 <p>The left example is the sort of diagram that I think I&#8217;ve seen in those Facebook posts knocking Common Core. I&#8217;ve never shown them this kind of diagram though &#8211; this was 100% from the student who, knowing this student&#8217;s history, has never stepped into a CCSS classroom in the United States to be taught this explicitly. This student decided to make this diagram because <u>she</u> felt it best showed her understanding of the problem. On the right is a set of arithmetic problems that show precisely the same thing, and the students preferred it, but weren&#8217;t willing to share why.</p>
 <p>Pair C:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM.png"><img loading="lazy" class="alignnone wp-image-2362 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-1024x362.png" alt="Screen Shot 2015-11-18 at 10.02.51 AM" width="500" height="177" srcset="/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-1024x362.png 1024w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-300x106.png 300w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-768x271.png 768w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-1536x542.png 1536w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-1200x424.png 1200w, /wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM.png 1648w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM.png"><img loading="lazy" class="alignnone wp-image-2362 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-1024x362.png" alt="Screen Shot 2015-11-18 at 10.02.51 AM" width="500" height="177" srcset="/blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-1024x362.png 1024w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-300x106.png 300w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-768x271.png 768w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-1536x542.png 1536w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM-1200x424.png 1200w, /blog_archive/wp-content/uploads/2015/11/Screen-Shot-2015-11-18-at-10.02.51-AM.png 1648w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>In a move that surely would appease the writers of the article Dan referenced in his post, 2 students voted for the left one, and 12 voted for the right.</p>
 <p>I&#8217;m not sure what these results mean aside from the comments I&#8217;ve already shared. I think it would be easy for Garelick and Beals to point to the preferences of my students as evidence that supports their argument. I think the role of showing answers in this context are different from one of testing, which is one complication of this result. The other is that my question on answers being &#8216;helpful&#8217; might be dramatically different from asking which answers best show &#8216;understanding&#8217;.</p>
 <p>Certainly a more carefully designed experiment might tease out more. This might be the sort of task to use <a href="https://teacher.desmos.com/activitybuilder">Desmos Activity Builder</a> or PearDeck to give students a chance to share their thoughts in a less public setting.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/11/18/my-unscientific-case-study-on-helpful-explanations/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/11/18/my-unscientific-case-study-on-helpful-explanations/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2358</post-id>	</item>
 		<item>
 		<title>Crutches and Exponents</title>
-		<link>/2015/10/29/crutches-and-exponents/</link>
-					<comments>/2015/10/29/crutches-and-exponents/#comments</comments>
+		<link>/blog_archive/2015/10/29/crutches-and-exponents/</link>
+					<comments>/blog_archive/2015/10/29/crutches-and-exponents/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 29 Oct 2015 01:50:24 +0000</pubDate>
 				<category><![CDATA[studentwork]]></category>
 		<category><![CDATA[teaching stories]]></category>
 		<category><![CDATA[exponents]]></category>
-		<guid isPermaLink="false">/?p=2338</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2338</guid>
 
 					<description><![CDATA[Math teachers frequently discuss how students forget what the exponent rules actually mean when they make mistakes applying them. The layer of abstraction that these rules lay over the numbers and operations is at fault, of course. The reason we teach the rules is that they show structure that goes]]></description>
 										<content:encoded><![CDATA[<p>Math teachers frequently discuss how students forget what the exponent rules actually mean when they make mistakes applying them. The layer of abstraction that these rules lay over the numbers and operations is at fault, of course. The reason we teach the rules is that they show structure that goes beyond the operations. They simplify our work in calculating expressions.</p>
 <p>I was really glad that a student used this approach today when she forgot the rules:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM.png"><img loading="lazy" class="alignnone size-full wp-image-2339" src="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM.png" alt="Screen Shot 2015-10-29 at 9.38.07 AM" width="792" height="182" srcset="/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM.png 792w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM-300x69.png 300w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM-768x176.png 768w" sizes="(max-width: 792px) 100vw, 792px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM.png"><img loading="lazy" class="alignnone size-full wp-image-2339" src="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM.png" alt="Screen Shot 2015-10-29 at 9.38.07 AM" width="792" height="182" srcset="/blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM.png 792w, /blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM-300x69.png 300w, /blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.38.07-AM-768x176.png 768w" sizes="(max-width: 792px) 100vw, 792px" /></a></p>
 <p>I would much rather a student move back to a method they know rather than blindly apply the rules they don&#8217;t. This method, or crutch, is less efficient, but holds more meaning for the student. We dissuade students from crutches like counting on their fingers because they <u>should</u> be able to do the arithmetic in other ways. Building meaning is important, however, and the better approach would be to show how learning the mathematical ideas and structures can simplify the process. In speaking with this student afterwards, it was clear that going back to this method that we used to motivate the rule helped her understand what it meant.</p>
 <p>I continued with this approach in reviewing zero and negative exponents today. Of the students that said they knew the rule already, only a couple of them actually applied it correctly before we did this activity. I primed the class with this:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM.png"><img loading="lazy" class="alignnone size-large wp-image-2340" src="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-1024x494.png" alt="Screen Shot 2015-10-29 at 9.41.32 AM" width="500" height="241" srcset="/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-1024x494.png 1024w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-300x145.png 300w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-768x371.png 768w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-1536x741.png 1536w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-1200x579.png 1200w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM.png 1844w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM.png"><img loading="lazy" class="alignnone size-large wp-image-2340" src="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-1024x494.png" alt="Screen Shot 2015-10-29 at 9.41.32 AM" width="500" height="241" srcset="/blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-1024x494.png 1024w, /blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-300x145.png 300w, /blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-768x371.png 768w, /blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-1536x741.png 1536w, /blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM-1200x579.png 1200w, /blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.41.32-AM.png 1844w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>Students worked in groups to apply the rules and rewrite them, and I nudged them gently with using what they saw as motivation for rules about zero and negative exponents. From this, I introduced a new crutch as a way to show what negative exponents mean:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.43.48-AM.png"><img loading="lazy" class="alignnone wp-image-2341 size-medium" src="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.43.48-AM-201x300.png" alt="Screen Shot 2015-10-29 at 9.43.48 AM" width="201" height="300" srcset="/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.43.48-AM-201x300.png 201w, /wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.43.48-AM.png 322w" sizes="(max-width: 201px) 100vw, 201px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.43.48-AM.png"><img loading="lazy" class="alignnone wp-image-2341 size-medium" src="http://blog.evanweinberg.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.43.48-AM-201x300.png" alt="Screen Shot 2015-10-29 at 9.43.48 AM" width="201" height="300" srcset="/blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.43.48-AM-201x300.png 201w, /blog_archive/wp-content/uploads/2015/10/Screen-Shot-2015-10-29-at-9.43.48-AM.png 322w" sizes="(max-width: 201px) 100vw, 201px" /></a></p>
 <p>Just as the student wrote out the factors and then divided them out in the problem above, I don&#8217;t mind if a student does this as a reminder of what the rule means. I find this much more productive than a simple rule that states that fractions to a negative power simply &#8216;flip&#8217;. Hopefully I&#8217;ll see the benefits of this approach moving forward.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/10/29/crutches-and-exponents/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/10/29/crutches-and-exponents/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2338</post-id>	</item>
 		<item>
 		<title>Student Feedback on Class Notebooks</title>
-		<link>/2015/10/21/student-feedback-on-class-notebooks/</link>
-					<comments>/2015/10/21/student-feedback-on-class-notebooks/#respond</comments>
+		<link>/blog_archive/2015/10/21/student-feedback-on-class-notebooks/</link>
+					<comments>/blog_archive/2015/10/21/student-feedback-on-class-notebooks/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 21 Oct 2015 14:44:09 +0000</pubDate>
 				<category><![CDATA[studentwork]]></category>
 		<category><![CDATA[teaching philosophy]]></category>
 		<category><![CDATA[OneNote]]></category>
-		<guid isPermaLink="false">/?p=2327</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2327</guid>
 
 					<description><![CDATA[There have been a lot of great moments since I started using a OneNote class notebook as my main repository for class notes. I wrote previously about what I was doing differently, and a lot has happened since then. The blog post in which I detail those developments is coming,]]></description>
-										<content:encoded><![CDATA[<p>There have been a lot of great moments since I started using a OneNote class notebook as my main repository for class notes. <a href="/2015/08/30/rethinking-class-notes-with-onenote/">I wrote previously</a> about what I was doing differently, and a lot has happened since then. The blog post in which I detail those developments is coming, I promise.</p>
+										<content:encoded><![CDATA[<p>There have been a lot of great moments since I started using a OneNote class notebook as my main repository for class notes. <a href="http://evanweinberg.com/2015/08/30/rethinking-class-notes-with-onenote/">I wrote previously</a> about what I was doing differently, and a lot has happened since then. The blog post in which I detail those developments is coming, I promise.</p>
 <p>To tide you over, I&#8217;ll share this great note that a student wrote in a portfolio reflection before the first quarter reports about our use of OneNote. I think it pretty much sums up why it has <u>totally</u> been worth making a fundamental change to the normal structure of class notes in my classroom. Here&#8217;s the student:</p>
 <blockquote><p>
 For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able to record the class notes and upload the practice problems for every section online, and share freely. As we got to make our own reviews and share with the whole class, I had more opportunities to go over again with all the tiny details to find any mistakes since I did not want my classmates to learn something incorrect because of me. Therefore, not only my friends could get better understanding, but I could have a more thorough review and have better understanding too. Last time I worked for it, I was working as a group with _______. She organized the information that we learned in class, and I did the practice questions. I used to skip many steps in between the calculation and solving process, but this time I did all the question step by step, even for the questions that looked obvious to me, just to help out my friends’ understanding.</p></blockquote>
 <p>I did feel the need to correct the record with this student that I didn&#8217;t actually create OneNote. Aside from that, this is the kind of perfect validation that I&#8217;ll take from students any day of the week.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/10/21/student-feedback-on-class-notebooks/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/10/21/student-feedback-on-class-notebooks/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2327</post-id>	</item>
 		<item>
 		<title>MeteorPad Tutorial: GoldMine</title>
-		<link>/2015/06/27/meteorpad-tutorial-goldmine/</link>
-					<comments>/2015/06/27/meteorpad-tutorial-goldmine/#respond</comments>
+		<link>/blog_archive/2015/06/27/meteorpad-tutorial-goldmine/</link>
+					<comments>/blog_archive/2015/06/27/meteorpad-tutorial-goldmine/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 27 Jun 2015 05:53:35 +0000</pubDate>
@@ -237,25 +237,25 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 		<category><![CDATA[k12]]></category>
 		<category><![CDATA[meteor]]></category>
 		<category><![CDATA[web design]]></category>
-		<guid isPermaLink="false">/?p=2242</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2242</guid>
 
 					<description><![CDATA[In a unit on Meteor applications for my web design class, I wrote a series of applications to help my students see the basic structure of a few Meteor applications so that they could eventually design their own. The students had seen applications that tallied votes from a survey, compiled]]></description>
 										<content:encoded><![CDATA[<p>In a unit on <a href="http://www.meteor.com/">Meteor</a> applications for my web design class, I wrote a series of applications to help my students see the basic structure of a few Meteor applications so that they could eventually design their own. The students had seen applications that tallied votes from a survey, compiled links, and a simple blog. This one was about being competitive, and the students were understandably into it.</p>
 <p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/2fHQ2v5_oSk" frameborder="0" allowfullscreen></iframe></p>
 <p>This tutorial was designed to use <a href="http://www.meteorpad.com/">MeteorPad</a> due to some challenges associated with installing Meteor on student computers. The first one involved permissions issues since students are not by default given access to the terminal. The second involved connectivity issues to the Meteor servers from China, which unfortunately, I never fully resolved. MeteorPad offered an awesome balance between ease of making an application and minimizing the need for Terminal. For anyone looking to get started with Meteor, I recommend trying out MeteorPad as it doesn&#8217;t require any knowledge of working in the terminal or software installation.</p>
-<p>I was able to take data on the students clicking away as I created new pieces of gold and put it out into the field. I&#8217;ve <a href="/2015/03/13/clicking-useless-buttons-and-exponential-models/">written previously </a>about <a href="/2015/05/22/reaction-time-web-data-collection/">my enthusiasm </a>for collecting <a href="/2014/05/21/testing-probability-theories-with-students/">data through clicks</a>, so this was another fun source of data. </p>
+<p>I was able to take data on the students clicking away as I created new pieces of gold and put it out into the field. I&#8217;ve <a href="http://evanweinberg.com/2015/03/13/clicking-useless-buttons-and-exponential-models/">written previously </a>about <a href="http://evanweinberg.com/2015/05/22/reaction-time-web-data-collection/">my enthusiasm </a>for collecting <a href="http://evanweinberg.com/2014/05/21/testing-probability-theories-with-students/">data through clicks</a>, so this was another fun source of data. </p>
 <p>Code <a href="https://github.com/emwdx/day4---GoldMine">can be downloaded here</a> from Github.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/06/27/meteorpad-tutorial-goldmine/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/06/27/meteorpad-tutorial-goldmine/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2242</post-id>	</item>
 		<item>
 		<title>Online School Resumes with Meteor</title>
-		<link>/2015/04/27/online-school-resumes-with-meteor/</link>
-					<comments>/2015/04/27/online-school-resumes-with-meteor/#respond</comments>
+		<link>/blog_archive/2015/04/27/online-school-resumes-with-meteor/</link>
+					<comments>/blog_archive/2015/04/27/online-school-resumes-with-meteor/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 27 Apr 2015 06:23:04 +0000</pubDate>
@@ -264,10 +264,10 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 		<category><![CDATA[meteor]]></category>
 		<category><![CDATA[student work]]></category>
 		<category><![CDATA[web design]]></category>
-		<guid isPermaLink="false">/?p=2187</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2187</guid>
 
 					<description><![CDATA[As you may know, I&#8217;ve been teaching a web programming course this year. I wrote previously about the work we did at the beginning of the year making interactive websites using the Meteor framework. Since then, we&#8217;ve spent time exploring the use of templates, event handlers, databases, and routing to]]></description>
-										<content:encoded><![CDATA[<p>As you may know, I&#8217;ve been teaching a web programming course this year. I wrote previously about <a href="/2015/01/24/web-application-design-class-and-meteor/" title="Web Application Design Class and Meteor">the work we did at the beginning</a> of the year making interactive websites using the Meteor framework. Since then, we&#8217;ve spent time exploring the use of templates, event handlers, databases, and routing to build single page applications.</p>
+										<content:encoded><![CDATA[<p>As you may know, I&#8217;ve been teaching a web programming course this year. I wrote previously about <a href="http://evanweinberg.com/2015/01/24/web-application-design-class-and-meteor/" title="Web Application Design Class and Meteor">the work we did at the beginning</a> of the year making interactive websites using the Meteor framework. Since then, we&#8217;ve spent time exploring the use of templates, event handlers, databases, and routing to build single page applications.</p>
 <p>The latest assignment I gave students was to create an online school resume site with a working guestbook. I frequently discuss the importance of having a positive digital footprint online, and one of the most beneficial ways of establishing this is through a site created to share their work. Students worked last week to complete this and submitted their projects. We&#8217;ve had connectivity issues to the Meteor servers from China from school. As a result, some students used Meteorpad, which unfortunately means their sites aren&#8217;t permanent. </p>
 <p>Those that were successful at deploying, however, have persistent guestbooks that anyone can visit and comment upon. Some students added secret pages or like buttons to show that they have learned how to use the reactive features of Meteor. The students were excited when I said I would post links on my blog and have given me permission to share. Here is the set of deployed sites:</p>
 <p><a href="http://beabasbas.meteor.com/" title="Maria's Site">Maria&#8217;s Site</a><br />
@@ -280,15 +280,15 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 <p>If anyone wants recommendations for a summer hire, let me know.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/04/27/online-school-resumes-with-meteor/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/04/27/online-school-resumes-with-meteor/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2187</post-id>	</item>
 		<item>
 		<title>Before a Break: CCSS Math, Bogram Problems, and Peer Feedback</title>
-		<link>/2015/03/27/before-a-break-ccss-math-bogram-problems-and-peer-feedback/</link>
-					<comments>/2015/03/27/before-a-break-ccss-math-bogram-problems-and-peer-feedback/#respond</comments>
+		<link>/blog_archive/2015/03/27/before-a-break-ccss-math-bogram-problems-and-peer-feedback/</link>
+					<comments>/blog_archive/2015/03/27/before-a-break-ccss-math-bogram-problems-and-peer-feedback/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 27 Mar 2015 09:52:32 +0000</pubDate>
@@ -300,7 +300,7 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 		<category><![CDATA[pd]]></category>
 		<category><![CDATA[standards mathematical practice]]></category>
 		<category><![CDATA[writing in math]]></category>
-		<guid isPermaLink="false">/?p=2118</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2118</guid>
 
 					<description><![CDATA[I spent the day in a room full of my colleagues as part of our school&#8217;s official transition to using the Common Core standards for mathematics. While I&#8217;ve kept up to date with the development of CCSS and the roll-out from here in China, it was helpful to have some]]></description>
 										<content:encoded><![CDATA[<p>I spent the day in a room full of my colleagues as part of our school&#8217;s official transition to using the Common Core standards for mathematics. While I&#8217;ve kept up to date with the development of CCSS and the roll-out from here in China, it was helpful to have some in-person explanation of the details from some experts who have been part of it in the US. Our guests were <a href="http://www.callahan-consulting.org/about/">Dr. Patrick Callahan</a> from the Illustrative Mathematics group and <a href="http://themathymurk.blogspot.com/">Jessica Balli</a>, who is currently teaching and consulting in Northern California.</p>
@@ -327,15 +327,15 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 <p>Overall, it was a great set of activities to get us thinking about SMP3 (Construct viable arguments and critique the reasoning of others) and attending to precision of ideas through use of mathematics. I&#8217;m glad to have a few days of rest ahead to let this all sink in before planning the last couple of months of the school year. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/03/27/before-a-break-ccss-math-bogram-problems-and-peer-feedback/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/03/27/before-a-break-ccss-math-bogram-problems-and-peer-feedback/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2118</post-id>	</item>
 		<item>
 		<title>Math Caching and Immediately Useful Teaching Data</title>
-		<link>/2013/09/20/math-caching-and-immediately-useful-teaching-data/</link>
-					<comments>/2013/09/20/math-caching-and-immediately-useful-teaching-data/#comments</comments>
+		<link>/blog_archive/2013/09/20/math-caching-and-immediately-useful-teaching-data/</link>
+					<comments>/blog_archive/2013/09/20/math-caching-and-immediately-useful-teaching-data/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 20 Sep 2013 15:49:32 +0000</pubDate>
@@ -346,16 +346,16 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 		<category><![CDATA[math cache]]></category>
 		<category><![CDATA[python]]></category>
 		<category><![CDATA[student work]]></category>
-		<guid isPermaLink="false">/?p=1746</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=1746</guid>
 
 					<description><![CDATA[Last July, I posted a video in which I showed how to create a local, customized version of the Math Caching activity that can be found here. I was inspired to revisit the idea last weekend reading Dan Meyer&#8217;s post about teacher dashboards. The part that got me thinking, and]]></description>
 										<content:encoded><![CDATA[<p>Last July, <a href="http://www.youtube.com/watch?v=ylUzk3q5SS8">I posted a video</a> in which I showed how to create a local, customized version of the Math Caching activity that can be found <a href="http://mathbits.com/caching/opencache1.html">here</a>.</p>
 <p>I was inspired to revisit the idea last weekend reading <a href="http://blog.mrmeyer.com/?p=17265">Dan Meyer&#8217;s post about teacher dashboards</a>. The part that got me thinking, and that stoked the fire that has been going in my head for a while, is identifying the information that is most useful to teachers. There are common errors that an experienced teacher knows to expect, but a new teacher may not recognize is common until it is too late. Getting a measure of wrong answers, and more importantly, the origin of those wrong answers, is where we ideally should be making the most of the technology in our (and the students&#8217;) hands. Anything that streamlines the process of getting a teacher to see the details of what students are doing incorrectly (and not just that they are getting something wrong) is valuable. The <u>only</u> way I get this information is by looking at student work. I need to get my hands on student responses as quickly as I can to make sense of what they are thinking.</p>
 <p>As we were closing in on the end of an algebra review unit with the ninth graders this week, I realized that the math cache concept was good and fun and at a minimum was a remastering of the review sheet for a one-to-one laptop classroom. I came up with a number of questions and loaded it into the Python program. When one of my Calculus students stopped in to chat, and I showed her what I had put together, I told her that I was thinking of adding a step where students had to upload a screenshot of their written work in addition to entering their answer into the location box. She stared at me and said blankly: &#8216;You absolutely have to do that. They&#8217;ll cheat otherwise.&#8217; </p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM-300x95.png" alt="Screen Shot 2013-09-20 at 11.23.26 PM" width="300" height="95" class="alignnone size-medium wp-image-1747" srcset="/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM-300x95.png 300w, /wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM-768x244.png 768w, /wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM.png 1002w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM-300x95.png" alt="Screen Shot 2013-09-20 at 11.23.26 PM" width="300" height="95" class="alignnone size-medium wp-image-1747" srcset="/blog_archive/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM-300x95.png 300w, /blog_archive/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM-768x244.png 768w, /blog_archive/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.23.26-PM.png 1002w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>While I was a bit more optimistic, I&#8217;m glad that I took the extra time to add an upload button on the page. I configured the program so that each image that was uploaded was also labeled with the answer that the student entered into the box. This way, given that I knew what the correct answers were, I knew which images I might want to look at to know what students were getting wrong. </p>
 <p>This was pure gold.</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM.png" alt="Screen Shot 2013-09-20 at 11.30.23 PM" width="1182" height="515" class="alignnone size-full wp-image-1748" srcset="/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM.png 1182w, /wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM-300x131.png 300w, /wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM-1024x446.png 1024w, /wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM-768x335.png 768w" sizes="(max-width: 1182px) 100vw, 1182px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM.png" alt="Screen Shot 2013-09-20 at 11.30.23 PM" width="1182" height="515" class="alignnone size-full wp-image-1748" srcset="/blog_archive/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM.png 1182w, /blog_archive/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM-300x131.png 300w, /blog_archive/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM-1024x446.png 1024w, /blog_archive/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.30.23-PM-768x335.png 768w" sizes="(max-width: 1182px) 100vw, 1182px" /></a></p>
 <p>Material like this was quickly filling up the image directory, and I watched it happening. I immediately knew which students I needed to have a conversation with. The answers ranged from &#8216;no solution&#8217; to &#8216;identity&#8217; to &#8216;x = 0&#8217; and I instantly had material to start a conversation with the class. Furthermore, I didn&#8217;t need to throw out the tragically predictable &#8216;who wants to share their work&#8217; to a class of students that don&#8217;t tend to want to share for all sorts of valid reasons. I didn&#8217;t have to cold call a student to reluctantly show what he or she did for the problem. I had their work and could hand pick what I wanted to share with the class while maintaining their anonymity. We could quickly look at multiple students&#8217; work and talk about the positive aspects of each one, while highlighting ways to make it even better.</p>
 <p>In this problem, we had a fantastic discussion about communicating both reasoning and process:</p>
 <p><a href="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.43.02-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/09/Screen-Shot-2013-09-20-at-11.43.02-PM-300x114.png" alt="Screen Shot 2013-09-20 at 11.43.02 PM" width="300" height="114" class="alignnone size-medium wp-image-1749" /></a></p>
@@ -364,15 +364,15 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 <p>I was blown away with how my crude hack to add this feature this morning made the class period a much richer opportunity to get students sharing and talking about their work. Now I&#8217;m excited to work on the next iteration of this idea. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/09/20/math-caching-and-immediately-useful-teaching-data/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/09/20/math-caching-and-immediately-useful-teaching-data/feed/</wfw:commentRss>
 			<slash:comments>18</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1746</post-id>	</item>
 		<item>
 		<title>Computational Thinking &#038; Spreadsheets</title>
-		<link>/2013/02/01/computational-thinking-spreadsheets/</link>
-					<comments>/2013/02/01/computational-thinking-spreadsheets/#respond</comments>
+		<link>/blog_archive/2013/02/01/computational-thinking-spreadsheets/</link>
+					<comments>/blog_archive/2013/02/01/computational-thinking-spreadsheets/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 01 Feb 2013 11:46:11 +0000</pubDate>
@@ -381,7 +381,7 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 		<category><![CDATA[robotics]]></category>
 		<category><![CDATA[studentwork]]></category>
 		<category><![CDATA[teaching stories]]></category>
-		<guid isPermaLink="false">/?p=922</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=922</guid>
 
 					<description><![CDATA[I feel sorry for the way spreadsheets are used most of the time in school. They are usually used as nothing more than a waypoint on the way to a chart or graph, inevitably with one of its data sets labeled &#8216;Series 1&#8217;. The most powerful uses of spreadsheets come]]></description>
 										<content:encoded><![CDATA[<p>I feel sorry for the way spreadsheets are used most of the time in school. They are usually used as nothing more than a waypoint on the way to a chart or graph, inevitably with one of its data sets labeled &#8216;Series 1&#8217;. The most powerful uses of spreadsheets come from how they provide ways to organize and calculate easily.</p>
@@ -392,7 +392,7 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 <li>Showing calculations in a hand written document is easy &#8211; doing so in a document that is to be shared electronically is more difficult. There are also different times when you want to see how the calculation was made, and other times that you want to see the results. These are often presented in different parts of a report (body vs. appendix) but in a digital document, this isn&#8217;t entirely necessary.</li>
 </ul>
 <p style="text-align:center;">Here&#8217;s my model for how a spreadsheet can address some of these issues:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png"><img loading="lazy" class="aligncenter size-large wp-image-930" alt="Screen Shot 2013-02-01 at 7.47.59 PM" src="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png?w=500" width="500" height="161" srcset="/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png 803w, /wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-300x97.png 300w, /wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-768x249.png 768w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png"><img loading="lazy" class="aligncenter size-large wp-image-930" alt="Screen Shot 2013-02-01 at 7.47.59 PM" src="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png?w=500" width="500" height="161" srcset="/blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png 803w, /blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-300x97.png 300w, /blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-768x249.png 768w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>Why I like it:</p>
 <ul>
 <li>The student puts all of the given information at the top. This information may be important or used for subsequent calculations, or not. It minimally has all of the information used to solve a problem in one place.</li>
@@ -424,7 +424,7 @@ For this quarter, Mr.Weinberg made us a cool thing called OneNote. We were able 
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/02/01/computational-thinking-spreadsheets/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/02/01/computational-thinking-spreadsheets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

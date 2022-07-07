@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Who&#8217;s gone overboard modeling in Physics? This guy, part I.	</title>
-	<atom:link href="/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/</link>
+	<atom:link href="/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Mon, 25 Aug 2014 16:33:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,27 +23,27 @@
 	<item>
 		<title>
 		By: Incorporating computer simulation/computation in science education &#124; We Are One		</title>
-		<link>/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-146</link>
+		<link>/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-146</link>
 
 		<dc:creator><![CDATA[Incorporating computer simulation/computation in science education &#124; We Are One]]></dc:creator>
 		<pubDate>Mon, 25 Aug 2014 16:33:03 +0000</pubDate>
-		<guid isPermaLink="false">/?p=783#comment-146</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=783#comment-146</guid>
 
-					<description><![CDATA[[&#8230;] /2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/ [&#8230;]]]></description>
-			<content:encoded><![CDATA[<p>[&#8230;] <a href="/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/" rel="nofollow ugc">/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/</a> [&#8230;]</p>
+					<description><![CDATA[[&#8230;] http://evanweinberg.com/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/ [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] <a href="http://evanweinberg.com/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/" rel="nofollow ugc">http://evanweinberg.com/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/</a> [&#8230;]</p>
 ]]></content:encoded>
 		
 			</item>
 		<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-145</link>
+		<link>/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-145</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Wed, 28 Nov 2012 14:41:47 +0000</pubDate>
-		<guid isPermaLink="false">/?p=783#comment-145</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=783#comment-145</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-144&quot;&gt;Kelly O&#039;Shea&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-144&quot;&gt;Kelly O&#039;Shea&lt;/a&gt;.
 
 Hi Kelly,
 
@@ -52,7 +52,7 @@ I guess my main point is this: I can use Newton&#039;s 2nd law to create a singl
 As you said, there is great value in the experience of taking data, but if the set-up does not work (for reasons unrelated to student assumptions or misuse of the equipment), it diverts resources away from the experience of digging in to the measurements students want to make and figuring out what these measurements mean. If the results match observations, this can be a good entry point for learning why. It&#039;s also interesting because if a student asks if they could see acceleration vs. time data for an object in the model, I can simply make that an output. This is a lot easier than trying to locate/attach/troubleshoot an accelerometer just to be able to see what that data looks like.
 
 As for the experimental set-up, I started on the air track because I was using fans that I attached to the air-track carts that weren&#039;t strong enough to propel carts on a horizontal surface with friction. The problem with the data is definitely related to the ultrasonic sensors I am using (Vernier) – even for walking/generating graphs in the constant velocity model, the students needed a 2 ft. square piece of cardboard to avoid getting sudden spikes in the position vs. time data. The system was sensitive to ANY changes in the angle of the surface facing the sensor. I&#039;ll see about posting pictures of the set-up and data if you are up for chatting about it.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-144">Kelly O&#8217;Shea</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-144">Kelly O&#8217;Shea</a>.</p>
 <p>Hi Kelly,</p>
 <p>I guess my main point is this: I can use Newton&#8217;s 2nd law to create a single computational model that is good enough for modeling objects moving at constant velocity/balanced force, constant acceleration, and non-constant acceleration. Students can use this one computational tool to explore all of these ideas, and use it to model the movement of real objects moving around in front of them. </p>
 <p>As you said, there is great value in the experience of taking data, but if the set-up does not work (for reasons unrelated to student assumptions or misuse of the equipment), it diverts resources away from the experience of digging in to the measurements students want to make and figuring out what these measurements mean. If the results match observations, this can be a good entry point for learning why. It&#8217;s also interesting because if a student asks if they could see acceleration vs. time data for an object in the model, I can simply make that an output. This is a lot easier than trying to locate/attach/troubleshoot an accelerometer just to be able to see what that data looks like.</p>
@@ -63,18 +63,18 @@ As for the experimental set-up, I started on the air track because I was using f
 		<item>
 		<title>
 		By: Kelly O'Shea		</title>
-		<link>/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-144</link>
+		<link>/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-144</link>
 
 		<dc:creator><![CDATA[Kelly O'Shea]]></dc:creator>
 		<pubDate>Mon, 19 Nov 2012 11:35:55 +0000</pubDate>
-		<guid isPermaLink="false">/?p=783#comment-144</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=783#comment-144</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-143&quot;&gt;Evan Weinberg&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-143&quot;&gt;Evan Weinberg&lt;/a&gt;.
 
 It sounds like you just need help diagnosing what&#039;s wrong with your equipment. So far, it sounds like the sensor isn&#039;t seeing the object. Why are you using an air track? I&#039;ve never seen anyone do that for the acceleration lab. Can you post a screenshot of what the data looks like and a photo of the setup?
 
 Also, I&#039;m not sure how your third point is satisfying. It still sounds to me like you&#039;re programming a model, then using the program to find a pattern and build a model. Maybe I just don&#039;t understand your point?]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-143">Evan Weinberg</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-143">Evan Weinberg</a>.</p>
 <p>It sounds like you just need help diagnosing what&#8217;s wrong with your equipment. So far, it sounds like the sensor isn&#8217;t seeing the object. Why are you using an air track? I&#8217;ve never seen anyone do that for the acceleration lab. Can you post a screenshot of what the data looks like and a photo of the setup?</p>
 <p>Also, I&#8217;m not sure how your third point is satisfying. It still sounds to me like you&#8217;re programming a model, then using the program to find a pattern and build a model. Maybe I just don&#8217;t understand your point?</p>
 ]]></content:encoded>
@@ -83,13 +83,13 @@ Also, I&#039;m not sure how your third point is satisfying. It still sounds to m
 		<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-143</link>
+		<link>/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-143</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Mon, 19 Nov 2012 08:53:59 +0000</pubDate>
-		<guid isPermaLink="false">/?p=783#comment-143</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=783#comment-143</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-142&quot;&gt;Kelly O&#039;Shea&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-142&quot;&gt;Kelly O&#039;Shea&lt;/a&gt;.
 
 Hi Kelly,
 
@@ -107,7 +107,7 @@ We shouldn&#039;t need to tell our students to ignore large portions of data bec
 I understand and have seen the problem that comes with calculator use. This is different though. The calculator is usually where we (and students) turn to get a single number as an answer. The computer instead generates a whole bunch of calculations based on an organizing premise, and students then have to analyze the results and really understand them to answer the questions we give them. I think the big piece I like is that for some students, a graph is a bit more of an abstraction than they really understand. A student might hear &#039;graph&#039; and connect that to math, and that they don&#039;t like math, and that the graph reminds them of all of the things they don&#039;t like about math, and then that student has suddenly shut down answering the question. That&#039;s a step in the wrong direction. 
 
 It&#039;s inefficient, and ideally we want to push them to see why the graph is a better representation than a table of data. Still, I had one of my weaker students look at the position vs. time data and estimate when velocity was zero with seemingly little effort, while being unable to do so from a graph. That&#039;s hard for me to ignore. If a table of results is concrete enough for my students to be able to answer these types of questions, that&#039;s a good enough starting point for me.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-142">Kelly O&#8217;Shea</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-142">Kelly O&#8217;Shea</a>.</p>
 <p>Hi Kelly,</p>
 <p>I agree with you on the danger of hand waving-as-instructional-model, and it is lurking there in the back of my mind as a foil to the devil that tells me that Python makes it so I never need to do an actual lab again. (Eeek!)  Here are the reasons I have come to terms with using this method for collecting data for an experiment:</p>
 <ul>
@@ -124,11 +124,11 @@ It&#039;s inefficient, and ideally we want to push them to see why the graph is 
 		<item>
 		<title>
 		By: Kelly O'Shea		</title>
-		<link>/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-142</link>
+		<link>/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-142</link>
 
 		<dc:creator><![CDATA[Kelly O'Shea]]></dc:creator>
 		<pubDate>Mon, 19 Nov 2012 00:28:59 +0000</pubDate>
-		<guid isPermaLink="false">/?p=783#comment-142</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=783#comment-142</guid>
 
 					<description><![CDATA[If the computer is programmed with the model, and then you&#039;re using the program to observe a pattern and build a model, you&#039;ll obviously end up with the model that you&#039;ve programmed. Does this seem a bit hand-wave-y to them?
 
@@ -147,18 +147,18 @@ I don&#039;t mean to sound really negative. Just some of the things I&#039;ve be
 		<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-141</link>
+		<link>/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-141</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Sun, 18 Nov 2012 22:28:29 +0000</pubDate>
-		<guid isPermaLink="false">/?p=783#comment-141</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=783#comment-141</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-140&quot;&gt;John Burk&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-140&quot;&gt;John Burk&lt;/a&gt;.
 
 I love his use of the robots - I&#039;m convinced it is the absolute best way to teach the kinematic models. I&#039;ve thought about doing this with LEGO robots, but I haven&#039;t spent the time to address the limited resolution of the rotation sensors in the servo motors. His work deserves to be highlighted by everyone that sees it.
 
 I&#039;m happy with what the simulations have done (and will share more in a future post) about my next steps with the idea. That doesn&#039;t change the fact that I&#039;m really impressed with the robots and the videos he posted on his blog.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-140">John Burk</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-140">John Burk</a>.</p>
 <p>I love his use of the robots &#8211; I&#8217;m convinced it is the absolute best way to teach the kinematic models. I&#8217;ve thought about doing this with LEGO robots, but I haven&#8217;t spent the time to address the limited resolution of the rotation sensors in the servo motors. His work deserves to be highlighted by everyone that sees it.</p>
 <p>I&#8217;m happy with what the simulations have done (and will share more in a future post) about my next steps with the idea. That doesn&#8217;t change the fact that I&#8217;m really impressed with the robots and the videos he posted on his blog.</p>
 ]]></content:encoded>
@@ -167,11 +167,11 @@ I&#039;m happy with what the simulations have done (and will share more in a fut
 		<item>
 		<title>
 		By: John Burk		</title>
-		<link>/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-140</link>
+		<link>/blog_archive/2012/11/13/whos-gone-overboard-modeling-in-physics-this-guy-part-i/#comment-140</link>
 
 		<dc:creator><![CDATA[John Burk]]></dc:creator>
 		<pubDate>Sun, 18 Nov 2012 16:13:53 +0000</pubDate>
-		<guid isPermaLink="false">/?p=783#comment-140</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=783#comment-140</guid>
 
 					<description><![CDATA[Evan,
 I really like this. Have you seen some of the stuff &lt;a href=&quot;http://aphysicsmicrocosm.wordpress.com/2012/11/15/turning-classic-physics-problems-into-lab-practicums-featuring-the-patrolman-and-the-speeder/&quot; rel=&quot;nofollow ugc&quot;&gt;Matt Greenwolfe is doing with scribblar2 robots&lt;/a&gt;? I think you&#039;ll find this interesting and a lot of overlap with what you&#039;re trying to do with your simulations.]]></description>

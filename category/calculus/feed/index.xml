@@ -12,8 +12,8 @@
 
 <channel>
 	<title>calculus</title>
-	<atom:link href="/category/calculus/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/category/calculus/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Tue, 17 May 2016 04:45:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.7.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">180381780</site>	<item>
 		<title>Building Functions &#8211; Thinking Ahead to Calculus</title>
-		<link>/2016/05/17/building-functions-thinking-ahead-to-calculus/</link>
-					<comments>/2016/05/17/building-functions-thinking-ahead-to-calculus/#respond</comments>
+		<link>/blog_archive/2016/05/17/building-functions-thinking-ahead-to-calculus/</link>
+					<comments>/blog_archive/2016/05/17/building-functions-thinking-ahead-to-calculus/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 17 May 2016 04:45:05 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[building]]></category>
 		<category><![CDATA[functions]]></category>
 		<category><![CDATA[modeling]]></category>
-		<guid isPermaLink="false">/?p=2450</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2450</guid>
 
 					<description><![CDATA[My ninth graders are working on building functions and modeling in the final unit of the year. There is plenty of good material out there for doing these tasks as a way to master the Common Core standards that describe these skills. I had a sudden realization that a great]]></description>
 										<content:encoded><![CDATA[<p>My ninth graders are working on building functions and modeling in the final unit of the year. There is plenty of good material out there for doing these tasks as a way to master the<a href="http://www.corestandards.org/Math/Content/HSF/BF/"> Common Core standards </a> that describe these skills. </p>
@@ -43,15 +43,15 @@
 <p>I could be late to this party. My apologies if you realized this well before I did.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/05/17/building-functions-thinking-ahead-to-calculus/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/05/17/building-functions-thinking-ahead-to-calculus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2450</post-id>	</item>
 		<item>
 		<title>#Teachers Coding &#8211; Bingo Cards</title>
-		<link>/2016/01/22/teachers-coding-bingo-cards/</link>
-					<comments>/2016/01/22/teachers-coding-bingo-cards/#comments</comments>
+		<link>/blog_archive/2016/01/22/teachers-coding-bingo-cards/</link>
+					<comments>/blog_archive/2016/01/22/teachers-coding-bingo-cards/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 22 Jan 2016 02:17:58 +0000</pubDate>
@@ -60,7 +60,7 @@
 		<category><![CDATA[differentiation]]></category>
 		<category><![CDATA[practice]]></category>
 		<category><![CDATA[problems]]></category>
-		<guid isPermaLink="false">/?p=2374</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2374</guid>
 
 					<description><![CDATA[When I attended a Calculus AB workshop back in 2003, one of the nice takeaways was a huge binder of materials that could be used immediately with students. I ended up scanning much of those materials and taking the digital versions with me when I moved overseas. One of these]]></description>
 										<content:encoded><![CDATA[<p>When I attended a Calculus AB workshop back in 2003, one of the nice takeaways was a huge binder of materials that could be used immediately with students. I ended up scanning much of those materials and taking the digital versions with me when I moved overseas.</p>
@@ -68,26 +68,26 @@
 <p>It also wasn&#8217;t as fun of an activity for two reasons. The first was that I only had one bingo card provided as part of the activity. Since everyone had the same card, everyone would really obtain five in a row after doing the same set of problems. Yes, I could have made different ones at some point in the past twelve years to resolve this problem, but I never thought about it with enough advance time to do so. The other reason was that the order of the list of derivatives was carefully designed so that you only obtained five in a row after doing most of the problems provided. Good for the purposes of getting students to do more practice, but definitely an attribute that hacks the entertainment value even more.</p>
 <p>As you might expect, I wrote a computer tool to manage this. You can visit <a href="http://emwdx.github.io/bingo/">this site</a> and see a sample card. Reload the page, and you&#8217;ll generate a new one.</p>
 <p>This turned into a nice little competition between groups of students, and I kept a tally of how many total rows had been matched by each group as they developed. The different cards led to some great conversations between students about their results:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM.png" rel="attachment wp-att-2376"><img loading="lazy" class="aligncenter wp-image-2376 size-medium" src="http://blog.evanweinberg.org/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM-231x300.png" alt="Screen Shot 2016-01-22 at 10.13.05 AM" width="231" height="300" srcset="/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM-231x300.png 231w, /wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM-787x1024.png 787w, /wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM-768x999.png 768w, /wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM.png 1002w" sizes="(max-width: 231px) 100vw, 231px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM.png" rel="attachment wp-att-2376"><img loading="lazy" class="aligncenter wp-image-2376 size-medium" src="http://blog.evanweinberg.org/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM-231x300.png" alt="Screen Shot 2016-01-22 at 10.13.05 AM" width="231" height="300" srcset="/blog_archive/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM-231x300.png 231w, /blog_archive/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM-787x1024.png 787w, /blog_archive/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM-768x999.png 768w, /blog_archive/wp-content/uploads/2016/01/Screen-Shot-2016-01-22-at-10.13.05-AM.png 1002w" sizes="(max-width: 231px) 100vw, 231px" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>I use the <a href="https://github.com/Khan/KaTeX">KaTEX rendering library</a> to make the mathematical expressions look good. If you would like to edit the files for use with your own class, <a href="https://github.com/emwdx/bingo">you can go to the GitHub repository here</a> and download a zip file with all of the files. You&#8217;ll find instructions there for changing the code to fit your needs. If those instructions don&#8217;t make sense to you, let me know.</p>
-<p>If you would just like a set of cards for the derivative practice activity that is ready for use with a class, that PDF is here: <a href="/wp-content/uploads/2016/01/derivative-bingo-class-files.zip" rel="">derivative-bingo-class-files</a></p>
+<p>If you would just like a set of cards for the derivative practice activity that is ready for use with a class, that PDF is here: <a href="http://evanweinberg.com/wp-content/uploads/2016/01/derivative-bingo-class-files.zip" rel="">derivative-bingo-class-files</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/01/22/teachers-coding-bingo-cards/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/01/22/teachers-coding-bingo-cards/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2374</post-id>	</item>
 		<item>
 		<title>Intermediate Value Theorem &#038; Elevators</title>
-		<link>/2013/09/25/intermediate-value-theorem-elevators/</link>
-					<comments>/2013/09/25/intermediate-value-theorem-elevators/#comments</comments>
+		<link>/blog_archive/2013/09/25/intermediate-value-theorem-elevators/</link>
+					<comments>/blog_archive/2013/09/25/intermediate-value-theorem-elevators/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 25 Sep 2013 12:38:22 +0000</pubDate>
@@ -95,7 +95,7 @@
 		<category><![CDATA[teaching stories]]></category>
 		<category><![CDATA[elevators]]></category>
 		<category><![CDATA[intermediate value theorem]]></category>
-		<guid isPermaLink="false">/?p=1751</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=1751</guid>
 
 					<description><![CDATA[I&#8217;ve used the elevator analogy with the intermediate value theorem before, but only after talking students through the intermediate value theorem first. This time, I took them through the following thought experiment first: Step 1: You enter the elevator on floor 2. You close your eyes and keep them closed]]></description>
 										<content:encoded><![CDATA[<p>I&#8217;ve used the elevator analogy with the intermediate value theorem before, but only after talking students through the intermediate value theorem first. This time, I took them through the following thought experiment first:</p>
@@ -134,15 +134,15 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 <p>This was a fun activity, and I&#8217;m glad I went through it. The concept of IVT is fairly intuitive, but we often present it in a way that doesn&#8217;t emphasize why it is special. In previous years, I started with the graph of a polynomial function bouncing up and down, asked students for the max/minimum value, and then asked them to identify whether they could do this for any value in the range between the maximum and minimum. They could, but never really saw the point of why that was special. Forcing them to imagine closing their eyes, limiting the information available to them, and then seeing how far they could take that limited knowledge made a difference in how this felt on the teaching end. I&#8217;ve seen some pretty good responses on my assessments of this concept as well, so it seems to have done some good for the students as well. (Phew!)</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/09/25/intermediate-value-theorem-elevators/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/09/25/intermediate-value-theorem-elevators/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1751</post-id>	</item>
 		<item>
 		<title>2012-2013 Year In Review – Learning Standards</title>
-		<link>/2013/06/26/2012-2013-year-in-review-learning-standards/</link>
-					<comments>/2013/06/26/2012-2013-year-in-review-learning-standards/#respond</comments>
+		<link>/blog_archive/2013/06/26/2012-2013-year-in-review-learning-standards/</link>
+					<comments>/blog_archive/2013/06/26/2012-2013-year-in-review-learning-standards/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 26 Jun 2013 14:26:24 +0000</pubDate>
@@ -156,11 +156,11 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 		<category><![CDATA[learning standards]]></category>
 		<category><![CDATA[SBG]]></category>
 		<category><![CDATA[year in review]]></category>
-		<guid isPermaLink="false">/?p=1530</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=1530</guid>
 
 					<description><![CDATA[This is the second post reflecting on this past year and I what I did with my students. My first post is located here. I wrote about this year being the first time I went with standards based grading. One of the most important aspects of this process was creating]]></description>
 										<content:encoded><![CDATA[<p>This is the second post reflecting on this past year and I what I did with my students.</p>
-<p>My first post is located <a href="/2013/06/24/2012-2013-year-in-review-standards-based-grading/">here</a>. I wrote about this year being the first time I went with standards based grading. One of the most important aspects of this process was creating the learning standards that focused the work of each unit.</p>
+<p>My first post is located <a href="http://evanweinberg.com/2013/06/24/2012-2013-year-in-review-standards-based-grading/">here</a>. I wrote about this year being the first time I went with standards based grading. One of the most important aspects of this process was creating the learning standards that focused the work of each unit.</p>
 <h3>What did I do?</h3>
 <p>I set out to create learning standards for each unit of my courses: Geometry, Advanced Algebra (not my title &#8211; this was an Algebra 2 sans trig), Calculus, and Physics. While I wanted to be able to do this for the entire semester at the beginning of the semester, I ended up doing it unit by unit due to time constraints. The content of my courses didn&#8217;t change relative to what I had done in previous years though, so it was more of a matter of deciding what themes existed in the content that could be distilled into standards. This involved some combination of concepts into one to prevent the situation of having too many. In some ways, this was a neat exercise to see that two separate concepts really weren&#8217;t that different. For example, seeing absolute value equations and inequalities as the same standard led to both a presentation and an assessment process that emphasized the common application of the absolute value definition to both situations.</p>
 <h3>What worked:</h3>
@@ -182,15 +182,15 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 <p>I&#8217;d love to hear your comments on these standards or on the post &#8211; comment away please!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/06/26/2012-2013-year-in-review-learning-standards/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/06/26/2012-2013-year-in-review-learning-standards/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1530</post-id>	</item>
 		<item>
 		<title>Volumes of Revolution &#8211; Using This Stuff.</title>
-		<link>/2013/04/08/volumes-of-revolution-using-this-stuff/</link>
-					<comments>/2013/04/08/volumes-of-revolution-using-this-stuff/#comments</comments>
+		<link>/blog_archive/2013/04/08/volumes-of-revolution-using-this-stuff/</link>
+					<comments>/blog_archive/2013/04/08/volumes-of-revolution-using-this-stuff/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 08 Apr 2013 08:37:17 +0000</pubDate>
@@ -198,14 +198,14 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 		<category><![CDATA[geogebra]]></category>
 		<category><![CDATA[teaching stories]]></category>
 		<category><![CDATA[volumes of revolution]]></category>
-		<guid isPermaLink="false">/?p=1366</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=1366</guid>
 
 					<description><![CDATA[As an activity before our spring break, the Calculus class put its knowledge of finding volumes of revolution to, well, find volumes of things. It was easy to find different containers to use for this &#8211; a sample: We used Geogebra to place points and model the profile of the]]></description>
 										<content:encoded><![CDATA[<p>As an activity before our spring break, the Calculus class put its knowledge of finding volumes of revolution to, well, find volumes of things. It was easy to find different containers to use for this &#8211; a sample:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2013/04/dsc_0164.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/04/dsc_0164.jpg?w=500" alt="DSC_0164" width="500" height="332" class="alignright size-large wp-image-1367" srcset="/wp-content/uploads/2013/04/dsc_0164.jpg 1504w, /wp-content/uploads/2013/04/dsc_0164-300x199.jpg 300w, /wp-content/uploads/2013/04/dsc_0164-1024x681.jpg 1024w, /wp-content/uploads/2013/04/dsc_0164-768x511.jpg 768w, /wp-content/uploads/2013/04/dsc_0164-1200x798.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2013/04/dsc_0164.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/04/dsc_0164.jpg?w=500" alt="DSC_0164" width="500" height="332" class="alignright size-large wp-image-1367" srcset="/blog_archive/wp-content/uploads/2013/04/dsc_0164.jpg 1504w, /blog_archive/wp-content/uploads/2013/04/dsc_0164-300x199.jpg 300w, /blog_archive/wp-content/uploads/2013/04/dsc_0164-1024x681.jpg 1024w, /blog_archive/wp-content/uploads/2013/04/dsc_0164-768x511.jpg 768w, /blog_archive/wp-content/uploads/2013/04/dsc_0164-1200x798.jpg 1200w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p><a href="http://blog.evanweinberg.org/wp-content/uploads/2013/04/img_0573.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/04/img_0573.jpg?w=500" alt="IMG_0573" width="500" height="666" class="alignright size-large wp-image-1368" /></a></p>
 <p>We used Geogebra to place points and model the profile of the containers using polynomials. There were many rich discussions about wise placement of points and which polynomials make more sense to use. One involved the subtle differences between these two profiles and what they meant for the resulting volume through calculus methods:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm.png" alt="Screen Shot 2013-04-08 at 4.19.33 PM" width="500" height="215" class="alignright size-full wp-image-1369" srcset="/wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm.png 830w, /wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm-300x129.png 300w, /wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm-768x331.png 768w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm.png" alt="Screen Shot 2013-04-08 at 4.19.33 PM" width="500" height="215" class="alignright size-full wp-image-1369" srcset="/blog_archive/wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm.png 830w, /blog_archive/wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm-300x129.png 300w, /blog_archive/wp-content/uploads/2013/04/screen-shot-2013-04-08-at-4-19-33-pm-768x331.png 768w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>The task was to predict the volume and then use flasks and graduated cylinders to accurately measure the volume. Lowest error wins. I was happy though that by the end, nobody really cared about &#8216;winning&#8217;. They were motivated themselves to theorize why their calculated answer was above or below, and then adjust their model to test their theories and see how their answer changes. </p>
 <p>As usual, I have editorial reflections:</p>
 <ul>
@@ -215,15 +215,15 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/04/08/volumes-of-revolution-using-this-stuff/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/04/08/volumes-of-revolution-using-this-stuff/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1366</post-id>	</item>
 		<item>
 		<title>Computational Thinking &#038; Spreadsheets</title>
-		<link>/2013/02/01/computational-thinking-spreadsheets/</link>
-					<comments>/2013/02/01/computational-thinking-spreadsheets/#respond</comments>
+		<link>/blog_archive/2013/02/01/computational-thinking-spreadsheets/</link>
+					<comments>/blog_archive/2013/02/01/computational-thinking-spreadsheets/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 01 Feb 2013 11:46:11 +0000</pubDate>
@@ -232,7 +232,7 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 		<category><![CDATA[robotics]]></category>
 		<category><![CDATA[studentwork]]></category>
 		<category><![CDATA[teaching stories]]></category>
-		<guid isPermaLink="false">/?p=922</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=922</guid>
 
 					<description><![CDATA[I feel sorry for the way spreadsheets are used most of the time in school. They are usually used as nothing more than a waypoint on the way to a chart or graph, inevitably with one of its data sets labeled &#8216;Series 1&#8217;. The most powerful uses of spreadsheets come]]></description>
 										<content:encoded><![CDATA[<p>I feel sorry for the way spreadsheets are used most of the time in school. They are usually used as nothing more than a waypoint on the way to a chart or graph, inevitably with one of its data sets labeled &#8216;Series 1&#8217;. The most powerful uses of spreadsheets come from how they provide ways to organize and calculate easily.</p>
@@ -243,7 +243,7 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 <li>Showing calculations in a hand written document is easy &#8211; doing so in a document that is to be shared electronically is more difficult. There are also different times when you want to see how the calculation was made, and other times that you want to see the results. These are often presented in different parts of a report (body vs. appendix) but in a digital document, this isn&#8217;t entirely necessary.</li>
 </ul>
 <p style="text-align:center;">Here&#8217;s my model for how a spreadsheet can address some of these issues:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png"><img loading="lazy" class="aligncenter size-large wp-image-930" alt="Screen Shot 2013-02-01 at 7.47.59 PM" src="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png?w=500" width="500" height="161" srcset="/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png 803w, /wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-300x97.png 300w, /wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-768x249.png 768w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png"><img loading="lazy" class="aligncenter size-large wp-image-930" alt="Screen Shot 2013-02-01 at 7.47.59 PM" src="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png?w=500" width="500" height="161" srcset="/blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png 803w, /blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-300x97.png 300w, /blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-768x249.png 768w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>Why I like it:</p>
 <ul>
 <li>The student puts all of the given information at the top. This information may be important or used for subsequent calculations, or not. It minimally has all of the information used to solve a problem in one place.</li>
@@ -275,15 +275,15 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/02/01/computational-thinking-spreadsheets/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/02/01/computational-thinking-spreadsheets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">922</post-id>	</item>
 		<item>
 		<title>Differentiation Rules &#8211; Making it Interactive</title>
-		<link>/2012/09/27/differentiation-rules-making-it-interactive/</link>
-					<comments>/2012/09/27/differentiation-rules-making-it-interactive/#comments</comments>
+		<link>/blog_archive/2012/09/27/differentiation-rules-making-it-interactive/</link>
+					<comments>/blog_archive/2012/09/27/differentiation-rules-making-it-interactive/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 27 Sep 2012 01:54:42 +0000</pubDate>
@@ -293,7 +293,7 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 		<category><![CDATA[interactive lesson]]></category>
 		<category><![CDATA[limit definition]]></category>
 		<category><![CDATA[power rule]]></category>
-		<guid isPermaLink="false">/?p=769</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=769</guid>
 
 					<description><![CDATA[I always struggle during the days spent going over differentiation rules. The mathematician in me says the students need to see where the rules come from so that they aren&#8217;t just a recipe. On the other hand, I see students glazing over a bit with notation and getting lost in]]></description>
 										<content:encoded><![CDATA[<p>I always struggle during the days spent going over differentiation rules. The mathematician in me says the students need to see where the rules come from so that they aren&#8217;t just a recipe. On the other hand, I see students glazing over a bit with notation and getting lost in the midst of the overall goal: how do we find shortcuts for finding derivative functions outside of using the limit definition every time? </p>
@@ -305,15 +305,15 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 <p>Thank you to <a href="http://mrhonner.com/">Patrick Honner</a> and <a href="http://blog.recursiveprocess.com/">Dan Anderson</a> for their comments pushing me on this.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/09/27/differentiation-rules-making-it-interactive/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2012/09/27/differentiation-rules-making-it-interactive/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">769</post-id>	</item>
 		<item>
 		<title>Why SBG is blowing my mind right now.</title>
-		<link>/2012/09/14/why-sbg-is-blowing-my-mind-right-now/</link>
-					<comments>/2012/09/14/why-sbg-is-blowing-my-mind-right-now/#respond</comments>
+		<link>/blog_archive/2012/09/14/why-sbg-is-blowing-my-mind-right-now/</link>
+					<comments>/blog_archive/2012/09/14/why-sbg-is-blowing-my-mind-right-now/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 14 Sep 2012 01:12:16 +0000</pubDate>
@@ -326,7 +326,7 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 		<category><![CDATA[feedback]]></category>
 		<category><![CDATA[SBG]]></category>
 		<category><![CDATA[video]]></category>
-		<guid isPermaLink="false">/?p=746</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=746</guid>
 
 					<description><![CDATA[I am buzzing right now about my decision to move to Standards Based Grading for this year. The first unit of Calculus was spent doing a quick review of linear functions and characteristics of other functions, and then explored the ideas of limits, instantaneous rate of change, and the area]]></description>
 										<content:encoded><![CDATA[<p>I am buzzing right now about my decision to move to Standards Based Grading for this year. The first unit of Calculus was spent doing a quick review of linear functions and characteristics of other functions, and then explored the ideas of limits, instantaneous rate of change, and the area under curves &#8211; some of the big ideas in Calculus. One of my standards reads &#8220;I can find the limit of a function in indeterminate form at a point using graphical or numerical methods.&#8221;</p>
@@ -336,7 +336,7 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 <p>Getting things like this that have a clear explanation of ideas (on top of production value) is amazing &#8211; it&#8217;s the students choosing a way to demonstrate that they understand something! I love it &#8211; I have given students opportunities to show me that they understand things in the past through quiz retakes and one-on-one interviews about concepts, but it never quite took off until this year when their grade is actually assessed through standards, not Quiz 1, Exam 1.</p>
 <p>I also asked a student about their proficiency on this standard:</p>
 <blockquote><p>I can determine the perimeter and area of complex figures made up of rectangles/ triangles/ circles/ and sections of circles.</p></blockquote>
-<p>I received this: <a href="http://blog.evanweinberg.org/wp-content/uploads/2012/09/20100116161012-507484447.jpg"><img loading="lazy" class="alignleft size-medium wp-image-747" title="20100116161012-507484447" src="http://blog.evanweinberg.org/wp-content/uploads/2012/09/20100116161012-507484447.jpg?w=300" alt="" width="300" height="240" srcset="/wp-content/uploads/2012/09/20100116161012-507484447.jpg 500w, /wp-content/uploads/2012/09/20100116161012-507484447-300x240.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<p>I received this: <a href="http://blog.evanweinberg.org/wp-content/uploads/2012/09/20100116161012-507484447.jpg"><img loading="lazy" class="alignleft size-medium wp-image-747" title="20100116161012-507484447" src="http://blog.evanweinberg.org/wp-content/uploads/2012/09/20100116161012-507484447.jpg?w=300" alt="" width="300" height="240" srcset="/blog_archive/wp-content/uploads/2012/09/20100116161012-507484447.jpg 500w, /blog_archive/wp-content/uploads/2012/09/20100116161012-507484447-300x240.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 &#8230;followed by an explanation of how to find the area of the figure. Where did she get this problem? She made it up.</p>
 <p>I am in the process right now of grading unit exams that students took earlier in the week, and found that the philosophy of these exams under SBG has changed substantially. I no longer have to worry about putting on a problem that is difficult and penalizing students for not making progress on it &#8211; as long as the problem assesses the standards in some way, any other work or insight I get into their understanding in what they try is a bonus. I don&#8217;t have to worry about partial credit &#8211; I can give students feedback in words and comments, not points.</p>
 <p>One last anecdote &#8211; a student had pretty much shown me she was proficient on all of the Algebra 2 standards, and we had a pretty extensive conversation through BlueHarvest discussing the details and her demonstrating her algebraic skills. I was waiting until the exam to mark her proficient since I wanted to see how student performance on the exam was different from performance beforehand. I called time on the exam, and she started tearing up.</p>
@@ -345,15 +345,15 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 <p>I still have students that are struggling. I still have students that haven&#8217;t gone above and beyond to demonstrate proficiency, and that I have to bug in order to figure out what they know. The fact that SBG has allowed some students to really shine and use their talents, relaxed others in the face of assessment anxiety, and has kept other things constant, convinces me that this is a really good thing, well worth the investment of time. I know I&#8217;m just preaching to the SBG crowd as I say this, but it feels good to see the payback coming so quickly after the beginning of the year.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/09/14/why-sbg-is-blowing-my-mind-right-now/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2012/09/14/why-sbg-is-blowing-my-mind-right-now/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">746</post-id>	</item>
 		<item>
 		<title>A sample of my direct instruction videos.</title>
-		<link>/2012/09/02/a-sample-of-my-direct-instruction-videos/</link>
-					<comments>/2012/09/02/a-sample-of-my-direct-instruction-videos/#comments</comments>
+		<link>/blog_archive/2012/09/02/a-sample-of-my-direct-instruction-videos/</link>
+					<comments>/blog_archive/2012/09/02/a-sample-of-my-direct-instruction-videos/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sun, 02 Sep 2012 13:58:48 +0000</pubDate>
@@ -361,7 +361,7 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 		<category><![CDATA[flipped classroom]]></category>
 		<category><![CDATA[limits]]></category>
 		<category><![CDATA[udacity]]></category>
-		<guid isPermaLink="false">/?p=736</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=736</guid>
 
 					<description><![CDATA[As I have previously mentioned, I am really excited to be creating Udacity style videos as resources for students in my classes. With my VideoPress upgrade in effect, I have included some of the two minute videos I put together for Calculus class tomorrow introducing limits. We have already spent]]></description>
 										<content:encoded><![CDATA[<p>As I have previously mentioned, I am really excited to be creating <a href="http://www.udacity.com/">Udacity</a> style videos as resources for students in my classes. With my VideoPress upgrade in effect, I have included some of the two minute videos I put together for Calculus class tomorrow introducing limits. We have already spent some time exploring the concept of limits by graphing and evaluating numerically, but these videos are the start of a more formal treatment of evaluating limits algebraically.</p>
@@ -370,15 +370,15 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 [wpvideo dmB35pg5]</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/09/02/a-sample-of-my-direct-instruction-videos/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2012/09/02/a-sample-of-my-direct-instruction-videos/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">736</post-id>	</item>
 		<item>
 		<title>Winning the battle over Python programming</title>
-		<link>/2012/08/31/winning-the-battle-with-python-programming/</link>
-					<comments>/2012/08/31/winning-the-battle-with-python-programming/#comments</comments>
+		<link>/blog_archive/2012/08/31/winning-the-battle-with-python-programming/</link>
+					<comments>/blog_archive/2012/08/31/winning-the-battle-with-python-programming/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 31 Aug 2012 11:31:48 +0000</pubDate>
@@ -391,12 +391,12 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 		<category><![CDATA[sequences]]></category>
 		<category><![CDATA[series]]></category>
 		<category><![CDATA[trapezoidal rule]]></category>
-		<guid isPermaLink="false">/?p=731</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=731</guid>
 
 					<description><![CDATA[Two stories to share after this week&#8217;s activities with students about programming. I have posted previously about my interest in making Python a fundamental part of my classes this year, and so I am finding ways to include it when it makes sense to do so. I have a couple]]></description>
-										<content:encoded><![CDATA[<p>Two stories to share after this week&#8217;s activities with students about programming. I have <a href="/2012/08/23/python-in-algebra-2-an-experiment/">posted previously </a>about my interest in making Python a fundamental part of my classes this year, and so I am finding ways to include it when it makes sense to do so.</p>
+										<content:encoded><![CDATA[<p>Two stories to share after this week&#8217;s activities with students about programming. I have <a href="http://evanweinberg.com/2012/08/23/python-in-algebra-2-an-experiment/">posted previously </a>about my interest in making Python a fundamental part of my classes this year, and so I am finding ways to include it when it makes sense to do so.</p>
 <p>I have a couple of students that are bridging the gap between Algebra 2 and Precalculus with an independent study that I get to design. The tentative title of the course for their transcript is &#8216;Fundamentals of Mathematical Thinking&#8217; and the overall goal is to get these students a chance to develop their fundamental skills to be successful in later classes. I see it as an opportunity to really dig in to some cool mathematical ideas and get them to, well, dig into the fundamentals of mathematical thinking. I don&#8217;t plan too much emphasis on the algorithms (though we will spend some time working on skills in algebra, polynomial manipulation, functions, and other crucial topics where they are weak). Looking at a situation, exploring the way different variables might be used to model that situation, and then really digging in to abstract the variables into a model.</p>
-<p>We are starting with what I think is the most fundamental application of this: sequences and series. Even simpler, the first task I gave the students was to <a href="/2012/07/31/experimenting-with-ibooks-author/">look at the number of bricks in the rows of a triangular tower</a> and use Python to add up the bricks in each row. This started as a couple of exercises getting to know Python&#8217;s syntax. They are then taking programs I wrote to model this problem and adjusting them to find other sums, including the sum of even and odd numbers. One student that completed this task was intrigued that the sum of the latter consisted of perfect squares, but we didn&#8217;t explore it any further at this point.</p>
+<p>We are starting with what I think is the most fundamental application of this: sequences and series. Even simpler, the first task I gave the students was to <a href="http://evanweinberg.com/2012/07/31/experimenting-with-ibooks-author/">look at the number of bricks in the rows of a triangular tower</a> and use Python to add up the bricks in each row. This started as a couple of exercises getting to know Python&#8217;s syntax. They are then taking programs I wrote to model this problem and adjusting them to find other sums, including the sum of even and odd numbers. One student that completed this task was intrigued that the sum of the latter consisted of perfect squares, but we didn&#8217;t explore it any further at this point.</p>
 <p>I then gave this student a bunch of sequences. His task was simple: model each one in Python and generate the given terms. This is a standard exercise for Algebra &amp; Precalc students by hand, but I figured that if he could do this with Python, clearly he was able to figure out the pattern. I showed him how to write fractions using string concatenation (e.g. 1/3 = 1 + &#8220;/&#8221; + 3) which enabled him to develop the harmonic series. Today he figured out Fibonacci and a couple other new ones. It was really fascinating to see him mess around think deeply about the patterns associated with each one. I did tap him slightly in the right direction with Fibonacci, but I have otherwise been hands off. I am also having him write about his work to give him opportunities to work on his writing too. When he feels comfortable sharing it (and I have already warned him that this is the plan), I will post links to his work here.</p>
 <p>The other new thing was in Calculus. I have shortened my review of Pre-Calculus concepts substantially, and have made the first unit a survey of limits, rate of change, and definite integrals. Most of this has required technology to explore local linearity and difference quotients. On Thursday, I introduced using rectangular sums to find area &#8211; they were otherwise stuck on counting boxes, and I could tell they felt it was like baby math. They really didn&#8217;t know any other way.</p>
 <p>In showing them rectangular sums, we had some pretty good discussions about overestimating and underestimating. The students had conversations about how rough the approximation with only 3 &#8211; 5 rectangles gave for area under a parabola. A couple of them figured out how to use more rectangles. I told them I was going to write a program to do this while they were sitting and working. I created <a href="https://gist.github.com/3551632">this program</a> and talked them through how it works. They thought it was too complicated to be worth the time, but I think they did understand the basic idea. I then changed the value of N and asked them what they thought that meant. They got it right the first time. I then pushed the value to higher and higher values of N and they immediately saw that it was approaching a limit. Game, set, match.</p>
@@ -409,7 +409,7 @@ Suppose f(x) has a maximum value M and a minimum value L over an interval [a,b].
 <p>Sometimes these battles are the same, other times they are different. By using the built-in version of Python on their Macs, I have already started seeing them run commands and use text editors to create scripts without too much trouble. That&#8217;s the first battle. My plan is to give lots of examples supporting the second one in the beginning, and slowly push the burden of writing these programs on to the students as time goes by and they become more comfortable with the idea. So far I am feeling pretty good about it &#8211; stay tuned.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/08/31/winning-the-battle-with-python-programming/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2012/08/31/winning-the-battle-with-python-programming/feed/</wfw:commentRss>
 			<slash:comments>3</slash:comments>
 		
 		

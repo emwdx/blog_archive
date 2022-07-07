@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Array</title>
-	<atom:link href="/category/array/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/category/array/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Thu, 07 Apr 2016 01:19:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,37 +24,37 @@
 	<generator>https://wordpress.org/?v=5.7.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">180381780</site>	<item>
 		<title>Trigonometric Graphs and the Box Method</title>
-		<link>/2016/04/07/trigonometric-graphs-and-the-box-method/</link>
-					<comments>/2016/04/07/trigonometric-graphs-and-the-box-method/#respond</comments>
+		<link>/blog_archive/2016/04/07/trigonometric-graphs-and-the-box-method/</link>
+					<comments>/blog_archive/2016/04/07/trigonometric-graphs-and-the-box-method/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 07 Apr 2016 01:19:05 +0000</pubDate>
 				<category><![CDATA[Array]]></category>
-		<guid isPermaLink="false">/?p=2425</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2425</guid>
 
 					<description><![CDATA[Graphing trigonometric functions is a crucial skill, but there is a lot of reasoning involved in the process. I learned the method that follows from a colleague in my first years of teaching in the Bronx, and used it later on when I actually taught Algebra 2 and PreCalculus. Here&#8217;s]]></description>
 										<content:encoded><![CDATA[<p>Graphing trigonometric functions is a crucial skill, but there is a lot of reasoning involved in the process. I learned the method that follows from a colleague in my first years of teaching in the Bronx, and used it later on when I actually taught Algebra 2 and PreCalculus.</p>
 <p>Here&#8217;s an example for f(x) = 2 cos(2x) + 3:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/04/img_2552-3.jpg" rel="attachment wp-att-2431"><img loading="lazy" class="alignnone size-large wp-image-2431" src="http://blog.evanweinberg.org/wp-content/uploads/2016/04/img_2552-3-1024x824.jpg" alt="img_2552-3" width="584" height="470" srcset="/wp-content/uploads/2016/04/img_2552-3-1024x824.jpg 1024w, /wp-content/uploads/2016/04/img_2552-3-300x242.jpg 300w, /wp-content/uploads/2016/04/img_2552-3-768x618.jpg 768w, /wp-content/uploads/2016/04/img_2552-3-1536x1237.jpg 1536w, /wp-content/uploads/2016/04/img_2552-3-2048x1649.jpg 2048w, /wp-content/uploads/2016/04/img_2552-3-1200x966.jpg 1200w, /wp-content/uploads/2016/04/img_2552-3-1980x1594.jpg 1980w" sizes="(max-width: 584px) 100vw, 584px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/04/img_2552-3.jpg" rel="attachment wp-att-2431"><img loading="lazy" class="alignnone size-large wp-image-2431" src="http://blog.evanweinberg.org/wp-content/uploads/2016/04/img_2552-3-1024x824.jpg" alt="img_2552-3" width="584" height="470" srcset="/blog_archive/wp-content/uploads/2016/04/img_2552-3-1024x824.jpg 1024w, /blog_archive/wp-content/uploads/2016/04/img_2552-3-300x242.jpg 300w, /blog_archive/wp-content/uploads/2016/04/img_2552-3-768x618.jpg 768w, /blog_archive/wp-content/uploads/2016/04/img_2552-3-1536x1237.jpg 1536w, /blog_archive/wp-content/uploads/2016/04/img_2552-3-2048x1649.jpg 2048w, /blog_archive/wp-content/uploads/2016/04/img_2552-3-1200x966.jpg 1200w, /blog_archive/wp-content/uploads/2016/04/img_2552-3-1980x1594.jpg 1980w" sizes="(max-width: 584px) 100vw, 584px" /></a></p>
 <p>Students first (lightly) draw a box that is one period wide, twice the amplitude tall, and centered vertically on the midline of the sinusoid. The process of doing this isolates the reasoning about transformations of the function from the actual drawing of the graph, which also takes some skill. I usually ask students to state the period, amplitude, and average value anyway, but this method implicitly requires them to find these quantities anyway. We use the language of the amplitude, period, and average value to describe this box and the transformations  of the parent function.</p>
 <p>Once the box is in the right place, then we can focus on the graphing details. Is it a cosine or sine? How does the graph of each fit into the box we have drawn? Where does the curve cross the midline? This conversation is separate from the location and dimension conversations, and this is a good thing. The shape of the curve merits a separate line of reasoning, and encouraging that separation through this method reduces the cognitive demand along the way. I have also seen that keeping this shape conversation separate has reduced the quantity of the pointy sawtooth graphs that students inevitably produce.</p>
 <p>I have considered doing this for other parent functions, but haven&#8217;t been convinced of the potential payoff yet compared with the perfect fit thus far of the trigonometric family of functions. Thoughts?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/04/07/trigonometric-graphs-and-the-box-method/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/04/07/trigonometric-graphs-and-the-box-method/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2425</post-id>	</item>
 		<item>
 		<title>Rethinking Class Notes with OneNote</title>
-		<link>/2015/08/30/rethinking-class-notes-with-onenote/</link>
-					<comments>/2015/08/30/rethinking-class-notes-with-onenote/#comments</comments>
+		<link>/blog_archive/2015/08/30/rethinking-class-notes-with-onenote/</link>
+					<comments>/blog_archive/2015/08/30/rethinking-class-notes-with-onenote/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sun, 30 Aug 2015 07:11:59 +0000</pubDate>
 				<category><![CDATA[Array]]></category>
-		<guid isPermaLink="false">/?p=2280</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2280</guid>
 
 					<description><![CDATA[tl;dr Rather than being the source of all of the notes for each class, I&#8217;m having students contribute to a OneNote Class Notebook. Two students per class are responsible for making sure that the class warm-up, practice problems, content and discussions, and questions are all updated on a page within]]></description>
 										<content:encoded><![CDATA[<h4>tl;dr</h4>
@@ -68,7 +68,7 @@
 <p>The bigger reason &#8211; and the reason that wants me to get away from creating notebooks all together, not just interactive &#8211; is that interactive notebooks consist of me being the source of virtually everything students record in their notebook. Yes, they fill in the blanks and provide examples, but they can&#8217;t move forward unless I provide them the structure. To some extent I provide that structure with anything I do in the classroom, but this seems to be a step backwards in helping my students understand how to structure learning on their own.</p>
 <p>By the end of second semester last year, I pledged to come up with an alternative to the class notes I had been creating for students. I had sworn off Google Drive and Google Docs due to China blockage issues and a lack of a viable VPN solution or all of my students. I have seen a lot of creative use of student crowd-sourced resources that got away from a single source of teacher-created notes. When I first met <a href="http://adifference.blogspot.hk/">Darren Kuropatwa</a> a few years ago at the <a href="http://learning2.org/">Learning 2.011</a> conference, he described creating a structure like this through class blogs. While we had a WordPress server at our school, I never liked the interface as a way to easily get the sort of interaction that I wanted about the class, so I didn&#8217;t move forward on making it happen then, or for the past, um, four years.</p>
 <p>When our school made the move to Office 365 last year, however, I found that OneNote, and specifically, their Class Notebooks option, made a pretty clear path toward what I pictured for this resource. I&#8217;ve based my redesign of how class notes fit in to my instruction through this structure.</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1024x611.png" alt="Screen Shot 2015-08-30 at 2.36.32 PM" width="500" height="298" class="alignnone size-large wp-image-2283" srcset="/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1024x611.png 1024w, /wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-300x179.png 300w, /wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-768x458.png 768w, /wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1536x917.png 1536w, /wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1200x716.png 1200w, /wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1980x1182.png 1980w, /wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM.png 1994w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1024x611.png" alt="Screen Shot 2015-08-30 at 2.36.32 PM" width="500" height="298" class="alignnone size-large wp-image-2283" srcset="/blog_archive/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1024x611.png 1024w, /blog_archive/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-300x179.png 300w, /blog_archive/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-768x458.png 768w, /blog_archive/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1536x917.png 1536w, /blog_archive/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1200x716.png 1200w, /blog_archive/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM-1980x1182.png 1980w, /blog_archive/wp-content/uploads/2015/08/Screen-Shot-2015-08-30-at-2.36.32-PM.png 1994w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>For those that don&#8217;t know, a OneNote notebook can consist of multiple sections (which I&#8217;m labeling Unit 1, Unit 2, etc), and each section consists of multiple pages (which I&#8217;m labeling Day 1, Day 2, and so on.) In addition, the Class Notebook (which is specifically offered to school that adopt Office 365) offers  three distinct sections:</p>
 <ul>
 <li>A content library, in which teachers can read, edit, and view pages, and students can view, but not edit.</li>
@@ -91,7 +91,7 @@
 <p>I&#8217;m giving this a try, and as with anything I try, I&#8217;ll do my best to share how it develops here. I&#8217;m pretty excited to see what it becomes over time.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/08/30/rethinking-class-notes-with-onenote/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/08/30/rethinking-class-notes-with-onenote/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		

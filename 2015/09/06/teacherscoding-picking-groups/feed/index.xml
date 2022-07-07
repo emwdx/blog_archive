@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: #TeachersCoding: Picking Groups	</title>
-	<atom:link href="/2015/09/06/teacherscoding-picking-groups/feed/" rel="self" type="application/rss+xml" />
-	<link>/2015/09/06/teacherscoding-picking-groups/</link>
+	<atom:link href="/blog_archive/2015/09/06/teacherscoding-picking-groups/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2015/09/06/teacherscoding-picking-groups/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Tue, 08 Sep 2015 13:04:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2015/09/06/teacherscoding-picking-groups/#comment-399</link>
+		<link>/blog_archive/2015/09/06/teacherscoding-picking-groups/#comment-399</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Tue, 08 Sep 2015 13:04:44 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2294#comment-399</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2294#comment-399</guid>
 
 					<description><![CDATA[You&#039;ve clearly hacked into my to-do list, Doug.
 
@@ -43,11 +43,11 @@ Stay tuned - thanks for the nudge in the right direction!]]></description>
 		<item>
 		<title>
 		By: bcphysics		</title>
-		<link>/2015/09/06/teacherscoding-picking-groups/#comment-398</link>
+		<link>/blog_archive/2015/09/06/teacherscoding-picking-groups/#comment-398</link>
 
 		<dc:creator><![CDATA[bcphysics]]></dc:creator>
 		<pubDate>Sun, 06 Sep 2015 15:54:25 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2294#comment-398</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2294#comment-398</guid>
 
 					<description><![CDATA[Very cool. I wrote a similar program in Python with some added &quot;graphics&quot;. My script is a lot messier than yours though (it was my first python program)! https://github.com/shmish/Student-Scrambler
 

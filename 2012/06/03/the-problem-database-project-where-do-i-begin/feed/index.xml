@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: The Problem Database Project &#8211; Where do I begin?	</title>
-	<atom:link href="/2012/06/03/the-problem-database-project-where-do-i-begin/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/06/03/the-problem-database-project-where-do-i-begin/</link>
+	<atom:link href="/blog_archive/2012/06/03/the-problem-database-project-where-do-i-begin/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2012/06/03/the-problem-database-project-where-do-i-begin/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Mon, 04 Jun 2012 07:12:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,16 +23,16 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/06/03/the-problem-database-project-where-do-i-begin/#comment-80</link>
+		<link>/blog_archive/2012/06/03/the-problem-database-project-where-do-i-begin/#comment-80</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Mon, 04 Jun 2012 07:12:48 +0000</pubDate>
-		<guid isPermaLink="false">/?p=644#comment-80</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=644#comment-80</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/06/03/the-problem-database-project-where-do-i-begin/#comment-79&quot;&gt;John Burk&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/06/03/the-problem-database-project-where-do-i-begin/#comment-79&quot;&gt;John Burk&lt;/a&gt;.
 
 I think that&#039;s a great idea - I know some the others working on the project through their blogs, and could certainly look through their blogs to find information that is related, but having one place for it all to sit would make it much easier. I do think there should be a distinction between &#039;prototyping code&#039; and &#039;production code&#039; for the repository. The PHP file I uploaded is from my own playing around and not for prime time!]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/06/03/the-problem-database-project-where-do-i-begin/#comment-79">John Burk</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/06/03/the-problem-database-project-where-do-i-begin/#comment-79">John Burk</a>.</p>
 <p>I think that&#8217;s a great idea &#8211; I know some the others working on the project through their blogs, and could certainly look through their blogs to find information that is related, but having one place for it all to sit would make it much easier. I do think there should be a distinction between &#8216;prototyping code&#8217; and &#8216;production code&#8217; for the repository. The PHP file I uploaded is from my own playing around and not for prime time!</p>
 ]]></content:encoded>
 		
@@ -40,11 +40,11 @@ I think that&#039;s a great idea - I know some the others working on the project
 		<item>
 		<title>
 		By: John Burk		</title>
-		<link>/2012/06/03/the-problem-database-project-where-do-i-begin/#comment-79</link>
+		<link>/blog_archive/2012/06/03/the-problem-database-project-where-do-i-begin/#comment-79</link>
 
 		<dc:creator><![CDATA[John Burk]]></dc:creator>
 		<pubDate>Mon, 04 Jun 2012 02:51:27 +0000</pubDate>
-		<guid isPermaLink="false">/?p=644#comment-79</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=644#comment-79</guid>
 
 					<description><![CDATA[Evan,
 This is awesome. I really like that we&#039;re finding lots of ways to document our progress on this and hope that others who are participating find this useful. I&#039;m thinking of trying to collect all of this stuff together and putting it into a github blog/wiki along with the code we upload. What do you think?]]></description>

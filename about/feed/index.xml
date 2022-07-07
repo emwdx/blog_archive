@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: About Evan Weinberg	</title>
-	<atom:link href="/about/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/about/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Sun, 01 Nov 2020 09:17:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,7 +23,7 @@
 	<item>
 		<title>
 		By: Gary israel		</title>
-		<link>/about/#comment-8</link>
+		<link>/blog_archive/about/#comment-8</link>
 
 		<dc:creator><![CDATA[Gary israel]]></dc:creator>
 		<pubDate>Mon, 14 Nov 2011 13:30:37 +0000</pubDate>

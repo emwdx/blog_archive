@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Uncategorized</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Wed, 31 Mar 2021 06:16:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,13 +24,13 @@
 	<generator>https://wordpress.org/?v=5.7.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">180381780</site>	<item>
 		<title>App Development with Swift Playgrounds at Vietnam Tech Conference</title>
-		<link>/2021/03/31/app-development-with-swift-playgrounds-at-vietnam-tech-conference/</link>
-					<comments>/2021/03/31/app-development-with-swift-playgrounds-at-vietnam-tech-conference/#respond</comments>
+		<link>/blog_archive/2021/03/31/app-development-with-swift-playgrounds-at-vietnam-tech-conference/</link>
+					<comments>/blog_archive/2021/03/31/app-development-with-swift-playgrounds-at-vietnam-tech-conference/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 31 Mar 2021 06:16:46 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2932</guid>
+		<guid isPermaLink="false">https://evanweinberg.com/?p=2932</guid>
 
 					<description><![CDATA[I presented an hour long workshop on my work using Swift Playgrounds with my high school app development class as part of the Vietnam Tech Conference in February. In previous years, I used Xcode for the course. This year to see how far I could go using only Playgrounds. I]]></description>
 										<content:encoded><![CDATA[
@@ -63,15 +63,15 @@
 <ul><li>Install Playgrounds for <a href="https://apps.apple.com/us/app/swift-playgrounds/id908519492">iPadOS</a> and <a href="https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12">macOS</a></li><li><a href="https://apps.apple.com/us/app/swift-playgrounds/id1496833156?mt=12">VTC2021 &#8211; Companion Playground Book</a> (unzip and open in Playgrounds)</li><li><a href="https://www.apple.com/education/k12/teaching-code/">Everyone Can Code curriculum</a></li><li><a href="https://www.apple.com/education/k12/teaching-code/">Develop in Swift Curriculum and Books</a> </li><li><a href="http://molly.is/writing/design-dash/">Design Dash from Molly Clare Wilson</a></li></ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/03/31/app-development-with-swift-playgrounds-at-vietnam-tech-conference/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2021/03/31/app-development-with-swift-playgrounds-at-vietnam-tech-conference/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2932</post-id>	</item>
 		<item>
 		<title>Glowing for Halloween with CircuitPython State Machines</title>
-		<link>/2020/11/01/glowing-for-halloween-with-circuitpython-state-machines/</link>
-					<comments>/2020/11/01/glowing-for-halloween-with-circuitpython-state-machines/#respond</comments>
+		<link>/blog_archive/2020/11/01/glowing-for-halloween-with-circuitpython-state-machines/</link>
+					<comments>/blog_archive/2020/11/01/glowing-for-halloween-with-circuitpython-state-machines/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sun, 01 Nov 2020 09:16:23 +0000</pubDate>
@@ -79,7 +79,7 @@
 		<category><![CDATA[3d printing]]></category>
 		<category><![CDATA[circuitpython]]></category>
 		<category><![CDATA[programming]]></category>
-		<guid isPermaLink="false">/?p=2920</guid>
+		<guid isPermaLink="false">https://evanweinberg.com/?p=2920</guid>
 
 					<description><![CDATA[This year&#8217;s Halloween preparations were a coping mechanism. There is so much going on in the world that I cannot control, objectively more so than ever. Taking on good projects that involve making and coding is a good way to take back a sense of that control. Halloween has always]]></description>
 										<content:encoded><![CDATA[
@@ -119,7 +119,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="800" src="/wp-content/uploads/2020/11/heart_3d_model.gif" alt="" class="wp-image-2922"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="800" src="https://evanweinberg.com/wp-content/uploads/2020/11/heart_3d_model.gif" alt="" class="wp-image-2922"/></figure>
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="509" height="394" src="/wp-content/uploads/2020/11/Screen-Shot-2020-11-01-at-4.14.32-PM.png" alt="" class="wp-image-2926" srcset="/wp-content/uploads/2020/11/Screen-Shot-2020-11-01-at-4.14.32-PM.png 509w, /wp-content/uploads/2020/11/Screen-Shot-2020-11-01-at-4.14.32-PM-300x232.png 300w" sizes="(max-width: 509px) 100vw, 509px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="509" height="394" src="https://evanweinberg.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-01-at-4.14.32-PM.png" alt="" class="wp-image-2926" srcset="/blog_archive/wp-content/uploads/2020/11/Screen-Shot-2020-11-01-at-4.14.32-PM.png 509w, /blog_archive/wp-content/uploads/2020/11/Screen-Shot-2020-11-01-at-4.14.32-PM-300x232.png 300w" sizes="(max-width: 509px) 100vw, 509px" /></figure>
 
 
 
@@ -135,7 +135,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="800" src="/wp-content/uploads/2020/11/heart-flash.gif" alt="" class="wp-image-2925"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="800" src="https://evanweinberg.com/wp-content/uploads/2020/11/heart-flash.gif" alt="" class="wp-image-2925"/></figure>
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="800" src="/wp-content/uploads/2020/11/arc_reactor.gif" alt="" class="wp-image-2923"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="800" src="https://evanweinberg.com/wp-content/uploads/2020/11/arc_reactor.gif" alt="" class="wp-image-2923"/></figure>
 
 
 
@@ -163,7 +163,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="800" src="/wp-content/uploads/2020/11/LE_connect.gif" alt="" class="wp-image-2924"/></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="800" src="https://evanweinberg.com/wp-content/uploads/2020/11/LE_connect.gif" alt="" class="wp-image-2924"/></figure>
 
 
 
@@ -178,20 +178,20 @@
 <p> </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/11/01/glowing-for-halloween-with-circuitpython-state-machines/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2020/11/01/glowing-for-halloween-with-circuitpython-state-machines/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2920</post-id>	</item>
 		<item>
 		<title>App Development / Distance Learning: SpriteKit</title>
-		<link>/2020/03/17/app-development-distance-learning-spritekit/</link>
-					<comments>/2020/03/17/app-development-distance-learning-spritekit/#respond</comments>
+		<link>/blog_archive/2020/03/17/app-development-distance-learning-spritekit/</link>
+					<comments>/blog_archive/2020/03/17/app-development-distance-learning-spritekit/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 17 Mar 2020 06:00:03 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2895</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2895</guid>
 
 					<description><![CDATA[It has been far too long, my friends. In challenging times like these, it&#8217;s all the more important to help each other out. We have been running classes for students at home for the past six weeks here in Vietnam. I want to offer the activities I&#8217;ve been doing and]]></description>
 										<content:encoded><![CDATA[
@@ -226,7 +226,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-1024x683.png" alt="" class="wp-image-2897" srcset="/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-1024x683.png 1024w, /wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-300x200.png 300w, /wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-768x512.png 768w, /wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-1536x1024.png 1536w, /wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-1200x800.png 1200w, /wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM.png 1914w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-1024x683.png" alt="" class="wp-image-2897" srcset="/blog_archive/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-1024x683.png 1024w, /blog_archive/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-300x200.png 300w, /blog_archive/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-768x512.png 768w, /blog_archive/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-1536x1024.png 1536w, /blog_archive/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM-1200x800.png 1200w, /blog_archive/wp-content/uploads/2020/03/Screen-Shot-2020-03-17-at-10.18.01-AM.png 1914w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </div></div>
 
 
@@ -266,20 +266,20 @@
 <p>Write me if you have any questions on how you might use this yourself or with students. We are in this together.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/03/17/app-development-distance-learning-spritekit/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2020/03/17/app-development-distance-learning-spritekit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2895</post-id>	</item>
 		<item>
 		<title>Color Following Robot &#8211; RVR, Adafruit Metro, Pixy2</title>
-		<link>/2020/01/21/color-following-robot-rvr-adafruit-metro-pixy2/</link>
-					<comments>/2020/01/21/color-following-robot-rvr-adafruit-metro-pixy2/#respond</comments>
+		<link>/blog_archive/2020/01/21/color-following-robot-rvr-adafruit-metro-pixy2/</link>
+					<comments>/blog_archive/2020/01/21/color-following-robot-rvr-adafruit-metro-pixy2/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 21 Jan 2020 14:06:58 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2893</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2893</guid>
 
 					<description><![CDATA[One of the fundamental challenges in maker education right now is the reality that there are many different interesting tools available, but not all of them talk to each other. A notable change, however, is that many of them use open source software that makes it possible to understand how]]></description>
 										<content:encoded><![CDATA[
@@ -324,21 +324,21 @@
 <p> </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/01/21/color-following-robot-rvr-adafruit-metro-pixy2/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2020/01/21/color-following-robot-rvr-adafruit-metro-pixy2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2893</post-id>	</item>
 		<item>
 		<title>Google Calendar and Appointments</title>
-		<link>/2019/10/05/google-calendar-and-appointments/</link>
-					<comments>/2019/10/05/google-calendar-and-appointments/#respond</comments>
+		<link>/blog_archive/2019/10/05/google-calendar-and-appointments/</link>
+					<comments>/blog_archive/2019/10/05/google-calendar-and-appointments/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 05 Oct 2019 01:26:57 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[teachers coding]]></category>
-		<guid isPermaLink="false">/?p=2887</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2887</guid>
 
 					<description><![CDATA[Like some of my favorite people, I’ve been playing around with Google Scripts in earnest this year to make my teaching work easier. I did this most recently with Google Calendar. You may or may not know that you can set up appointment slots on a calendar. This is really]]></description>
 										<content:encoded><![CDATA[
@@ -354,7 +354,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="156" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1024x156.png" alt="" class="wp-image-2888" srcset="/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1024x156.png 1024w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-300x46.png 300w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-768x117.png 768w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1536x234.png 1536w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-2048x312.png 2048w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1200x183.png 1200w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1980x302.png 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="156" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1024x156.png" alt="" class="wp-image-2888" srcset="/blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1024x156.png 1024w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-300x46.png 300w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-768x117.png 768w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1536x234.png 1536w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-2048x312.png 2048w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1200x183.png 1200w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.10.21-AM-1980x302.png 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -397,7 +397,7 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="79" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-1024x79.png" alt="" class="wp-image-2889" srcset="/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-1024x79.png 1024w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-300x23.png 300w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-768x59.png 768w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-1536x118.png 1536w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-1200x92.png 1200w, /wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM.png 1564w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="79" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-1024x79.png" alt="" class="wp-image-2889" srcset="/blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-1024x79.png 1024w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-300x23.png 300w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-768x59.png 768w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-1536x118.png 1536w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM-1200x92.png 1200w, /blog_archive/wp-content/uploads/2019/10/Screen-Shot-2019-10-05-at-8.11.51-AM.png 1564w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -412,20 +412,20 @@
 <p>I&#8217;ve had some fun figuring out how to use automation like this to manage my work this year. There is a lot built into Google Scripts that makes repetitive processes much easier, particularly for the sorts of things that teachers do all the time. I encourage you to find something that you do that might be improved by a script like this and make it a personal challenge to figure out how to do it.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2019/10/05/google-calendar-and-appointments/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2019/10/05/google-calendar-and-appointments/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2887</post-id>	</item>
 		<item>
 		<title>The Two Clocks</title>
-		<link>/2019/01/29/the-two-clocks/</link>
-					<comments>/2019/01/29/the-two-clocks/#respond</comments>
+		<link>/blog_archive/2019/01/29/the-two-clocks/</link>
+					<comments>/blog_archive/2019/01/29/the-two-clocks/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 29 Jan 2019 14:21:47 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2865</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2865</guid>
 
 					<description><![CDATA[The biggest change to my educational philosophy in the past fifteen years can be summarized by two images. Image one: Image two: One instructional model insists on starting at the beginning and working right through to the end. You never have the complete picture until you&#8217;ve seen the process from]]></description>
 										<content:encoded><![CDATA[
@@ -464,15 +464,15 @@
 <p>One has worked for a long time; but who has it actually worked for?</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2019/01/29/the-two-clocks/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2019/01/29/the-two-clocks/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2865</post-id>	</item>
 		<item>
 		<title>On inefficiency</title>
-		<link>/2018/12/07/on-inefficiency/</link>
-					<comments>/2018/12/07/on-inefficiency/#respond</comments>
+		<link>/blog_archive/2018/12/07/on-inefficiency/</link>
+					<comments>/blog_archive/2018/12/07/on-inefficiency/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 07 Dec 2018 07:22:31 +0000</pubDate>
@@ -481,7 +481,7 @@
 		<category><![CDATA[engineering]]></category>
 		<category><![CDATA[learning]]></category>
 		<category><![CDATA[making]]></category>
-		<guid isPermaLink="false">/?p=2859</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2859</guid>
 
 					<description><![CDATA[In the robotics and engineering class and app development courses I teach, there are a lot of group projects. I design the projects to be big enough that a single student cannot do everything. That said, there are tasks though that a single person can do on his or her]]></description>
 										<content:encoded><![CDATA[
@@ -517,27 +517,27 @@
 
 
 
-<figure class="wp-block-image"><img loading="lazy" width="1024" height="768" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2018/12/IMG_3595-1024x768.jpg" alt="" class="wp-image-2860" srcset="/wp-content/uploads/2018/12/IMG_3595-1024x768.jpg 1024w, /wp-content/uploads/2018/12/IMG_3595-300x225.jpg 300w, /wp-content/uploads/2018/12/IMG_3595-768x576.jpg 768w, /wp-content/uploads/2018/12/IMG_3595-1536x1152.jpg 1536w, /wp-content/uploads/2018/12/IMG_3595-2048x1536.jpg 2048w, /wp-content/uploads/2018/12/IMG_3595-1200x900.jpg 1200w, /wp-content/uploads/2018/12/IMG_3595-1980x1485.jpg 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="768" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2018/12/IMG_3595-1024x768.jpg" alt="" class="wp-image-2860" srcset="/blog_archive/wp-content/uploads/2018/12/IMG_3595-1024x768.jpg 1024w, /blog_archive/wp-content/uploads/2018/12/IMG_3595-300x225.jpg 300w, /blog_archive/wp-content/uploads/2018/12/IMG_3595-768x576.jpg 768w, /blog_archive/wp-content/uploads/2018/12/IMG_3595-1536x1152.jpg 1536w, /blog_archive/wp-content/uploads/2018/12/IMG_3595-2048x1536.jpg 2048w, /blog_archive/wp-content/uploads/2018/12/IMG_3595-1200x900.jpg 1200w, /blog_archive/wp-content/uploads/2018/12/IMG_3595-1980x1485.jpg 1980w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2018/12/07/on-inefficiency/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2018/12/07/on-inefficiency/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2859</post-id>	</item>
 		<item>
 		<title>Structures and Habits</title>
-		<link>/2018/11/09/structures-and-habits/</link>
-					<comments>/2018/11/09/structures-and-habits/#respond</comments>
+		<link>/blog_archive/2018/11/09/structures-and-habits/</link>
+					<comments>/blog_archive/2018/11/09/structures-and-habits/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 09 Nov 2018 07:41:24 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2855</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2855</guid>
 
 					<description><![CDATA[My courses this year are AP Calculus AB, Robotics and Engineering Technology, and App Development. Given a lot of the work I knew in advance I would be doing this year, I made the explicit decision not to change the Calculus course much from what I did last year. That]]></description>
 										<content:encoded><![CDATA[
@@ -580,20 +580,20 @@
 <h2></h2>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2018/11/09/structures-and-habits/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2018/11/09/structures-and-habits/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2855</post-id>	</item>
 		<item>
 		<title>A New Chapter</title>
-		<link>/2018/10/18/a-new-chapter/</link>
-					<comments>/2018/10/18/a-new-chapter/#respond</comments>
+		<link>/blog_archive/2018/10/18/a-new-chapter/</link>
+					<comments>/blog_archive/2018/10/18/a-new-chapter/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 18 Oct 2018 15:02:52 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2852</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2852</guid>
 
 					<description><![CDATA[I&#8217;m excited to share the redesign of my blog. The new site and name is to reflect my hope to focus on some different things moving forward in a shift in my role at school. Previously, you&#8217;ve known me as a teacher of mathematics, physics, web programming, robotics&#8230;in short, a]]></description>
 										<content:encoded><![CDATA[<p>I&#8217;m excited to share the redesign of my blog. The new site and name is to reflect my hope to focus on some different things moving forward in a shift in my role at school.</p>
@@ -603,20 +603,20 @@
 <p>Stick around and I&#8217;ll tell you all about it.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2018/10/18/a-new-chapter/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2018/10/18/a-new-chapter/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2852</post-id>	</item>
 		<item>
 		<title>The Computational Thinker&#8217;s Classroom &#8211; Workshop Video</title>
-		<link>/2018/07/16/the-computational-thinkers-classroom-workshop-video/</link>
-					<comments>/2018/07/16/the-computational-thinkers-classroom-workshop-video/#respond</comments>
+		<link>/blog_archive/2018/07/16/the-computational-thinkers-classroom-workshop-video/</link>
+					<comments>/blog_archive/2018/07/16/the-computational-thinkers-classroom-workshop-video/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 16 Jul 2018 06:58:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=2822</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2822</guid>
 
 					<description><![CDATA[I ran a workshop on computational thinking at the Vietnam Tech Conference this past March. My goal was to give teachers some new ways to think about classroom tasks and the deliberate use of computers to do what they are good at doing. The general vibe of my talk was]]></description>
 										<content:encoded><![CDATA[<p>I ran a workshop on computational thinking at the Vietnam Tech Conference this past March. My goal was to give teachers some new ways to think about classroom tasks and the deliberate use of computers to do what they are good at doing.</p>
@@ -633,7 +633,7 @@
 <p>As always, I&#8217;d love to hear what you have to say.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2018/07/16/the-computational-thinkers-classroom-workshop-video/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2018/07/16/the-computational-thinkers-classroom-workshop-video/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Hacking The 100-Point Scale &#8211; Part 1	</title>
-	<atom:link href="/2016/06/08/hacking-the-100-point-scale-part-1/feed/" rel="self" type="application/rss+xml" />
-	<link>/2016/06/08/hacking-the-100-point-scale-part-1/</link>
+	<atom:link href="/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Sat, 11 Jun 2016 18:58:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,13 +23,13 @@
 	<item>
 		<title>
 		By: Xavier		</title>
-		<link>/2016/06/08/hacking-the-100-point-scale-part-1/#comment-466</link>
+		<link>/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-466</link>
 
 		<dc:creator><![CDATA[Xavier]]></dc:creator>
 		<pubDate>Sat, 11 Jun 2016 18:58:58 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2455#comment-466</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2455#comment-466</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2016/06/08/hacking-the-100-point-scale-part-1/#comment-465&quot;&gt;Evan Weinberg&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-465&quot;&gt;Evan Weinberg&lt;/a&gt;.
 
 First of all, Evan, thanks for sharing my thoughts. It encorages me a lot.
 
@@ -41,7 +41,7 @@ If you have an answer, say to us.
 
 With all of my admiration,
 Xavier]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2016/06/08/hacking-the-100-point-scale-part-1/#comment-465">Evan Weinberg</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-465">Evan Weinberg</a>.</p>
 <p>First of all, Evan, thanks for sharing my thoughts. It encorages me a lot.</p>
 <p>On the topic about what 72 means&#8230; I think it&#8217;s a no solution problem. A number is just that a number. So we just could summarize the state of the learning of one particular problem. But the learning is a process: so we need the start (what a student knew), the end (what a student knows right now) and the road (how much and how the student have learned in all the time).</p>
 <p>How do you solve that? With a sequence of numbers? With a sequence of grading meaning the skills she knew in every time?</p>
@@ -54,18 +54,18 @@ Xavier</p>
 		<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2016/06/08/hacking-the-100-point-scale-part-1/#comment-465</link>
+		<link>/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-465</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Sat, 11 Jun 2016 12:02:53 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2455#comment-465</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2455#comment-465</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2016/06/08/hacking-the-100-point-scale-part-1/#comment-463&quot;&gt;Xavier&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-463&quot;&gt;Xavier&lt;/a&gt;.
 
 I completely agree that deciding what to grade, and how to grade it to indicate learning, is the defining question here. Your idea of abandoning the mean is interesting, as that calculation certainly obfuscates learning in some cases, or at least blurs the details enough to reduce the grade as an indication of what has been learned. 
 
 In your post, you suggest adding points as a way to get away from the average. I agree that this might be a better measure than the average, but I think there still needs to be an indication of what that number means. Is a 72 an indication of making good progress, or does it show that a student is behind the mark? Some process of normalization is required. This is what I&#039;m thinking can be solved using some creative use of technology.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2016/06/08/hacking-the-100-point-scale-part-1/#comment-463">Xavier</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-463">Xavier</a>.</p>
 <p>I completely agree that deciding what to grade, and how to grade it to indicate learning, is the defining question here. Your idea of abandoning the mean is interesting, as that calculation certainly obfuscates learning in some cases, or at least blurs the details enough to reduce the grade as an indication of what has been learned. </p>
 <p>In your post, you suggest adding points as a way to get away from the average. I agree that this might be a better measure than the average, but I think there still needs to be an indication of what that number means. Is a 72 an indication of making good progress, or does it show that a student is behind the mark? Some process of normalization is required. This is what I&#8217;m thinking can be solved using some creative use of technology.</p>
 ]]></content:encoded>
@@ -74,16 +74,16 @@ In your post, you suggest adding points as a way to get away from the average. I
 		<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2016/06/08/hacking-the-100-point-scale-part-1/#comment-464</link>
+		<link>/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-464</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Thu, 09 Jun 2016 12:13:09 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2455#comment-464</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2455#comment-464</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2016/06/08/hacking-the-100-point-scale-part-1/#comment-462&quot;&gt;Clara Maxcy (Cleargrace)&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-462&quot;&gt;Clara Maxcy (Cleargrace)&lt;/a&gt;.
 
 The struggle is widespread, for sure. Part of what I&#039;m exploring in this series is a way to make things better, given that schools likely aren&#039;t changing their reporting away from a 100 point scale any time soon. Some simple guidelines behind assessment design, scaling, and conversations about what grades &lt;u&gt;should&lt;/u&gt; mean at any particular school are required for moving forward.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2016/06/08/hacking-the-100-point-scale-part-1/#comment-462">Clara Maxcy (Cleargrace)</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-462">Clara Maxcy (Cleargrace)</a>.</p>
 <p>The struggle is widespread, for sure. Part of what I&#8217;m exploring in this series is a way to make things better, given that schools likely aren&#8217;t changing their reporting away from a 100 point scale any time soon. Some simple guidelines behind assessment design, scaling, and conversations about what grades <u>should</u> mean at any particular school are required for moving forward.</p>
 ]]></content:encoded>
 		
@@ -91,11 +91,11 @@ The struggle is widespread, for sure. Part of what I&#039;m exploring in this se
 		<item>
 		<title>
 		By: Xavier		</title>
-		<link>/2016/06/08/hacking-the-100-point-scale-part-1/#comment-463</link>
+		<link>/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-463</link>
 
 		<dc:creator><![CDATA[Xavier]]></dc:creator>
 		<pubDate>Wed, 08 Jun 2016 10:08:41 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2455#comment-463</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2455#comment-463</guid>
 
 					<description><![CDATA[Perhaps you would be interested in my post: http://somenxavier.xyz/posts/My-next-assessment-function/ Another topic is what we need to grade. I think that we should pass from mean function which mesures the average of the knowledge to knowledge based grading: does he know simplify algebraic expressions? (yes or no), does she know....?
 
@@ -111,11 +111,11 @@ I hope you publish your next post soon]]></description>
 		<item>
 		<title>
 		By: Clara Maxcy (Cleargrace)		</title>
-		<link>/2016/06/08/hacking-the-100-point-scale-part-1/#comment-462</link>
+		<link>/blog_archive/2016/06/08/hacking-the-100-point-scale-part-1/#comment-462</link>
 
 		<dc:creator><![CDATA[Clara Maxcy (Cleargrace)]]></dc:creator>
 		<pubDate>Wed, 08 Jun 2016 09:52:50 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2455#comment-462</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2455#comment-462</guid>
 
 					<description><![CDATA[I struggle with this. The meaning I place on grades is mastery. My school sets the standards that are to be mastered. Mathematically, averaging scores where Zero is a possibility (anything below 50 actually) is so incorrect, my gut screams against it. There is a better way. Looking forward to your next post.]]></description>
 			<content:encoded><![CDATA[<p>I struggle with this. The meaning I place on grades is mastery. My school sets the standards that are to be mastered. Mathematically, averaging scores where Zero is a possibility (anything below 50 actually) is so incorrect, my gut screams against it. There is a better way. Looking forward to your next post.</p>

@@ -12,8 +12,8 @@
 
 <channel>
 	<title>year-in-review</title>
-	<atom:link href="/category/year-in-review/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/category/year-in-review/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Mon, 31 Jul 2017 07:03:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,23 +24,23 @@
 	<generator>https://wordpress.org/?v=5.7.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">180381780</site>	<item>
 		<title>2016 &#8211; 2017 Year In Review: Standards Based Grading</title>
-		<link>/2017/07/31/2016-2017-year-in-review-standards-based-grading/</link>
-					<comments>/2017/07/31/2016-2017-year-in-review-standards-based-grading/#respond</comments>
+		<link>/blog_archive/2017/07/31/2016-2017-year-in-review-standards-based-grading/</link>
+					<comments>/blog_archive/2017/07/31/2016-2017-year-in-review-standards-based-grading/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 31 Jul 2017 07:03:23 +0000</pubDate>
 				<category><![CDATA[standards based grading]]></category>
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[year-in-review]]></category>
-		<guid isPermaLink="false">/?p=2752</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2752</guid>
 
 					<description><![CDATA[Overview I&#8217;ve used Standards Based Grading, or SBG, with most of my classes for the past five years. It transformed the way I think about planning, assessment, classroom activities&#8230;and pretty much everything else around my teaching practice. I have a difficult time imagining what would happen if I had to]]></description>
 										<content:encoded><![CDATA[<h2> Overview</h2>
 <p>I&#8217;ve used Standards Based Grading, or SBG, with most of my classes for the past five years. It transformed the way I think about planning, assessment, classroom activities&#8230;and pretty much everything else around my teaching practice. I have a difficult time imagining what would happen if I had to go back. I&#8217;ve written a lot about it this year &#8211; here are some of the posts:</p>
-<p><a href="/2016/08/27/scaling-up-sbg-for-the-new-year/">Scaling up SBG for the New Year</a><br />
-<a href="/2017/01/23/standards-based-grading-and-leveling-up/">Standards Based Grading and Leveling Up</a><br />
-<a href="/2016/10/06/the-how-and-why-of-standards-based-grading-learning2-0/">The How and Why of Standards Based Grading @ Learning 2.0</a><br />
-<a href="/2017/06/05/too-many-reassessments-just-in-time-for-summer/">Too Many Reassessments, Just in Time for Summer</a></p>
+<p><a href="http://evanweinberg.com/2016/08/27/scaling-up-sbg-for-the-new-year/">Scaling up SBG for the New Year</a><br />
+<a href="http://evanweinberg.com/2017/01/23/standards-based-grading-and-leveling-up/">Standards Based Grading and Leveling Up</a><br />
+<a href="http://evanweinberg.com/2016/10/06/the-how-and-why-of-standards-based-grading-learning2-0/">The How and Why of Standards Based Grading @ Learning 2.0</a><br />
+<a href="http://evanweinberg.com/2017/06/05/too-many-reassessments-just-in-time-for-summer/">Too Many Reassessments, Just in Time for Summer</a></p>
 <p>As I wrote in that last post, I still wrestle with the details. I&#8217;m fully invested in the philosophy though. I am glad to have my administrators supportive in having me adapt it to work within the more traditional system. I&#8217;ve also had some great conversations with colleagues who are excited by the concept, but that wonder how to make it work in their courses. </p>
 <p>Here&#8217;s the rundown of how it went this year. </p>
 <h2> What worked:</h2>
@@ -51,8 +51,8 @@
 </ul>
 <h2> What needs work:</h2>
 <ul>
-<li><b>I had way too many reassessments.</b> Full stop. I wrote about this in my post <a href="/2017/06/05/too-many-reassessments-just-in-time-for-summer/">Too Many Reassessments, Just in Time for Summer</a> and am exhausted just thinking about doing it again. There are a couple elements of this to unpack. One is that my credit system allows for reassessments to occur more frequently than I believe deep learning can really take place. I&#8217;m thinking about making it so students are locked out of reassessing on a standard for a set period of time, at least when going for a score of 8 or above where the goal is transfer of skills and flexibility of application. The other thing I am considering is limiting students to a single reassessment per week, or day, or some other interval. I have some time to decide on this, which is good, because both require a rewrite of my online signup tool, <a href="/2015/10/30/another-weinbergcloud-update/">WeinbergCloud</a>. </li>
-<li><b>Long term retention was still not where it needs to be.</b> I wrote about this already <a href="/2017/07/01/2016-2017-year-in-review-ib-mathematics-sl/">in my post about my IB Mathematics Year 1 course</a>. As I have taught more and more in this system, I have believed ever more strongly that clear communication about what grades signify about a student matters. A lot. Moving from quarters to semester grades is one part of improving this, a change that my administrator team made for this coming year, but a lot of it still sits with me. I need to spiral, I need to reassess on old standards, and still hold students accountable for older material.</li>
+<li><b>I had way too many reassessments.</b> Full stop. I wrote about this in my post <a href="http://evanweinberg.com/2017/06/05/too-many-reassessments-just-in-time-for-summer/">Too Many Reassessments, Just in Time for Summer</a> and am exhausted just thinking about doing it again. There are a couple elements of this to unpack. One is that my credit system allows for reassessments to occur more frequently than I believe deep learning can really take place. I&#8217;m thinking about making it so students are locked out of reassessing on a standard for a set period of time, at least when going for a score of 8 or above where the goal is transfer of skills and flexibility of application. The other thing I am considering is limiting students to a single reassessment per week, or day, or some other interval. I have some time to decide on this, which is good, because both require a rewrite of my online signup tool, <a href="http://evanweinberg.com/2015/10/30/another-weinbergcloud-update/">WeinbergCloud</a>. </li>
+<li><b>Long term retention was still not where it needs to be.</b> I wrote about this already <a href="http://evanweinberg.com/2017/07/01/2016-2017-year-in-review-ib-mathematics-sl/">in my post about my IB Mathematics Year 1 course</a>. As I have taught more and more in this system, I have believed ever more strongly that clear communication about what grades signify about a student matters. A lot. Moving from quarters to semester grades is one part of improving this, a change that my administrator team made for this coming year, but a lot of it still sits with me. I need to spiral, I need to reassess on old standards, and still hold students accountable for older material.</li>
 <li><b>Communicating the role of semester exams was a major challenge for me this year.</b> In a small school, I found it was easy to communicate with individual students and parents about the role of semester exams. I based much of my outreach on what I understood about these exams and the role of learning standards grades throughout the year. A standards based grade book breaks down the entire topic into bite sized pieces, which makes it easier both to communicate strengths and weaknesses, and for students and teachers to decide what is the best next step. Semester exams are opportunities to put all of these pieces together and assess a students&#8217;s ability to decide <i>which</i> standards apply in a given problem. Another way of looking at it is a soccer practice versus a soccer game mentality.
 </p>
 <p>Ultimately, I do want students to be successful across the breath of the content on which a course is based. Semester exams serve as one way to measure that progress in the bigger picture of an entire course, rather than a unit. This also serves as a third scale on which to consider assessment in my course. Quizzes assess a standard, exams assess a unit of standards (with a few older standards thrown in), and semester exams assess mastery of a portion of the <i>course</i>. That different scale is why the 80% quarter grade, 20% exam grade proportions that I&#8217;ve followed for seven years is entirely reasonable.</p>
@@ -65,15 +65,15 @@
 <p>I&#8217;m glad to be starting another year soon and to continue to make this system do good things for students. Cycle forward.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/07/31/2016-2017-year-in-review-standards-based-grading/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/07/31/2016-2017-year-in-review-standards-based-grading/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2752</post-id>	</item>
 		<item>
 		<title>2016 &#8211; 2017 Year In Review: IB Mathematics SL</title>
-		<link>/2017/07/01/2016-2017-year-in-review-ib-mathematics-sl/</link>
-					<comments>/2017/07/01/2016-2017-year-in-review-ib-mathematics-sl/#comments</comments>
+		<link>/blog_archive/2017/07/01/2016-2017-year-in-review-ib-mathematics-sl/</link>
+					<comments>/blog_archive/2017/07/01/2016-2017-year-in-review-ib-mathematics-sl/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 01 Jul 2017 10:36:43 +0000</pubDate>
@@ -81,7 +81,7 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[year-in-review]]></category>
 		<category><![CDATA[ib mathematics SL]]></category>
-		<guid isPermaLink="false">/?p=2746</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2746</guid>
 
 					<description><![CDATA[Overview This was my third time around teaching the first year of the IB mathematics SL sequence. It was different from my previous two iterations given that this was not an SL/HL combined class. This meant that I had more time available to do explorations, problem solving sessions, and in-class]]></description>
 										<content:encoded><![CDATA[<h2> Overview</h2>
@@ -100,11 +100,11 @@
 <ul>
 <li><a href="https://drive.google.com/open?id=1JIOl4XQj7RXnKm-TF7i9G5Wx8kfePcHEs_ZvKe0ynwo">Mathematical Presentation &#8211; Modeling Periodic Phenomena Link</a> </li>
 <li><a href="https://docs.google.com/document/d/14MZ0Lp5Gz36yA1dFbhgQ2SNmEfPi1P0XmA2ECXL-KXs/edit?usp=sharing">Engagement &#8211; Indirect Measurement</a>
-<li><a href="https://docs.google.com/document/d/11ygU1Xc-BMWPx_Tqtopz08C6SV5O3Ep3167CsJNHnmU/edit?usp=sharing">Communication &#8211; Mission Drone Intercept</a>. I <a href="/2017/06/04/building-models-drone-intercept-and-desmos/">wrote previously about the activity that preceded the writing for this assignment.</a>
+<li><a href="https://docs.google.com/document/d/11ygU1Xc-BMWPx_Tqtopz08C6SV5O3Ep3167CsJNHnmU/edit?usp=sharing">Communication &#8211; Mission Drone Intercept</a>. I <a href="http://evanweinberg.com/2017/06/04/building-models-drone-intercept-and-desmos/">wrote previously about the activity that preceded the writing for this assignment.</a>
 </li>
 </ul>
 </li>
-<li><strong>I budgeted some of my additional instruction time for explicit calculator instruction.</strong> I&#8217;ve argued previously about the limitations of graphing calculators compared to Geogebra, Desmos, and other tools that have substantially better user experiences. The reality, however, is that these calculators are what students can access during exams. Without some level of fluency accessing the features, they would be unable to solve some problems. <a href="/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/">I wrote about this in my review of the course last year.</a> This time was well spent, as students were not tripped up by questions that could only be solved numerically or graphically.</li>
+<li><strong>I budgeted some of my additional instruction time for explicit calculator instruction.</strong> I&#8217;ve argued previously about the limitations of graphing calculators compared to Geogebra, Desmos, and other tools that have substantially better user experiences. The reality, however, is that these calculators are what students can access during exams. Without some level of fluency accessing the features, they would be unable to solve some problems. <a href="http://evanweinberg.com/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/">I wrote about this in my review of the course last year.</a> This time was well spent, as students were not tripped up by questions that could only be solved numerically or graphically.</li>
 <li>Students saw many past paper questions, and seem to have some familiarity with the style of questions that are asked.</li>
 </ul>
 <h2> What needs work:</h2>
@@ -121,15 +121,15 @@
 <p>I&#8217;ll be following these students to year two. We have the rest of probability to do first thing when we get back, which I&#8217;ll combine with some dedicated class time devoted toward the exploration. I like pushing the probability and Calculus to year two, as these topics are, by definition, plagued by uncertainty. It&#8217;s an interesting context in which to work with students in their final year of high school. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/07/01/2016-2017-year-in-review-ib-mathematics-sl/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/07/01/2016-2017-year-in-review-ib-mathematics-sl/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2746</post-id>	</item>
 		<item>
 		<title>2016 &#8211; 2017 Year In Review: PreCalculus</title>
-		<link>/2017/06/25/2016-2017-year-in-review-precalculus/</link>
-					<comments>/2017/06/25/2016-2017-year-in-review-precalculus/#comments</comments>
+		<link>/blog_archive/2017/06/25/2016-2017-year-in-review-precalculus/</link>
+					<comments>/blog_archive/2017/06/25/2016-2017-year-in-review-precalculus/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 24 Jun 2017 16:08:26 +0000</pubDate>
@@ -137,7 +137,7 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[year-in-review]]></category>
 		<category><![CDATA[year in review]]></category>
-		<guid isPermaLink="false">/?p=2750</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2750</guid>
 
 					<description><![CDATA[Overview This was the first time I taught a true PreCalculus course in six years. At my current school, the course serves the following functions: Preparing tenth grade students for IB mathematics SL or HL in their 11th grade year. Many of these students were strong 9th grade students that]]></description>
 										<content:encoded><![CDATA[<h2> Overview</h2>
@@ -157,37 +157,37 @@
 <li>For the trigonometry units, I offered computer programming challenges that were associated with each learning standard. Some students chose to use their spreadsheet or Python skills to write small programs to solve these challenges. It was not a large number of students, but those that decided to take these on reported that they liked the opportunity to think differently about what they were learning.</li>
 <li>I explicitly also taught using spreadsheet functions to develop student&#8217;s computational thinking skills. This required designing some problems that were just too tedious to solve by hand. This was fun.</li>
 <li>Differentiation in this course was a challenge, but I was happy with some of the systems I used to manage it. As I have found is common since moving abroad, many students are computationally well developed, but not <i>conceptually</i> so. Students would learn tricks in after school academy that they would try to use in my course, often in inappropriate situations. I found a nice balance between problems that started low on the ladder of abstraction, and those that worked higher. All homework assignments for the course in Semester 2 were divided into Level 1, Level 2, and Level 3 questions so that students could decide what would be most useful for them.</li>
-<li>I did some self-paced lessons with students in groups using a range of resources, from <a href="http://www.khanacademy.org/">Khan Academy </a>to <a href="https://openstax.org/">OpenStax</a>. Students reported that they generally liked when I structured class this way, though there were requests for more direct instruction among some of the students, as I described in mu <a href="/2017/06/19/2016-2017-year-in-review-surveys/">previous post about the survey results</a>. </li>
+<li>I did some self-paced lessons with students in groups using a range of resources, from <a href="http://www.khanacademy.org/">Khan Academy </a>to <a href="https://openstax.org/">OpenStax</a>. Students reported that they generally liked when I structured class this way, though there were requests for more direct instruction among some of the students, as I described in mu <a href="http://evanweinberg.com/2017/06/19/2016-2017-year-in-review-surveys/">previous post about the survey results</a>. </li>
 <li>There was really no time rush in this course since after my decision to cut out vectors, polar equations, linear systems, and some other assorted topics that really don&#8217;t show up again except in Mathematics HL or Calculus BC where it&#8217;s worth seeing the topic again anyway. Some students also gave very positive feedback regarding the final unit on probability. I took my time with things there. Some of this was out of necessity when I was out sick for ten days, but there were many times when I thought about stepping up the challenge faster than I really needed to. </li>
 </ul>
 <h2> What needs work:</h2>
 <ul>
-<li>I wrote about <a href="/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/">how I did the conic sections unit with no-numerical grades &#8211; just comments in the grade book </a>. The decision to do that was based on a number of factors. The downside was that when I switched back to numerical grades for the final unit, the grade calculation for the entire quarter was based only on those grades, and not on the conic sections unit at all. The conic sections unit did appear on the final exam, but for the most part, there wasn&#8217;t any other consequence for students that did not reassess on the unit.</li>
-<li>Students did not generally like <a href="/2017/04/07/trello-for-class-organization/">when I used Trello</a>. They liked the concept of breaking up lessons into pieces and tasks. They did not like the forced timelines and the extra step of the virtual Trello board for keeping track of things. <a href="https://medium.com/newboco/why-physical-scrum-boards-and-clothespins-work-b17d69b3fd12">This Medium article makes me wonder</a> about doing this in an analog form if I try it in the future. I also could make an effort to instill the spirit of Scrum early on so that it&#8217;s less novel, and more the way things are in my classroom.</li>
+<li>I wrote about <a href="http://evanweinberg.com/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/">how I did the conic sections unit with no-numerical grades &#8211; just comments in the grade book </a>. The decision to do that was based on a number of factors. The downside was that when I switched back to numerical grades for the final unit, the grade calculation for the entire quarter was based only on those grades, and not on the conic sections unit at all. The conic sections unit did appear on the final exam, but for the most part, there wasn&#8217;t any other consequence for students that did not reassess on the unit.</li>
+<li>Students did not generally like <a href="http://evanweinberg.com/2017/04/07/trello-for-class-organization/">when I used Trello</a>. They liked the concept of breaking up lessons into pieces and tasks. They did not like the forced timelines and the extra step of the virtual Trello board for keeping track of things. <a href="https://medium.com/newboco/why-physical-scrum-boards-and-clothespins-work-b17d69b3fd12">This Medium article makes me wonder</a> about doing this in an analog form if I try it in the future. I also could make an effort to instill the spirit of Scrum early on so that it&#8217;s less novel, and more the way things are in my classroom.</li>
 <li>I should have done a lot more assessment at the beginning of units to see what students knew and didn&#8217;t know. It sounds like the student experiences in the different Algebra 2 courses leading to PreCalculus were quite different, which led to a range of success levels throughout. Actually, I should probably be doing this more often for <u>all</u> my courses.</li>
-<li>Students could create their own small reference sheet for every exam. I did this because I didn&#8217;t want students memorizing things like double angle identities and formulas for series. The reason this needs work is that some students are still too reliant on having this resource available to ever reach any level of procedural fluency. I know what students need to be fluent later on in the more advanced courses, sure, but I am not convinced that memorization is the way to get there. Timed drills don&#8217;t seem to do it either. This challenge is compounded by the fact that not all students <u>need</u> that level of fluency for future courses, so what role does memorization here play? I have <a href="/2012/04/17/topic-for-mathchat-do-we-need-students-to-reach-automaticity/">struggled with this</a> in every year of my fourteen year career, and I don&#8217;t think it&#8217;s getting resolved anytime soon. This is especially the case when Daniel Willingham, who generally makes great points that I agree with, writes articles<a href="https://www.nytimes.com/2017/05/19/opinion/sunday/you-still-need-your-brain.html?_r=0"> like this one</a>.</li>
+<li>Students could create their own small reference sheet for every exam. I did this because I didn&#8217;t want students memorizing things like double angle identities and formulas for series. The reason this needs work is that some students are still too reliant on having this resource available to ever reach any level of procedural fluency. I know what students need to be fluent later on in the more advanced courses, sure, but I am not convinced that memorization is the way to get there. Timed drills don&#8217;t seem to do it either. This challenge is compounded by the fact that not all students <u>need</u> that level of fluency for future courses, so what role does memorization here play? I have <a href="http://evanweinberg.com/2012/04/17/topic-for-mathchat-do-we-need-students-to-reach-automaticity/">struggled with this</a> in every year of my fourteen year career, and I don&#8217;t think it&#8217;s getting resolved anytime soon. This is especially the case when Daniel Willingham, who generally makes great points that I agree with, writes articles<a href="https://www.nytimes.com/2017/05/19/opinion/sunday/you-still-need-your-brain.html?_r=0"> like this one</a>.</li>
 </ul>
 <h2>Conclusion</h2>
 <p>This course was fun on many levels. I like being there to push students to think more abstractly as they form the foundation of skills that will lead to success in higher levels of mathematics. I like also crafting exercises and explorations that engage and equip the students that are finishing their mathematics careers. We should be able to meet the needs of both groups in one classroom at this stage. </p>
 <p>I frequently reminded myself of the big picture by reading through <a href="http://infinitesums.com/precal/">Jonathan Claydon&#8217;s posts on his own Precalc</a> course development over the years. If you haven&#8217;t checked him out, you should. It&#8217;s also entertaining to pester him about a resource he posted a few years ago and hear him explain how much things have changed since then. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/06/25/2016-2017-year-in-review-precalculus/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/06/25/2016-2017-year-in-review-precalculus/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2750</post-id>	</item>
 		<item>
 		<title>2016 &#8211; 2017 Year In Review: Technology Tools</title>
-		<link>/2017/06/14/2016-2017-year-in-review-technology-tools/</link>
-					<comments>/2017/06/14/2016-2017-year-in-review-technology-tools/#respond</comments>
+		<link>/blog_archive/2017/06/14/2016-2017-year-in-review-technology-tools/</link>
+					<comments>/blog_archive/2017/06/14/2016-2017-year-in-review-technology-tools/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 14 Jun 2017 06:58:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[year-in-review]]></category>
 		<category><![CDATA[#technology]]></category>
-		<guid isPermaLink="false">/?p=2759</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2759</guid>
 
 					<description><![CDATA[Overview I&#8217;ve always been a pretty heavy user of technology. I&#8217;ve been more careful in the past few years to use it for a reason, not for its own sake though. I also balance that use though with a healthy desire to try new things in a way that I]]></description>
 										<content:encoded><![CDATA[<h2> Overview</h2>
@@ -200,7 +200,7 @@
 <li><a href="http://gingerlabs.com/">Notability app</a> for class notes, with a Wacom Tablet for input. I used the wireless accessory kit for around two days, because it disconnected too frequently.</li>
 <li>iPhone as a document camera for capturing student work for sharing answers or for conversation during the class. I would take pictures of student work and use AirDrop to upload them for inclusion in the notes.</li>
 <li><a href="https://moodle.org/">Moodle</a> as a repository for all of the above documents and links. I also used it occasionally for distributing quizzes and automatic grading.</li>
-<li>My <a href="/2016/12/06/scaling-reassessments-yet-again-part-3/">WeinbergCloud</a> website for managing, assigning, and recording reassessments throughout the semester.</li>
+<li>My <a href="http://evanweinberg.com/2016/12/06/scaling-reassessments-yet-again-part-3/">WeinbergCloud</a> website for managing, assigning, and recording reassessments throughout the semester.</li>
 <li><a href="https://www.peardeck.com/">PearDeck</a> on a trial basis for first semester, and then regularly during second. I sometimes used an iPad to manage the class, but every time I regretted it, and just used my computer.</li>
 <li><a href="http://www.desmos.com/calculator">Desmos Calculator</a> usually at least once per lesson</li>
 <li><a href="http://teacher.desmos.com/">Desmos Activity Builder</a> about once per unit per course</li>
@@ -236,15 +236,15 @@
 <p>Having the range of tools I describe above, and not fully committing to one, is both a blessing and a curse. The fragmentation means the residue of learning is distributed across many web addresses. The variety helps keeps students (and me) from getting into a rut. I don&#8217;t know if this balance is appropriately tuned yet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/06/14/2016-2017-year-in-review-technology-tools/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/06/14/2016-2017-year-in-review-technology-tools/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2759</post-id>	</item>
 		<item>
 		<title>2016-2017 Year in Review: Being New</title>
-		<link>/2017/06/13/2016-2017-year-in-review-being-new/</link>
-					<comments>/2017/06/13/2016-2017-year-in-review-being-new/#comments</comments>
+		<link>/blog_archive/2017/06/13/2016-2017-year-in-review-being-new/</link>
+					<comments>/blog_archive/2017/06/13/2016-2017-year-in-review-being-new/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 13 Jun 2017 09:27:33 +0000</pubDate>
@@ -252,11 +252,11 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[year-in-review]]></category>
 		<category><![CDATA[2016-2017]]></category>
-		<guid isPermaLink="false">/?p=2744</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2744</guid>
 
 					<description><![CDATA[Overview This was my first year since 2010 being the new kid in school. Developing a reputation takes time, so I was deliberate about establishing who I am as a teacher from the beginning. I wrote about learning names at the beginning of the year, for example. My school, surpassing]]></description>
 										<content:encoded><![CDATA[<h2> Overview</h2>
-<p>This was my first year since 2010 being the new kid in school. Developing a reputation takes time, so I was deliberate about establishing who I am as a teacher from the beginning. <a href="/2016/08/16/fail-early-fail-often-learning-names/">I wrote about learning</a> names at the beginning of the year, for example. My school, surpassing 1,000 students this year, is the second largest of those at which I have worked. The high school division is just over 320 students. There are many systems that are in place to manage the reality of this group of ninth through twelfth graders that has a tremendous diversity of interests, programs (IB and AP), extra-curricular organizations, and obligations outside of the school walls. I walked in admittedly intimidated by the scope of this place and what it aims to accomplish.</p>
+<p>This was my first year since 2010 being the new kid in school. Developing a reputation takes time, so I was deliberate about establishing who I am as a teacher from the beginning. <a href="http://evanweinberg.com/2016/08/16/fail-early-fail-often-learning-names/">I wrote about learning</a> names at the beginning of the year, for example. My school, surpassing 1,000 students this year, is the second largest of those at which I have worked. The high school division is just over 320 students. There are many systems that are in place to manage the reality of this group of ninth through twelfth graders that has a tremendous diversity of interests, programs (IB and AP), extra-curricular organizations, and obligations outside of the school walls. I walked in admittedly intimidated by the scope of this place and what it aims to accomplish.</p>
 <p>After one of our meetings before student orientation, there was a lot of information that had been shared. I asked our high school principal what the priority needed to be in the first quarter in terms of processing all of that information. He put me at ease &#8211; the focus should be on figuring out how this place works. He promised (and certainly delivered) on a pledge to remind us of what was important throughout the year, but with the understanding that there would be a learning curve for our group of newbies. The faculty is passionate about teaching and creative in how they go about designing classroom experiences. They were intensely committed to sharing what they do and helping those of us that were new how to prioritize at any given time.</p>
 <h2> What worked:</h2>
 <ul>
@@ -276,15 +276,15 @@
 <p>The second year anywhere is always less scattered than the first. The next few weeks are all about figuring about how to use the time not spent learning the ropes.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/06/13/2016-2017-year-in-review-being-new/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/06/13/2016-2017-year-in-review-being-new/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2744</post-id>	</item>
 		<item>
 		<title>2015-2016 Year in Review: IB Mathematics SL/HL</title>
-		<link>/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/</link>
-					<comments>/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/#comments</comments>
+		<link>/blog_archive/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/</link>
+					<comments>/blog_archive/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 26 Jul 2016 04:24:34 +0000</pubDate>
@@ -295,12 +295,12 @@
 		<category><![CDATA[mathematics HL]]></category>
 		<category><![CDATA[mathematics SL]]></category>
 		<category><![CDATA[year in review]]></category>
-		<guid isPermaLink="false">/?p=2501</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2501</guid>
 
 					<description><![CDATA[This was my second year working in the IB program for mathematics. For those that don&#8217;t know, this is a two year program, culminating in an exam at the end of year two. The content of the standard level (SL) and higher level (HL) courses cross algebra, functions, trigonometry, vectors,]]></description>
 										<content:encoded><![CDATA[<p>This was my second year working in the IB program for mathematics. For those that don&#8217;t know, this is a two year program, culminating in an exam at the end of year two. The content of the standard level (SL) and higher level (HL) courses cross algebra, functions, trigonometry, vectors, calculus, statistics, and probability. The HL course goes more into depth in all of these topics, and includes an option that is assessed on a third, one-hour exam paper after the first two parts of the exam.</p>
 <p>An individualized mathematics exploration serves as an internally assessed component of the final grade. This began with two blocks at the end of year one so that students could work on it over the summer. Students then had four class blocks spread out over the first month of school of year two two work and ask questions related to the exploration during class.</p>
-<p>I taught year one again, as well as my first attempt at year two. <a href="/2015/01/02/2031/">As I have written about previously</a>, this was run as a combined block of both SL and HL students together, with two out of every five blocks as HL focused classes. </p>
+<p>I taught year one again, as well as my first attempt at year two. <a href="http://evanweinberg.com/2015/01/02/2031/">As I have written about previously</a>, this was run as a combined block of both SL and HL students together, with two out of every five blocks as HL focused classes. </p>
 <h2> What worked:</h2>
 <ul>
 <li><strong>I was able to streamline the year 1 course to better meet the needs of the students. </strong>Most of my ability in doing this came from knowing the scope of the entire course. Certain topics didn&#8217;t need to be emphasized as I had emphasized in my first attempt last year. It also helped that the students were much better aware of the demands of higher-level vs. standard level from day one.</li>
@@ -332,21 +332,21 @@
 <p>Overall, I think the SL course is a very reasonable exercise in developing mathematical thinking over two years. The HL course is an exercise in speed and fluency. Even highly motivated students of mathematics might be more satisfied with the SL course if they are not driven to meet the demands of HL. I also think that HL students must enjoy being puzzled and should be prepared to use tricks from their preceding years of mathematics education outside of being taught to do so by teachers. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2501</post-id>	</item>
 		<item>
 		<title>2014-2015 Year in Review: Work &#038; Life Balance</title>
-		<link>/2015/08/05/2014-2015-year-in-review-work-life-balance/</link>
-					<comments>/2015/08/05/2014-2015-year-in-review-work-life-balance/#respond</comments>
+		<link>/blog_archive/2015/08/05/2014-2015-year-in-review-work-life-balance/</link>
+					<comments>/blog_archive/2015/08/05/2014-2015-year-in-review-work-life-balance/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 05 Aug 2015 04:14:12 +0000</pubDate>
 				<category><![CDATA[year-in-review]]></category>
 		<category><![CDATA[work life balance]]></category>
-		<guid isPermaLink="false">/?p=2274</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2274</guid>
 
 					<description><![CDATA[This is more of a comment on things I did outside of the classroom rather than in, but it was something that my wife and I made a focused effort to do during the second semester. The idea was simple: buck the routine of the house (and classroom) during the]]></description>
 										<content:encoded><![CDATA[<p>This is more of a comment on things I did <u>outside</u> of the classroom rather than in, but it was something that my wife and I made a focused effort to do during the second semester.</p>
@@ -364,15 +364,15 @@ Parkinson&#8217;s law is the adage that &#8220;work expands so as to fill the ti
 <p>I will be deliberate about continuing this throughout the coming year. This is too important.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/08/05/2014-2015-year-in-review-work-life-balance/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/08/05/2014-2015-year-in-review-work-life-balance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2274</post-id>	</item>
 		<item>
 		<title>2014-2015 Year In Review: IB Physics SL/HL</title>
-		<link>/2015/07/29/2014-2015-year-in-review-ib-physics-slhl/</link>
-					<comments>/2015/07/29/2014-2015-year-in-review-ib-physics-slhl/#comments</comments>
+		<link>/blog_archive/2015/07/29/2014-2015-year-in-review-ib-physics-slhl/</link>
+					<comments>/blog_archive/2015/07/29/2014-2015-year-in-review-ib-physics-slhl/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 29 Jul 2015 03:09:08 +0000</pubDate>
@@ -381,7 +381,7 @@ Parkinson&#8217;s law is the adage that &#8220;work expands so as to fill the ti
 		<category><![CDATA[year-in-review]]></category>
 		<category><![CDATA[IB Physics]]></category>
 		<category><![CDATA[year in review]]></category>
-		<guid isPermaLink="false">/?p=2269</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2269</guid>
 
 					<description><![CDATA[This was my first year teaching IB Physics. The class consisted of a small group of SL students with one HL, and we met every other day according to the block schedule. I completed the first year of the sequence with the following topics, listed in order: Semester 1 Unit]]></description>
 										<content:encoded><![CDATA[<p>This was my first year teaching IB Physics. The class consisted of a small group of SL students with one HL, and we met every other day according to the block schedule. I completed the first year of the sequence with the following topics, listed in order:</p>
@@ -423,19 +423,19 @@ Both of these are examples of how the reference sheet does more harm than good i
 <li><strong>Automaticity in physics (or any subject) shouldn&#8217;t be the goal, but experience with concepts should be.</strong> My students really didn&#8217;t get enough practice solving problems so that they could recognize one situation versus another. I don&#8217;t want students to memorize the conditions for energy being conserved, because a memorized fact doesn&#8217;t mean anything. I do want them to recognize a situation in which energy is conserved, however. I gave them a number of situations, some involving conservation, others not, and hoped to have them see the differences and, over time, develop an awareness of what makes the two situations different. This didn&#8217;t happen, partly because of the previous item about working physics problems alone, but also because they were too wrapped up in the mechanics of solving individual problems to do the big pciture thinking required for that intuition. Group discussions help on this, but this process is ultimately one that will happen on the individual level due to the nature of intuition. This will take some time to figure out.</li>
 <li><strong>Students hated the formal process of writing up <u>any</u> parts of the labs they performed.</strong> This was in spite of what I already said about the students&#8217; positive desire to do experiments. The expressions of terror on the students&#8217; faces when I told them what I wanted them to do with the experiment break my heart. I required them to do a write-up of just <u>one</u> of the criteria for the internal assessment, just so they could familiarize themselves with the expectations when we get to this next year. A big part of this fear is again related to the language issue. Another part of it is just inexperience with the reality of writing about the scientific process. This is another tough egg to crack.</li>
 </ul>
-<p>There was limited interest in the rising junior class for physics, so we won&#8217;t be offering year one to the new class. This means that the only physics class I will have this year will be with the same group of students moving on to the second year of IB physics. One thing I will change for physics is a set of memorization standards, as mentioned in <a href="/2015/07/17/2014-2015-year-in-review-standards-based-grading/">my post about standards based grading this year</a>. Students struggled remembering quick concepts that made problem solving more difficult (e.g. &#8220;What is the relationship between kinetic energy and speed?&#8221;) so I&#8217;ll be holding students responsible for that in a more concrete way.</p>
+<p>There was limited interest in the rising junior class for physics, so we won&#8217;t be offering year one to the new class. This means that the only physics class I will have this year will be with the same group of students moving on to the second year of IB physics. One thing I will change for physics is a set of memorization standards, as mentioned in <a href="http://evanweinberg.com/2015/07/17/2014-2015-year-in-review-standards-based-grading/">my post about standards based grading this year</a>. Students struggled remembering quick concepts that made problem solving more difficult (e.g. &#8220;What is the relationship between kinetic energy and speed?&#8221;) so I&#8217;ll be holding students responsible for that in a more concrete way.</p>
 <p>The issues that need work here are big ones, so I&#8217;ll need some more time to think about what else I will do to address them.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/07/29/2014-2015-year-in-review-ib-physics-slhl/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/07/29/2014-2015-year-in-review-ib-physics-slhl/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2269</post-id>	</item>
 		<item>
 		<title>2014-2015 Year In Review: Web Programming</title>
-		<link>/2015/07/23/2014-2015-year-in-review-web-programming/</link>
-					<comments>/2015/07/23/2014-2015-year-in-review-web-programming/#respond</comments>
+		<link>/blog_archive/2015/07/23/2014-2015-year-in-review-web-programming/</link>
+					<comments>/blog_archive/2015/07/23/2014-2015-year-in-review-web-programming/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 22 Jul 2015 20:09:18 +0000</pubDate>
@@ -446,7 +446,7 @@ Both of these are examples of how the reference sheet does more harm than good i
 		<category><![CDATA[meteor]]></category>
 		<category><![CDATA[web programming]]></category>
 		<category><![CDATA[year in review]]></category>
-		<guid isPermaLink="false">/?p=2262</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2262</guid>
 
 					<description><![CDATA[This was the first year I&#8217;ve taught a computer programming course. The class was a broad survey of programming in HTML5. This was the overall sequence: Semester 1: Hacking a webpage from the browser console HTML tags, structures, and organization CSS &#8211; page design, classes and IDs, along with using]]></description>
 										<content:encoded><![CDATA[<p>This was the first year I&#8217;ve taught a computer programming course. The class was a broad survey of programming in HTML5. This was the overall sequence:</p>
@@ -486,7 +486,7 @@ Both of these are examples of how the reference sheet does more harm than good i
 <li><strong>Students were constantly helping each other with their code&#8230;when they eventually asked for this help</strong>. I was called over many times by students calling out the blanket statement &#8220;my code doesn&#8217;t work&#8221; and then handing me their laptop, but over time they learned that I wasn&#8217;t going to just fix their code for them. They became careful readers of each other&#8217;s code, when they finally made the step to ask someone to help, though this took some time.</li>
 <li><strong>I succeeded in having students <u>do</u> more than <u>listen</u>.</strong> I never talked for more than 15 minutes before students were actually writing and experimenting with code. This was exactly what I wanted.</li>
 <li><strong>20% days were a big hit.</strong> Some students wanted this time as extra processing time to complete the mini projects from the rest of the week. Others liked being able to ask me how to do anything, or to find tutorials for HTML elements that they wanted to learn to use. I really liked how well this worked with this group of students and looked forward to it, and not just because it was a reduction in the planning required for class. </li>
-<li><strong>Videos offered an effective and preferred method for learning to write code in this class.</strong> I put together a number of screencasts in which I spoke about the code, and in some cases coded it live. Students were able to pause, copy code to the editor, and then run it pretty easily. Some zipped through it, others took longer, but this is nothing new. The time required to do this, <a href="/2014/11/27/direct-instruction-videos-whats-your-workflow/">as is always a consideration for me</a>, was often more than I could afford. Luckily, there is plenty of material available already out there, so I was able to step back and give another voice and face a chance to teach my students.</li>
+<li><strong>Videos offered an effective and preferred method for learning to write code in this class.</strong> I put together a number of screencasts in which I spoke about the code, and in some cases coded it live. Students were able to pause, copy code to the editor, and then run it pretty easily. Some zipped through it, others took longer, but this is nothing new. The time required to do this, <a href="http://evanweinberg.com/2014/11/27/direct-instruction-videos-whats-your-workflow/">as is always a consideration for me</a>, was often more than I could afford. Luckily, there is plenty of material available already out there, so I was able to step back and give another voice and face a chance to teach my students.</li>
 </ul>
 <h2>What needs work:</h2>
 <ul>
@@ -498,7 +498,7 @@ Both of these are examples of how the reference sheet does more harm than good i
 <p>Feedback, as always, is welcome!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/07/23/2014-2015-year-in-review-web-programming/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/07/23/2014-2015-year-in-review-web-programming/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

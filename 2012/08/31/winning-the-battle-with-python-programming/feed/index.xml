@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Winning the battle over Python programming	</title>
-	<atom:link href="/2012/08/31/winning-the-battle-with-python-programming/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/08/31/winning-the-battle-with-python-programming/</link>
+	<atom:link href="/blog_archive/2012/08/31/winning-the-battle-with-python-programming/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2012/08/31/winning-the-battle-with-python-programming/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Fri, 31 Aug 2012 13:03:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,16 +23,16 @@
 	<item>
 		<title>
 		By: John Burk		</title>
-		<link>/2012/08/31/winning-the-battle-with-python-programming/#comment-111</link>
+		<link>/blog_archive/2012/08/31/winning-the-battle-with-python-programming/#comment-111</link>
 
 		<dc:creator><![CDATA[John Burk]]></dc:creator>
 		<pubDate>Fri, 31 Aug 2012 13:03:09 +0000</pubDate>
-		<guid isPermaLink="false">/?p=731#comment-111</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=731#comment-111</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/08/31/winning-the-battle-with-python-programming/#comment-110&quot;&gt;Evan Weinberg&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/08/31/winning-the-battle-with-python-programming/#comment-110&quot;&gt;Evan Weinberg&lt;/a&gt;.
 
 I think you can do this with the &lt;a href=&quot;http://docs.python.org/library/random.html&quot; rel=&quot;nofollow ugc&quot;&gt;random&lt;/a&gt;class to generate a random integer, then save it as a a variable and use string replacement to create your prompts.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/08/31/winning-the-battle-with-python-programming/#comment-110">Evan Weinberg</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/08/31/winning-the-battle-with-python-programming/#comment-110">Evan Weinberg</a>.</p>
 <p>I think you can do this with the <a href="http://docs.python.org/library/random.html" rel="nofollow ugc">random</a>class to generate a random integer, then save it as a a variable and use string replacement to create your prompts.</p>
 ]]></content:encoded>
 		
@@ -40,13 +40,13 @@ I think you can do this with the &lt;a href=&quot;http://docs.python.org/library
 		<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/08/31/winning-the-battle-with-python-programming/#comment-110</link>
+		<link>/blog_archive/2012/08/31/winning-the-battle-with-python-programming/#comment-110</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Fri, 31 Aug 2012 12:01:12 +0000</pubDate>
-		<guid isPermaLink="false">/?p=731#comment-110</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=731#comment-110</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/08/31/winning-the-battle-with-python-programming/#comment-109&quot;&gt;John Burk&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/08/31/winning-the-battle-with-python-programming/#comment-109&quot;&gt;John Burk&lt;/a&gt;.
 
 I did not - this is why I continue to be amazed by Python.
 
@@ -55,7 +55,7 @@ Is there a library that will generate random integers or irrational decimals and
 The more I think about it, I see the need for randomization to be written in from the beginning. I want to be able to write questions like &quot;What is the slope of a line passing through (#,#) and (#,@).&quot; or &quot;Convert @ meters per second into miles per hour&quot; where # is replaced by an integer, and @ is replaced by a nasty decimal. This is the one thing I am figuring I need to write myself for my randomized problem generator for reassessments. I have been able to use string substitution, but I lack a clean way to do it so far, because some questions use different quantities of random numbers than others.
 
 I am sure there is an easy way to do this, but I just haven&#039;t found it yet.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/08/31/winning-the-battle-with-python-programming/#comment-109">John Burk</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/08/31/winning-the-battle-with-python-programming/#comment-109">John Burk</a>.</p>
 <p>I did not &#8211; this is why I continue to be amazed by Python.</p>
 <p>Is there a library that will generate random integers or irrational decimals and place them into text? </p>
 <p>The more I think about it, I see the need for randomization to be written in from the beginning. I want to be able to write questions like &#8220;What is the slope of a line passing through (#,#) and (#,@).&#8221; or &#8220;Convert @ meters per second into miles per hour&#8221; where # is replaced by an integer, and @ is replaced by a nasty decimal. This is the one thing I am figuring I need to write myself for my randomized problem generator for reassessments. I have been able to use string substitution, but I lack a clean way to do it so far, because some questions use different quantities of random numbers than others.</p>
@@ -66,11 +66,11 @@ I am sure there is an easy way to do this, but I just haven&#039;t found it yet.
 		<item>
 		<title>
 		By: John Burk		</title>
-		<link>/2012/08/31/winning-the-battle-with-python-programming/#comment-109</link>
+		<link>/blog_archive/2012/08/31/winning-the-battle-with-python-programming/#comment-109</link>
 
 		<dc:creator><![CDATA[John Burk]]></dc:creator>
 		<pubDate>Fri, 31 Aug 2012 11:40:27 +0000</pubDate>
-		<guid isPermaLink="false">/?p=731#comment-109</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=731#comment-109</guid>
 
 					<description><![CDATA[Evan,
 Did you know that python has a &lt;a href=&quot;http://docs.python.org/library/fractions.html&quot; rel=&quot;nofollow ugc&quot;&gt;fraction library&lt;/a&gt;?]]></description>

@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Progress on Python-Powered randomized quiz generator	</title>
-	<atom:link href="/2012/09/01/progress-on-python-powered-randomized-quiz-generator/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/09/01/progress-on-python-powered-randomized-quiz-generator/</link>
+	<atom:link href="/blog_archive/2012/09/01/progress-on-python-powered-randomized-quiz-generator/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2012/09/01/progress-on-python-powered-randomized-quiz-generator/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Mon, 03 Sep 2012 13:16:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,13 +23,13 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/09/01/progress-on-python-powered-randomized-quiz-generator/#comment-114</link>
+		<link>/blog_archive/2012/09/01/progress-on-python-powered-randomized-quiz-generator/#comment-114</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Mon, 03 Sep 2012 13:16:10 +0000</pubDate>
-		<guid isPermaLink="false">/?p=733#comment-114</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=733#comment-114</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/09/01/progress-on-python-powered-randomized-quiz-generator/#comment-113&quot;&gt;Jim P&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/09/01/progress-on-python-powered-randomized-quiz-generator/#comment-113&quot;&gt;Jim P&lt;/a&gt;.
 
 Hi Jim,
 
@@ -38,7 +38,7 @@ If you click on the &#039;play&#039; button, you should see the questions pop up
 Thanks!
 
 Evan]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/09/01/progress-on-python-powered-randomized-quiz-generator/#comment-113">Jim P</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/09/01/progress-on-python-powered-randomized-quiz-generator/#comment-113">Jim P</a>.</p>
 <p>Hi Jim,</p>
 <p>If you click on the &#8216;play&#8217; button, you should see the questions pop up one by one. I&#8217;ve made some changes since the weekend based on some comments, new things I&#8217;ve learned to do, and suggestions from readers and students. Check out the questions and let me know what you think.</p>
 <p>Thanks!</p>
@@ -49,11 +49,11 @@ Evan]]></description>
 		<item>
 		<title>
 		By: Jim P		</title>
-		<link>/2012/09/01/progress-on-python-powered-randomized-quiz-generator/#comment-113</link>
+		<link>/blog_archive/2012/09/01/progress-on-python-powered-randomized-quiz-generator/#comment-113</link>
 
 		<dc:creator><![CDATA[Jim P]]></dc:creator>
 		<pubDate>Sat, 01 Sep 2012 13:34:14 +0000</pubDate>
-		<guid isPermaLink="false">/?p=733#comment-113</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=733#comment-113</guid>
 
 					<description><![CDATA[awesome idea!  I&#039;ve tried doing something similar with excel, but it was far too restricting in terms of what I needed from it.  I would love to learn how this works, but my programming ability is close to non-existent...
 

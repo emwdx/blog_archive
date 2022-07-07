@@ -12,8 +12,8 @@
 
 <channel>
 	<title>reflection</title>
-	<atom:link href="/category/reflection/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/category/reflection/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Tue, 13 Jun 2017 09:27:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.7.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">180381780</site>	<item>
 		<title>2016-2017 Year in Review: Being New</title>
-		<link>/2017/06/13/2016-2017-year-in-review-being-new/</link>
-					<comments>/2017/06/13/2016-2017-year-in-review-being-new/#comments</comments>
+		<link>/blog_archive/2017/06/13/2016-2017-year-in-review-being-new/</link>
+					<comments>/blog_archive/2017/06/13/2016-2017-year-in-review-being-new/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 13 Jun 2017 09:27:33 +0000</pubDate>
@@ -33,11 +33,11 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[year-in-review]]></category>
 		<category><![CDATA[2016-2017]]></category>
-		<guid isPermaLink="false">/?p=2744</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2744</guid>
 
 					<description><![CDATA[Overview This was my first year since 2010 being the new kid in school. Developing a reputation takes time, so I was deliberate about establishing who I am as a teacher from the beginning. I wrote about learning names at the beginning of the year, for example. My school, surpassing]]></description>
 										<content:encoded><![CDATA[<h2> Overview</h2>
-<p>This was my first year since 2010 being the new kid in school. Developing a reputation takes time, so I was deliberate about establishing who I am as a teacher from the beginning. <a href="/2016/08/16/fail-early-fail-often-learning-names/">I wrote about learning</a> names at the beginning of the year, for example. My school, surpassing 1,000 students this year, is the second largest of those at which I have worked. The high school division is just over 320 students. There are many systems that are in place to manage the reality of this group of ninth through twelfth graders that has a tremendous diversity of interests, programs (IB and AP), extra-curricular organizations, and obligations outside of the school walls. I walked in admittedly intimidated by the scope of this place and what it aims to accomplish.</p>
+<p>This was my first year since 2010 being the new kid in school. Developing a reputation takes time, so I was deliberate about establishing who I am as a teacher from the beginning. <a href="http://evanweinberg.com/2016/08/16/fail-early-fail-often-learning-names/">I wrote about learning</a> names at the beginning of the year, for example. My school, surpassing 1,000 students this year, is the second largest of those at which I have worked. The high school division is just over 320 students. There are many systems that are in place to manage the reality of this group of ninth through twelfth graders that has a tremendous diversity of interests, programs (IB and AP), extra-curricular organizations, and obligations outside of the school walls. I walked in admittedly intimidated by the scope of this place and what it aims to accomplish.</p>
 <p>After one of our meetings before student orientation, there was a lot of information that had been shared. I asked our high school principal what the priority needed to be in the first quarter in terms of processing all of that information. He put me at ease &#8211; the focus should be on figuring out how this place works. He promised (and certainly delivered) on a pledge to remind us of what was important throughout the year, but with the understanding that there would be a learning curve for our group of newbies. The faculty is passionate about teaching and creative in how they go about designing classroom experiences. They were intensely committed to sharing what they do and helping those of us that were new how to prioritize at any given time.</p>
 <h2> What worked:</h2>
 <ul>
@@ -57,15 +57,15 @@
 <p>The second year anywhere is always less scattered than the first. The next few weeks are all about figuring about how to use the time not spent learning the ropes.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/06/13/2016-2017-year-in-review-being-new/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/06/13/2016-2017-year-in-review-being-new/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2744</post-id>	</item>
 		<item>
 		<title>Notes to the Future with Google Scripts &#038; PearDeck</title>
-		<link>/2017/01/16/notes-to-the-future-with-google-scripts-peardeck/</link>
-					<comments>/2017/01/16/notes-to-the-future-with-google-scripts-peardeck/#respond</comments>
+		<link>/blog_archive/2017/01/16/notes-to-the-future-with-google-scripts-peardeck/</link>
+					<comments>/blog_archive/2017/01/16/notes-to-the-future-with-google-scripts-peardeck/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 16 Jan 2017 13:01:27 +0000</pubDate>
@@ -73,15 +73,15 @@
 		<category><![CDATA[reflection]]></category>
 		<category><![CDATA[google scripts]]></category>
 		<category><![CDATA[teachers coding]]></category>
-		<guid isPermaLink="false">/?p=2615</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2615</guid>
 
 					<description><![CDATA[I wrote previously about my use of PearDeck in an end of semester activity. One of the slides in this deck was one in which I asked students to write themselves a note containing the things they would want to remember three weeks later at the beginning of semester two.]]></description>
 										<content:encoded><![CDATA[<p>I wrote previously about my use of PearDeck in an end of semester activity. One of the slides in this deck was one in which I asked students to write themselves a note containing the things they would want to remember three weeks later at the beginning of semester two. With vacation now over, that day is now. I wrote a Google script that automatically sends the notes they wrote to each student. This allowed me to generally send these out without inadvertently reading the notes in detail. I saw some of them, but made an effort not to see who was writing what.</p>
 <p>The PearDeck output spreadsheet for this deck looks like this:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM.png" alt="" width="1280" height="1564" class="alignnone size-full wp-image-2616" srcset="/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM.png 1280w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-246x300.png 246w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-838x1024.png 838w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-768x938.png 768w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-1257x1536.png 1257w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-1200x1466.png 1200w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM.png" alt="" width="1280" height="1564" class="alignnone size-full wp-image-2616" srcset="/blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM.png 1280w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-246x300.png 246w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-838x1024.png 838w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-768x938.png 768w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-1257x1536.png 1257w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-7.49.49-PM-1200x1466.png 1200w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
 <p>Column 3 of the spreadsheet contains columns with the student&#8217;s email addresses, so that made it easy to get the address corresponding with a given note to the future, which is column 4. By selecting &#8216;Script Editor&#8217; from the tools menu, you can create a script that has the ability to process this data.</p>
 <p>You can delete the code that is there, and then paste in the code below to create the email script.</p>
-<p><a href="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM.png"><img loading="lazy" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM.png" alt="" width="2720" height="1214" class="alignnone size-full wp-image-2618" srcset="/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM.png 2720w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-300x134.png 300w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-1024x457.png 1024w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-768x343.png 768w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-1536x686.png 1536w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-2048x914.png 2048w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-1200x536.png 1200w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-1980x884.png 1980w" sizes="(max-width: 2720px) 100vw, 2720px" /></a></p>
+<p><a href="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM.png"><img loading="lazy" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM.png" alt="" width="2720" height="1214" class="alignnone size-full wp-image-2618" srcset="/blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM.png 2720w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-300x134.png 300w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-1024x457.png 1024w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-768x343.png 768w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-1536x686.png 1536w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-2048x914.png 2048w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-1200x536.png 1200w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-09-at-8.01.42-PM-1980x884.png 1980w" sizes="(max-width: 2720px) 100vw, 2720px" /></a></p>
 <p>You&#8217;ll need to save the script, and from the run menu, select &#8216;sendEmails&#8217;. You&#8217;ll need to give permission for this script to read the spreadsheet for this to proceed. The emails will all be sent from your Google email.</p>
 <p>Code:<br />
 <code><br />
@@ -112,15 +112,15 @@ function sendEmails() {</p>
 </code></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/01/16/notes-to-the-future-with-google-scripts-peardeck/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/01/16/notes-to-the-future-with-google-scripts-peardeck/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2615</post-id>	</item>
 		<item>
 		<title>2015-2016 Year in Review: IB Mathematics SL/HL</title>
-		<link>/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/</link>
-					<comments>/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/#comments</comments>
+		<link>/blog_archive/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/</link>
+					<comments>/blog_archive/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 26 Jul 2016 04:24:34 +0000</pubDate>
@@ -131,12 +131,12 @@ function sendEmails() {</p>
 		<category><![CDATA[mathematics HL]]></category>
 		<category><![CDATA[mathematics SL]]></category>
 		<category><![CDATA[year in review]]></category>
-		<guid isPermaLink="false">/?p=2501</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2501</guid>
 
 					<description><![CDATA[This was my second year working in the IB program for mathematics. For those that don&#8217;t know, this is a two year program, culminating in an exam at the end of year two. The content of the standard level (SL) and higher level (HL) courses cross algebra, functions, trigonometry, vectors,]]></description>
 										<content:encoded><![CDATA[<p>This was my second year working in the IB program for mathematics. For those that don&#8217;t know, this is a two year program, culminating in an exam at the end of year two. The content of the standard level (SL) and higher level (HL) courses cross algebra, functions, trigonometry, vectors, calculus, statistics, and probability. The HL course goes more into depth in all of these topics, and includes an option that is assessed on a third, one-hour exam paper after the first two parts of the exam.</p>
 <p>An individualized mathematics exploration serves as an internally assessed component of the final grade. This began with two blocks at the end of year one so that students could work on it over the summer. Students then had four class blocks spread out over the first month of school of year two two work and ask questions related to the exploration during class.</p>
-<p>I taught year one again, as well as my first attempt at year two. <a href="/2015/01/02/2031/">As I have written about previously</a>, this was run as a combined block of both SL and HL students together, with two out of every five blocks as HL focused classes. </p>
+<p>I taught year one again, as well as my first attempt at year two. <a href="http://evanweinberg.com/2015/01/02/2031/">As I have written about previously</a>, this was run as a combined block of both SL and HL students together, with two out of every five blocks as HL focused classes. </p>
 <h2> What worked:</h2>
 <ul>
 <li><strong>I was able to streamline the year 1 course to better meet the needs of the students. </strong>Most of my ability in doing this came from knowing the scope of the entire course. Certain topics didn&#8217;t need to be emphasized as I had emphasized in my first attempt last year. It also helped that the students were much better aware of the demands of higher-level vs. standard level from day one.</li>
@@ -168,15 +168,15 @@ function sendEmails() {</p>
 <p>Overall, I think the SL course is a very reasonable exercise in developing mathematical thinking over two years. The HL course is an exercise in speed and fluency. Even highly motivated students of mathematics might be more satisfied with the SL course if they are not driven to meet the demands of HL. I also think that HL students must enjoy being puzzled and should be prepared to use tricks from their preceding years of mathematics education outside of being taught to do so by teachers. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/07/26/2015-2016-year-in-review-ib-mathematics-slhl/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2501</post-id>	</item>
 		<item>
 		<title>Exploring Functions (and Non-Functions) Interactively</title>
-		<link>/2016/04/29/exploring-functions-and-non-functions-interactively/</link>
-					<comments>/2016/04/29/exploring-functions-and-non-functions-interactively/#comments</comments>
+		<link>/blog_archive/2016/04/29/exploring-functions-and-non-functions-interactively/</link>
+					<comments>/blog_archive/2016/04/29/exploring-functions-and-non-functions-interactively/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2016 02:23:16 +0000</pubDate>
@@ -187,13 +187,13 @@ function sendEmails() {</p>
 		<category><![CDATA[javascript]]></category>
 		<category><![CDATA[SMP]]></category>
 		<category><![CDATA[teachers coding]]></category>
-		<guid isPermaLink="false">/?p=2441</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2441</guid>
 
 					<description><![CDATA[Heeding Dan&#8217;s encouragement to step things up in his NCTM talk, I revisited an introduction to functions activity that I put together three years ago. The idea is to get students to make observations about inputs and outputs and use the &#8216;notice and wonder&#8217; parlance from the Math Forum to]]></description>
 										<content:encoded><![CDATA[<p>Heeding Dan&#8217;s encouragement to step things up in his NCTM talk, I revisited an introduction to functions activity that I put together three years ago. The idea is to get students to make observations about inputs and outputs and use the <a href="http://mathforum.org/workshops/universal/documents/notice_wonder_intro.pdf">&#8216;notice and wonder&#8217; parlance from the Math Forum</a> to prompt conversations about these ideas.</p>
 <p>I rewrote the activity with some deliberate changes and webified it to make it easy to access and share &#8211; you can find it here:<br />
 <a href="http://emwdx.github.io/functions-exploration/index.html">http://emwdx.github.io/functions-exploration/index.html</a></p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1024x562.png" alt="Screen Shot 2016-04-29 at 9.55.09 AM" width="500" height="274" class="alignnone size-large wp-image-2442" srcset="/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1024x562.png 1024w, /wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-300x165.png 300w, /wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-768x422.png 768w, /wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1536x844.png 1536w, /wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-2048x1125.png 2048w, /wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1200x659.png 1200w, /wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1980x1087.png 1980w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1024x562.png" alt="Screen Shot 2016-04-29 at 9.55.09 AM" width="500" height="274" class="alignnone size-large wp-image-2442" srcset="/blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1024x562.png 1024w, /blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-300x165.png 300w, /blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-768x422.png 768w, /blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1536x844.png 1536w, /blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-2048x1125.png 2048w, /blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1200x659.png 1200w, /blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-29-at-9.55.09-AM-1980x1087.png 1980w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>The activity has a few elements that I want to highlight with the hope that you might consider (a) trying the activity  with your students or (b) downloading the code for the activity, tweaking it, and then re-sharing it with your enhancements.</p>
 <h3>Students go through the modeling cycle multiple times.</h3>
 <p>The activity begs students to take a playful approach. Change the input value and watch the output. Predict what&#8217;s going to happen and see if your mental model is correct. Then do the next one, and the next.</p>
@@ -217,38 +217,38 @@ function sendEmails() {</p>
 <p>Happy coding!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/04/29/exploring-functions-and-non-functions-interactively/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/04/29/exploring-functions-and-non-functions-interactively/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2441</post-id>	</item>
 		<item>
 		<title>The Incredible Growing Bricks</title>
-		<link>/2016/04/21/the-incredible-growing-bricks/</link>
-					<comments>/2016/04/21/the-incredible-growing-bricks/#respond</comments>
+		<link>/blog_archive/2016/04/21/the-incredible-growing-bricks/</link>
+					<comments>/blog_archive/2016/04/21/the-incredible-growing-bricks/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 21 Apr 2016 02:02:11 +0000</pubDate>
 				<category><![CDATA[geometry]]></category>
 		<category><![CDATA[reflection]]></category>
-		<guid isPermaLink="false">/?p=2438</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2438</guid>
 
 					<description><![CDATA[I put together this three-act activity two years ago, and decided to include it in the playlist for this year&#8217;s Math 9 course. The students got right to work in figuring out the total mass of the three bricks together. This time, I circulated the actual bricks among the students]]></description>
 										<content:encoded><![CDATA[<p>I put together this <a href="http://www.101qs.com/2902-the-incredible-growing-bricks">three-act activity</a> two years ago, and decided to include it in the playlist for this year&#8217;s Math 9 course. The students got right to work in figuring out the total mass of the three bricks together.</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM.png" rel="attachment wp-att-2439"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM-300x172.png" alt="Screen Shot 2016-04-21 at 9.42.25 AM" width="300" height="172" class="alignnone size-medium wp-image-2439" srcset="/wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM-300x172.png 300w, /wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM-768x440.png 768w, /wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM.png 954w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM.png" rel="attachment wp-att-2439"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM-300x172.png" alt="Screen Shot 2016-04-21 at 9.42.25 AM" width="300" height="172" class="alignnone size-medium wp-image-2439" srcset="/blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM-300x172.png 300w, /blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM-768x440.png 768w, /blog_archive/wp-content/uploads/2016/04/Screen-Shot-2016-04-21-at-9.42.25-AM.png 954w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>This time, I circulated the actual bricks among the students as they worked. I opted not to do this two years ago because I wanted to force them to use the dimensions in the image above to find their answers. The result was that some students chose to make the measurements themselves rather than use the image. This yielded some great interactions between students <i>asking</i> if the bricks were proportional to each other, and those <i>assuming</i> they were proportional. There were some excellent examples of strong explanations involving proportional reasoning among the student work, as well as typical examples of misconceptions, such as the mass being proportional to the scale factor between the sides.</p>
 <p>I also did something new with this modeling task and asked students to predict their <u>uncertainty</u>. Often times, students see that they were close to the actual answer revealed in the third act (but not exactly equal), and subsequently classify their answers as wrong. The uncertainties allow more flexibility in this regard. It also revealed some misunderstanding of the relationship between uncertainty and reporting answers that wasn&#8217;t unexpected: one student gave 16.895 grams, with an uncertainty of plus or minus 0.1 grams. This is a frequent issue in science classes, but not something I&#8217;ve addressed with mathematics students in the past.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/04/21/the-incredible-growing-bricks/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/04/21/the-incredible-growing-bricks/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2438</post-id>	</item>
 		<item>
 		<title>Taking Time Learning Math: A Student&#8217;s Perspective</title>
-		<link>/2016/03/18/taking-time-learning-math-a-students-perspective/</link>
-					<comments>/2016/03/18/taking-time-learning-math-a-students-perspective/#comments</comments>
+		<link>/blog_archive/2016/03/18/taking-time-learning-math-a-students-perspective/</link>
+					<comments>/blog_archive/2016/03/18/taking-time-learning-math-a-students-perspective/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 18 Mar 2016 03:26:33 +0000</pubDate>
@@ -256,7 +256,7 @@ function sendEmails() {</p>
 		<category><![CDATA[teaching philosophy]]></category>
 		<category><![CDATA[student feedback]]></category>
 		<category><![CDATA[time]]></category>
-		<guid isPermaLink="false">/?p=2419</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2419</guid>
 
 					<description><![CDATA[Yesterday was our school&#8217;s student led conference day. I&#8217;ve written previously on how proud these days make me as an educator. Whens students do genuine reflection on their learning and share the ups and downs of their school days, it&#8217;s hard not to see the value of this as an]]></description>
 										<content:encoded><![CDATA[<p>Yesterday was our school&#8217;s student led conference day. I&#8217;ve written previously on how proud these days make me as an educator. Whens students do genuine reflection on their learning and share the ups and downs of their school days, it&#8217;s hard not to see the value of this as an exercise.</p>
@@ -269,15 +269,15 @@ function sendEmails() {</p>
 <p>I know I always feel compelled to nudge a class forward in some way. This doesn&#8217;t mean I moving through material more quickly, but I do push for increased depth, intuition, or quality conversation about the content in every class period. Her comment makes me realize that something still stands to be improved. Great food for thought for the weekend. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/03/18/taking-time-learning-math-a-students-perspective/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/03/18/taking-time-learning-math-a-students-perspective/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2419</post-id>	</item>
 		<item>
 		<title>An Easy Transformation: Right Triangle Trigonometry</title>
-		<link>/2016/02/21/an-easy-transformation-right-triangle-trigonometry/</link>
-					<comments>/2016/02/21/an-easy-transformation-right-triangle-trigonometry/#comments</comments>
+		<link>/blog_archive/2016/02/21/an-easy-transformation-right-triangle-trigonometry/</link>
+					<comments>/blog_archive/2016/02/21/an-easy-transformation-right-triangle-trigonometry/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sun, 21 Feb 2016 13:02:52 +0000</pubDate>
@@ -286,36 +286,36 @@ function sendEmails() {</p>
 		<category><![CDATA[teaching philosophy]]></category>
 		<category><![CDATA[makeover]]></category>
 		<category><![CDATA[simplification]]></category>
-		<guid isPermaLink="false">/?p=2390</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2390</guid>
 
 					<description><![CDATA[From Haese and Harris MYP 9: I was looking for problems to give my students as applications of the right angle trigonometry from our previous class. The problem is essentially equivalent to the basic questions requiring them to find an unknown side or angle &#8211; the work is all done]]></description>
 										<content:encoded><![CDATA[<p>From Haese and Harris MYP 9:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM.png" rel="attachment wp-att-2392"><img loading="lazy" class="alignnone size-large wp-image-2392" src="http://blog.evanweinberg.org/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM-1024x251.png" alt="Screen Shot 2016-02-21 at 5.07.33 PM" width="500" height="123" srcset="/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM-1024x251.png 1024w, /wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM-300x74.png 300w, /wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM-768x188.png 768w, /wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM.png 1110w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM.png" rel="attachment wp-att-2392"><img loading="lazy" class="alignnone size-large wp-image-2392" src="http://blog.evanweinberg.org/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM-1024x251.png" alt="Screen Shot 2016-02-21 at 5.07.33 PM" width="500" height="123" srcset="/blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM-1024x251.png 1024w, /blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM-300x74.png 300w, /blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM-768x188.png 768w, /blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.07.33-PM.png 1110w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>I was looking for problems to give my students as applications of the right angle trigonometry from our previous class. The problem is essentially equivalent to the basic questions requiring them to find an unknown side or angle &#8211; the work is all done for them. One of my standards is all about parsing a word problem for the information needed to answer it, and this question does not require students to do any parsing.</p>
 <p>I removed all of the measurements, and this problem became remarkably more demanding:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM.png" rel="attachment wp-att-2393"><img loading="lazy" class="alignnone size-large wp-image-2393" src="http://blog.evanweinberg.org/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-1024x252.png" alt="Screen Shot 2016-02-21 at 5.08.48 PM" width="500" height="123" srcset="/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-1024x252.png 1024w, /wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-300x74.png 300w, /wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-768x189.png 768w, /wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-1200x295.png 1200w, /wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM.png 1512w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM.png" rel="attachment wp-att-2393"><img loading="lazy" class="alignnone size-large wp-image-2393" src="http://blog.evanweinberg.org/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-1024x252.png" alt="Screen Shot 2016-02-21 at 5.08.48 PM" width="500" height="123" srcset="/blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-1024x252.png 1024w, /blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-300x74.png 300w, /blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-768x189.png 768w, /blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM-1200x295.png 1200w, /blog_archive/wp-content/uploads/2016/02/Screen-Shot-2016-02-21-at-5.08.48-PM.png 1512w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>This will certainly prompt more conversation than in its original form.</p>
 <p>It&#8217;s embarrassing how easy it was to make this change &#8211; I anticipate a nice payoff in class.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/02/21/an-easy-transformation-right-triangle-trigonometry/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/02/21/an-easy-transformation-right-triangle-trigonometry/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2390</post-id>	</item>
 		<item>
 		<title>Project Nora</title>
-		<link>/2015/12/23/project-nora/</link>
-					<comments>/2015/12/23/project-nora/#respond</comments>
+		<link>/blog_archive/2015/12/23/project-nora/</link>
+					<comments>/blog_archive/2015/12/23/project-nora/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 23 Dec 2015 04:31:59 +0000</pubDate>
 				<category><![CDATA[reflection]]></category>
-		<guid isPermaLink="false">/?p=2368</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2368</guid>
 
 					<description><![CDATA[A week ago, my wife and I saw the official beginning of a new project. Here&#8217;s a photo from the ride home: This past week has been a rapid tour through a set of ideas both familiar and foreign. We&#8217;ve gotten advice in many different forms and from varied groups]]></description>
 										<content:encoded><![CDATA[<p>A week ago, my wife and I saw the official beginning of a new project. Here&#8217;s a photo from the ride home:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n.jpg" rel="attachment wp-att-2369"><img loading="lazy" class="size-medium wp-image-2369 aligncenter" src="http://blog.evanweinberg.org/wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n-300x225.jpg" alt="12341535_10104528399986929_4285096946701414429_n" width="300" height="225" srcset="/wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n-300x225.jpg 300w, /wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n-768x576.jpg 768w, /wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n.jpg" rel="attachment wp-att-2369"><img loading="lazy" class="size-medium wp-image-2369 aligncenter" src="http://blog.evanweinberg.org/wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n-300x225.jpg" alt="12341535_10104528399986929_4285096946701414429_n" width="300" height="225" srcset="/blog_archive/wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n-300x225.jpg 300w, /blog_archive/wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n-768x576.jpg 768w, /blog_archive/wp-content/uploads/2015/12/12341535_10104528399986929_4285096946701414429_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>This past week has been a rapid tour through a set of ideas both familiar and foreign. We&#8217;ve gotten advice in many different forms and from varied groups of people, and we are grateful for the assistance. The one vague bit of advice that has made the most sense through it all: be flexible and appreciate each moment for what it is. I am frightened with the speed with which the minutes drift away while my daughter sleeps in my arms.</p>
 <p>I&#8217;ve also gotten an appreciation for my own learning process. I read a lot in the months leading up to the birth. I listened to lots of stories from those who had been through this before, including my own parents. None of it truly made sense to me until I was actually experiencing things myself. I changed diapers and used way too many wipes. I watched the nurses give our daughter a bath. I&#8217;ve needed experienced people to tell me how to make a swaddle that lasts longer than thirty seconds &#8211; my own learning has often taken a backseat to restoring my daughter&#8217;s comfort. Others have told me what worked for their infants, and I take that advice as it applies, but given that every child is different, I understand there is no cure-all in this process. If nothing else, walking around in the middle of the night swaying her back and forth is a really comfortable way to be present and enjoy the moment.</p>
 <p>I&#8217;m grateful to all of you who have wished us well and shared your recommendations and experience. My wife inspires me with the patience she has shown with our daughter (and with me) as we figure out how the pieces fit together. Spending this winter break with the new &#8216;us&#8217; at home is truly a gift.</p>
@@ -323,15 +323,15 @@ function sendEmails() {</p>
 <p>Happy holidays everyone!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/12/23/project-nora/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/12/23/project-nora/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2368</post-id>	</item>
 		<item>
 		<title>A New Year, A New Formula Sheet</title>
-		<link>/2015/08/26/a-new-year-a-new-formula-sheet/</link>
-					<comments>/2015/08/26/a-new-year-a-new-formula-sheet/#respond</comments>
+		<link>/blog_archive/2015/08/26/a-new-year-a-new-formula-sheet/</link>
+					<comments>/blog_archive/2015/08/26/a-new-year-a-new-formula-sheet/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 26 Aug 2015 14:04:52 +0000</pubDate>
@@ -340,29 +340,29 @@ function sendEmails() {</p>
 		<category><![CDATA[equations]]></category>
 		<category><![CDATA[formula sheet]]></category>
 		<category><![CDATA[reference]]></category>
-		<guid isPermaLink="false">/?p=2277</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2277</guid>
 
 					<description><![CDATA[I wrote earlier this year about my difficulties with equation reference sheets. Students fall into the habit of using them like a menu rather than a set of tools. Yesterday I had the great experience of trying a revised approach. The idea is to rely more on memorization, but only]]></description>
-										<content:encoded><![CDATA[<p>I wrote earlier this year <a href="/2015/04/10/formula-sheet-a-toolbox-or-takeout-menu/">about my difficulties with equation reference</a> sheets. Students fall into the habit of using them like a menu rather than a set of tools.</p>
+										<content:encoded><![CDATA[<p>I wrote earlier this year <a href="http://evanweinberg.com/2015/04/10/formula-sheet-a-toolbox-or-takeout-menu/">about my difficulties with equation reference</a> sheets. Students fall into the habit of using them like a menu rather than a set of tools.</p>
 <p>Yesterday I had the great experience of trying a revised approach. The idea is to rely more on memorization, but only so far as keeping close definitions that are crucial to understanding.</p>
 <p>A student asked during a quiz for a formula for electric field. I said I wasn&#8217;t going to provide one, so I pushed further to find out why this student needed it.</p>
 <p>The student asked for the relationship between electric field, charge, and force. I provided this:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/08/IMG_1381.jpg"><img loading="lazy" class="alignnone wp-image-2278 size-medium" src="http://blog.evanweinberg.org/wp-content/uploads/2015/08/IMG_1381-e1440597375442-225x300.jpg" alt="IMG_1381" width="225" height="300" srcset="/wp-content/uploads/2015/08/IMG_1381-e1440597375442-225x300.jpg 225w, /wp-content/uploads/2015/08/IMG_1381-e1440597375442-768x1024.jpg 768w, /wp-content/uploads/2015/08/IMG_1381-e1440597375442-1152x1536.jpg 1152w, /wp-content/uploads/2015/08/IMG_1381-e1440597375442-1536x2048.jpg 1536w, /wp-content/uploads/2015/08/IMG_1381-e1440597375442-1200x1600.jpg 1200w, /wp-content/uploads/2015/08/IMG_1381-e1440597375442-1980x2640.jpg 1980w, /wp-content/uploads/2015/08/IMG_1381-e1440597375442-scaled.jpg 1920w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2015/08/IMG_1381.jpg"><img loading="lazy" class="alignnone wp-image-2278 size-medium" src="http://blog.evanweinberg.org/wp-content/uploads/2015/08/IMG_1381-e1440597375442-225x300.jpg" alt="IMG_1381" width="225" height="300" srcset="/blog_archive/wp-content/uploads/2015/08/IMG_1381-e1440597375442-225x300.jpg 225w, /blog_archive/wp-content/uploads/2015/08/IMG_1381-e1440597375442-768x1024.jpg 768w, /blog_archive/wp-content/uploads/2015/08/IMG_1381-e1440597375442-1152x1536.jpg 1152w, /blog_archive/wp-content/uploads/2015/08/IMG_1381-e1440597375442-1536x2048.jpg 1536w, /blog_archive/wp-content/uploads/2015/08/IMG_1381-e1440597375442-1200x1600.jpg 1200w, /blog_archive/wp-content/uploads/2015/08/IMG_1381-e1440597375442-1980x2640.jpg 1980w, /blog_archive/wp-content/uploads/2015/08/IMG_1381-e1440597375442-scaled.jpg 1920w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
 <p>The student subsequently nodded and told me what went where. I then stepped away, keeping the post-it note with me. </p>
 <p>This was an application of the definition of electric field, not Coulomb&#8217;s law, and the student either knew this, or guessed. In either case, it was enough to enable the student to then solve the problem completely.</p>
 <p>I don&#8217;t know yet what this means, but it seems like a step in the right direction. I wonder if providing a reference sheet with random elements erased might be enough of a skeleton to encourage the students to know how to fill in the blanks, but wouldn&#8217;t allow the sort of hunting that students often do in a problem solving situation.</p>
 <p>It has been a nice start to the year, folks. Here&#8217;s to a great school year for all of you.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/08/26/a-new-year-a-new-formula-sheet/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/08/26/a-new-year-a-new-formula-sheet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2277</post-id>	</item>
 		<item>
 		<title>2014-2015 Year In Review: Web Programming</title>
-		<link>/2015/07/23/2014-2015-year-in-review-web-programming/</link>
-					<comments>/2015/07/23/2014-2015-year-in-review-web-programming/#respond</comments>
+		<link>/blog_archive/2015/07/23/2014-2015-year-in-review-web-programming/</link>
+					<comments>/blog_archive/2015/07/23/2014-2015-year-in-review-web-programming/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 22 Jul 2015 20:09:18 +0000</pubDate>
@@ -373,7 +373,7 @@ function sendEmails() {</p>
 		<category><![CDATA[meteor]]></category>
 		<category><![CDATA[web programming]]></category>
 		<category><![CDATA[year in review]]></category>
-		<guid isPermaLink="false">/?p=2262</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2262</guid>
 
 					<description><![CDATA[This was the first year I&#8217;ve taught a computer programming course. The class was a broad survey of programming in HTML5. This was the overall sequence: Semester 1: Hacking a webpage from the browser console HTML tags, structures, and organization CSS &#8211; page design, classes and IDs, along with using]]></description>
 										<content:encoded><![CDATA[<p>This was the first year I&#8217;ve taught a computer programming course. The class was a broad survey of programming in HTML5. This was the overall sequence:</p>
@@ -413,7 +413,7 @@ function sendEmails() {</p>
 <li><strong>Students were constantly helping each other with their code&#8230;when they eventually asked for this help</strong>. I was called over many times by students calling out the blanket statement &#8220;my code doesn&#8217;t work&#8221; and then handing me their laptop, but over time they learned that I wasn&#8217;t going to just fix their code for them. They became careful readers of each other&#8217;s code, when they finally made the step to ask someone to help, though this took some time.</li>
 <li><strong>I succeeded in having students <u>do</u> more than <u>listen</u>.</strong> I never talked for more than 15 minutes before students were actually writing and experimenting with code. This was exactly what I wanted.</li>
 <li><strong>20% days were a big hit.</strong> Some students wanted this time as extra processing time to complete the mini projects from the rest of the week. Others liked being able to ask me how to do anything, or to find tutorials for HTML elements that they wanted to learn to use. I really liked how well this worked with this group of students and looked forward to it, and not just because it was a reduction in the planning required for class. </li>
-<li><strong>Videos offered an effective and preferred method for learning to write code in this class.</strong> I put together a number of screencasts in which I spoke about the code, and in some cases coded it live. Students were able to pause, copy code to the editor, and then run it pretty easily. Some zipped through it, others took longer, but this is nothing new. The time required to do this, <a href="/2014/11/27/direct-instruction-videos-whats-your-workflow/">as is always a consideration for me</a>, was often more than I could afford. Luckily, there is plenty of material available already out there, so I was able to step back and give another voice and face a chance to teach my students.</li>
+<li><strong>Videos offered an effective and preferred method for learning to write code in this class.</strong> I put together a number of screencasts in which I spoke about the code, and in some cases coded it live. Students were able to pause, copy code to the editor, and then run it pretty easily. Some zipped through it, others took longer, but this is nothing new. The time required to do this, <a href="http://evanweinberg.com/2014/11/27/direct-instruction-videos-whats-your-workflow/">as is always a consideration for me</a>, was often more than I could afford. Luckily, there is plenty of material available already out there, so I was able to step back and give another voice and face a chance to teach my students.</li>
 </ul>
 <h2>What needs work:</h2>
 <ul>
@@ -425,7 +425,7 @@ function sendEmails() {</p>
 <p>Feedback, as always, is welcome!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2015/07/23/2014-2015-year-in-review-web-programming/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2015/07/23/2014-2015-year-in-review-web-programming/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

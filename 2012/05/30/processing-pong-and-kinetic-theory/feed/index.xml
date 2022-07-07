@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Processing, Pong, and Kinetic Theory	</title>
-	<atom:link href="/2012/05/30/processing-pong-and-kinetic-theory/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/05/30/processing-pong-and-kinetic-theory/</link>
+	<atom:link href="/blog_archive/2012/05/30/processing-pong-and-kinetic-theory/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2012/05/30/processing-pong-and-kinetic-theory/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Wed, 30 May 2012 03:23:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,20 +23,20 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/05/30/processing-pong-and-kinetic-theory/#comment-77</link>
+		<link>/blog_archive/2012/05/30/processing-pong-and-kinetic-theory/#comment-77</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Wed, 30 May 2012 03:23:39 +0000</pubDate>
-		<guid isPermaLink="false">/?p=631#comment-77</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=631#comment-77</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/05/30/processing-pong-and-kinetic-theory/#comment-76&quot;&gt;John Burk&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/05/30/processing-pong-and-kinetic-theory/#comment-76&quot;&gt;John Burk&lt;/a&gt;.
 
 Wow - the discovery idea for that would be crazy cool. I wouldn&#039;t have known how to attempt that before learning some OOP, but I think I can see how that might be put together without too much struggle.
 
 I remember my dad bringing home a copy of Borland Turbo C++ compiler for us to experiment with. I think I tried writing a one-line program and ran into a syntax error, and couldn&#039;t figure out what I was doing wrong, so I stopped. I had a bit more success with Visual Basic/VBA, but got annoyed with it being tied to windows &#038; office programs. 
 
 The entry cost of getting started with programming is so low now with languages like Python and Processing that it&#039;s easy to get excited about getting them into the hands of students. The trick is in making sure their first programming experience is smooth enough and interesting enough that they want to come back.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/05/30/processing-pong-and-kinetic-theory/#comment-76">John Burk</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/05/30/processing-pong-and-kinetic-theory/#comment-76">John Burk</a>.</p>
 <p>Wow &#8211; the discovery idea for that would be crazy cool. I wouldn&#8217;t have known how to attempt that before learning some OOP, but I think I can see how that might be put together without too much struggle.</p>
 <p>I remember my dad bringing home a copy of Borland Turbo C++ compiler for us to experiment with. I think I tried writing a one-line program and ran into a syntax error, and couldn&#8217;t figure out what I was doing wrong, so I stopped. I had a bit more success with Visual Basic/VBA, but got annoyed with it being tied to windows &amp; office programs. </p>
 <p>The entry cost of getting started with programming is so low now with languages like Python and Processing that it&#8217;s easy to get excited about getting them into the hands of students. The trick is in making sure their first programming experience is smooth enough and interesting enough that they want to come back.</p>
@@ -46,11 +46,11 @@ The entry cost of getting started with programming is so low now with languages 
 		<item>
 		<title>
 		By: John Burk		</title>
-		<link>/2012/05/30/processing-pong-and-kinetic-theory/#comment-76</link>
+		<link>/blog_archive/2012/05/30/processing-pong-and-kinetic-theory/#comment-76</link>
 
 		<dc:creator><![CDATA[John Burk]]></dc:creator>
 		<pubDate>Wed, 30 May 2012 02:35:53 +0000</pubDate>
-		<guid isPermaLink="false">/?p=631#comment-76</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=631#comment-76</guid>
 
 					<description><![CDATA[Evan,
 Processing is awesome. I&#039;ve only played with it a bit, but I&#039;m really impressed with how easily it lets you create stuff like this.  Where were languages like python and processing when I was growing up? 

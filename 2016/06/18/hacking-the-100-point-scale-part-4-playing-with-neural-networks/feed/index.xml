@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Hacking the 100-point Scale &#8211; Part 4: Playing with Neural Networks	</title>
-	<atom:link href="/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/feed/" rel="self" type="application/rss+xml" />
-	<link>/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/</link>
+	<atom:link href="/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Thu, 14 Jul 2016 13:34:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,18 +23,18 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-475</link>
+		<link>/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-475</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Thu, 14 Jul 2016 13:34:47 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2473#comment-475</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2473#comment-475</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-473&quot;&gt;Xavier&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-473&quot;&gt;Xavier&lt;/a&gt;.
 
 That&#039;s the same thing I&#039;m looking to do as I develop this idea. The only thing is that I need to make a tool that simplifies the process of differently sized rubrics and skill levels, as you described. You are describing the essence of standards based grading there, something I&#039;ve used for the past three years and have grown to love.
 
 The only thing I&#039;d adjust is the sum. I&#039;m not convinced yet of the benefit of combining all of those scores into one through addition - it&#039;s a loss of information as far as I can tell. I might not be understanding what you mean though.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-473">Xavier</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-473">Xavier</a>.</p>
 <p>That&#8217;s the same thing I&#8217;m looking to do as I develop this idea. The only thing is that I need to make a tool that simplifies the process of differently sized rubrics and skill levels, as you described. You are describing the essence of standards based grading there, something I&#8217;ve used for the past three years and have grown to love.</p>
 <p>The only thing I&#8217;d adjust is the sum. I&#8217;m not convinced yet of the benefit of combining all of those scores into one through addition &#8211; it&#8217;s a loss of information as far as I can tell. I might not be understanding what you mean though.</p>
 ]]></content:encoded>
@@ -43,11 +43,11 @@ The only thing I&#039;d adjust is the sum. I&#039;m not convinced yet of the ben
 		<item>
 		<title>
 		By: Clara Maxcy (Cleargrace)		</title>
-		<link>/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-474</link>
+		<link>/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-474</link>
 
 		<dc:creator><![CDATA[Clara Maxcy (Cleargrace)]]></dc:creator>
 		<pubDate>Thu, 23 Jun 2016 11:41:34 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2473#comment-474</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2473#comment-474</guid>
 
 					<description><![CDATA[I like the idea that the grade process should be driven by the rubric. And then for into the 100 pt scale b/c of the grading systems used by our schools and put out to our parents. 
 If I look at your images generating the 1, 2, 3, 4: all 3s generates a 4, which appears to be equivalent to 100.
@@ -67,11 +67,11 @@ Sorry- going beyond the scope here. I like the process you are trying to build.<
 		<item>
 		<title>
 		By: Xavier		</title>
-		<link>/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-473</link>
+		<link>/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-473</link>
 
 		<dc:creator><![CDATA[Xavier]]></dc:creator>
 		<pubDate>Sun, 19 Jun 2016 16:18:02 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2473#comment-473</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2473#comment-473</guid>
 
 					<description><![CDATA[Thanks, Evan, for all these posts. These days I ponder about the assessment. My conclusion is that each activity could be assessed for different criteria/skills. For example: a word problem could have these skills: 1) understand the problem 2) plan an strategy to solve the problem 3) apply this strategy coherently 4) give correct answer and 5) interpret the results and give predictions. Each student when does an activity she gets some number: 6 for example. But what does it mean 6 in this? Which skills are missing? Which are the best abilities of her?
 
@@ -91,18 +91,18 @@ Thanks a lot,]]></description>
 		<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-472</link>
+		<link>/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-472</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Sun, 19 Jun 2016 11:34:32 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2473#comment-472</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2473#comment-472</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-471&quot;&gt;Mr. P&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-471&quot;&gt;Mr. P&lt;/a&gt;.
 
 Hi Paul,
 
 Thanks for identifying yourself - the extra detail here is useful background information. I&#039;m curious about the grade percentages you picked for these standard levels. What did you use to generate these?]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-471">Mr. P</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-471">Mr. P</a>.</p>
 <p>Hi Paul,</p>
 <p>Thanks for identifying yourself &#8211; the extra detail here is useful background information. I&#8217;m curious about the grade percentages you picked for these standard levels. What did you use to generate these?</p>
 ]]></content:encoded>
@@ -111,11 +111,11 @@ Thanks for identifying yourself - the extra detail here is useful background inf
 		<item>
 		<title>
 		By: Mr. P		</title>
-		<link>/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-471</link>
+		<link>/blog_archive/2016/06/18/hacking-the-100-point-scale-part-4-playing-with-neural-networks/#comment-471</link>
 
 		<dc:creator><![CDATA[Mr. P]]></dc:creator>
 		<pubDate>Sun, 19 Jun 2016 11:30:17 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2473#comment-471</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2473#comment-471</guid>
 
 					<description><![CDATA[Evan, thanks for the deep thoughts in writing this up and trying to find a consistent way to have our students know where they stand.  I was the &quot;Paul&quot; who submitted a grading scale.  I attempted standards based grading and had to find a way to translate it to a 100 point scale.  I only gave a student a Zero if they did not attempt the quiz/test in a meaningful way.  
 I originally went with a 1,2,3,4 whole number scale, trying to keep it as simple as possible, but I would find when I was grading that a student was almost there, but didn&#039;t quite get it. So I ended up putting in half steps. 

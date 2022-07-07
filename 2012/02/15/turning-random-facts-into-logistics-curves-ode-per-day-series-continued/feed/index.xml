@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Turning random facts into logistics curves &#8211; ODE per day series continued.	</title>
-	<atom:link href="/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/</link>
+	<atom:link href="/blog_archive/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Thu, 16 Feb 2012 04:50:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,13 +23,13 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/#comment-54</link>
+		<link>/blog_archive/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/#comment-54</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Thu, 16 Feb 2012 04:50:12 +0000</pubDate>
-		<guid isPermaLink="false">/?p=404#comment-54</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=404#comment-54</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/#comment-53&quot;&gt;John Burk&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/#comment-53&quot;&gt;John Burk&lt;/a&gt;.
 
 Hey John, 
 
@@ -40,7 +40,7 @@ I was surprised initially too, but the more I think about it, the more I think t
 It would be interesting to pose this to students and ask them to choose a task that would skew the curve in a given way.
 
 There&#039;s a lot of interesting stuff embedded in this - glad to have happened upon it!]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/#comment-53">John Burk</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/#comment-53">John Burk</a>.</p>
 <p>Hey John, </p>
 <p>Thanks for the comment &#8211; I hadn&#8217;t heard of gist before, it is perfect for this. I used the image because pasting lost the indents and I didn&#8217;t have time to fix it, but your solution is better!</p>
 <p>I was surprised initially too, but the more I think about it, the more I think that all of the random variables involved make it hard NOT to look like this. Increasing/decreasing the difficulty of the task will scale it horizontally. The type of task does too &#8211; I purposely asked two things that would require more than just a quick calculation. </p>
@@ -52,11 +52,11 @@ There&#039;s a lot of interesting stuff embedded in this - glad to have happened
 		<item>
 		<title>
 		By: John Burk		</title>
-		<link>/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/#comment-53</link>
+		<link>/blog_archive/2012/02/15/turning-random-facts-into-logistics-curves-ode-per-day-series-continued/#comment-53</link>
 
 		<dc:creator><![CDATA[John Burk]]></dc:creator>
 		<pubDate>Wed, 15 Feb 2012 13:43:35 +0000</pubDate>
-		<guid isPermaLink="false">/?p=404#comment-53</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=404#comment-53</guid>
 
 					<description><![CDATA[Evan,
 I really like this and never thought you would have gotten such nice data from such a small dataset. One small suggestion from code thieves like me. Could you put your code in a &lt;a href=&quot;https://gist.github.com/&quot; rel=&quot;nofollow ugc&quot;&gt;github gist &lt;/a&gt; so that those who want to play with it can use it?]]></description>

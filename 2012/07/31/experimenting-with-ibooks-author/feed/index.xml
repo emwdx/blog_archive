@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Experimenting with iBooks Author	</title>
-	<atom:link href="/2012/07/31/experimenting-with-ibooks-author/feed/" rel="self" type="application/rss+xml" />
-	<link>/2012/07/31/experimenting-with-ibooks-author/</link>
+	<atom:link href="/blog_archive/2012/07/31/experimenting-with-ibooks-author/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2012/07/31/experimenting-with-ibooks-author/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Fri, 31 Aug 2012 11:31:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,11 +23,11 @@
 	<item>
 		<title>
 		By: Winning the battle with Python programming &#124; gealgerobophysiculus		</title>
-		<link>/2012/07/31/experimenting-with-ibooks-author/#comment-93</link>
+		<link>/blog_archive/2012/07/31/experimenting-with-ibooks-author/#comment-93</link>
 
 		<dc:creator><![CDATA[Winning the battle with Python programming &#124; gealgerobophysiculus]]></dc:creator>
 		<pubDate>Fri, 31 Aug 2012 11:31:57 +0000</pubDate>
-		<guid isPermaLink="false">/?p=716#comment-93</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=716#comment-93</guid>
 
 					<description><![CDATA[[...] application of this: sequences and series. Even simpler, the first task I gave the students was to look at the number of bricks in the rows of a triangular tower and use Python to add up the bricks in each row. This started as a couple of exercises getting to [...]]]></description>
 			<content:encoded><![CDATA[<p>[&#8230;] application of this: sequences and series. Even simpler, the first task I gave the students was to look at the number of bricks in the rows of a triangular tower and use Python to add up the bricks in each row. This started as a couple of exercises getting to [&#8230;]</p>

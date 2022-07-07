@@ -12,8 +12,8 @@
 
 <channel>
 	<title>teaching philosophy</title>
-	<atom:link href="/category/teaching-philosophy/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/category/teaching-philosophy/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Mon, 05 Jun 2017 03:02:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.7.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">180381780</site>	<item>
 		<title>Too Many Reassessments, Just in Time for Summer</title>
-		<link>/2017/06/05/too-many-reassessments-just-in-time-for-summer/</link>
-					<comments>/2017/06/05/too-many-reassessments-just-in-time-for-summer/#respond</comments>
+		<link>/blog_archive/2017/06/05/too-many-reassessments-just-in-time-for-summer/</link>
+					<comments>/blog_archive/2017/06/05/too-many-reassessments-just-in-time-for-summer/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 05 Jun 2017 03:02:55 +0000</pubDate>
@@ -33,15 +33,15 @@
 		<category><![CDATA[teaching philosophy]]></category>
 		<category><![CDATA[end-of-year]]></category>
 		<category><![CDATA[reassessments]]></category>
-		<guid isPermaLink="false">/?p=2739</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2739</guid>
 
 					<description><![CDATA[I posted this graph of cumulative reassessments versus the day of the semester on Twitter: That, my friends, is a reassessment system gone wild. The appropriate title for that image, as one person pointed out, is Too Many Reassessments. The grand total for this semester was 711. There are obvious]]></description>
 										<content:encoded><![CDATA[<p>I posted this graph of cumulative reassessments versus the day of the semester on Twitter:<br />
-<a href="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/06/Unknown.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/06/Unknown-1024x1024.png" alt="" width="604" height="604" class="alignnone size-large wp-image-2740" srcset="/wp-content/uploads/2017/06/Unknown-1024x1024.png 1024w, /wp-content/uploads/2017/06/Unknown-300x300.png 300w, /wp-content/uploads/2017/06/Unknown-150x150.png 150w, /wp-content/uploads/2017/06/Unknown-768x768.png 768w, /wp-content/uploads/2017/06/Unknown-1536x1536.png 1536w, /wp-content/uploads/2017/06/Unknown-1200x1200.png 1200w, /wp-content/uploads/2017/06/Unknown-1980x1980.png 1980w, /wp-content/uploads/2017/06/Unknown.png 2000w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
+<a href="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/06/Unknown.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/06/Unknown-1024x1024.png" alt="" width="604" height="604" class="alignnone size-large wp-image-2740" srcset="/blog_archive/wp-content/uploads/2017/06/Unknown-1024x1024.png 1024w, /blog_archive/wp-content/uploads/2017/06/Unknown-300x300.png 300w, /blog_archive/wp-content/uploads/2017/06/Unknown-150x150.png 150w, /blog_archive/wp-content/uploads/2017/06/Unknown-768x768.png 768w, /blog_archive/wp-content/uploads/2017/06/Unknown-1536x1536.png 1536w, /blog_archive/wp-content/uploads/2017/06/Unknown-1200x1200.png 1200w, /blog_archive/wp-content/uploads/2017/06/Unknown-1980x1980.png 1980w, /blog_archive/wp-content/uploads/2017/06/Unknown.png 2000w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
 <p>That, my friends, is a reassessment system gone wild. The appropriate title for that image, as one person pointed out, is <u>Too Many Reassessments</u>. The grand total for this semester was 711. There are obvious bunches of reassessments close to the ends of the quarters when the grade book closes.</p>
 <p>Here is a histogram of the reassessment data for the semester. There is some discrepancy in the total number in the data here, but I haven&#8217;t figured out exactly where that is.</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1024x469.png" alt="" width="604" height="277" class="alignnone size-large wp-image-2741" srcset="/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1024x469.png 1024w, /wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-300x137.png 300w, /wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-768x352.png 768w, /wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1536x704.png 1536w, /wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-2048x938.png 2048w, /wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1200x550.png 1200w, /wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1980x907.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a> </p>
-<p>I committed to transplanting the system I have used in the past to my new school this year, and didn&#8217;t want to make a full change without seeing how this would play out. This semester I was much more consistent in the types of questions I gave students reassessing, changing grades based on a reassessment, and the choice I offered them for the level of reassessment. <a href="/2017/02/21/sbg-and-leveling-up-part-3-the-machine-thinks/">Some of this I wrote about at the beginning of the semester.</a> </p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1024x469.png" alt="" width="604" height="277" class="alignnone size-large wp-image-2741" srcset="/blog_archive/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1024x469.png 1024w, /blog_archive/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-300x137.png 300w, /blog_archive/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-768x352.png 768w, /blog_archive/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1536x704.png 1536w, /blog_archive/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-2048x938.png 2048w, /blog_archive/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1200x550.png 1200w, /blog_archive/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-8.33.43-AM-1980x907.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a> </p>
+<p>I committed to transplanting the system I have used in the past to my new school this year, and didn&#8217;t want to make a full change without seeing how this would play out. This semester I was much more consistent in the types of questions I gave students reassessing, changing grades based on a reassessment, and the choice I offered them for the level of reassessment. <a href="http://evanweinberg.com/2017/02/21/sbg-and-leveling-up-part-3-the-machine-thinks/">Some of this I wrote about at the beginning of the semester.</a> </p>
 <p>The most important observation I can make at this point is that this system is not sustainable as is. I cannot make my sign-up and credit system more efficient to manage the volume &#8211; that isn&#8217;t the issue. I&#8217;m satisfied with the quality of the questions I give students. I&#8217;ve developed a pretty nice bank of questions that span the spectrum of application, understanding, and transfer. The bigger issue is my capacity to give the sort of feedback I want to give to students <u>throughout</u> the semester. I have many conversations about learning, and many of them are great, but I cannot multiply myself to have as many of those conversations as I want.</p>
 <p>Here&#8217;s a graph of the average learning standards grade for a sample of students compared with the number of reassessments:<br />
 <iframe loading="lazy" src="https://www.desmos.com/calculator/h6h0pgot9k?embed" width="500px" height="500px" style="border: 1px solid #ccc" frameborder=0></iframe></p>
@@ -54,24 +54,24 @@
 <li>How do I give meaningful guidance to the student that aces everything on the first try? How do I get them more involved in finding learning that is meaningful, rather than waiting for me to tell them what to learn?</li>
 <li>What do the students think? I&#8217;ve collected all sorts of anecdotal evidence that students appreciate the opportunities to reassess, and not just in a superficial way related to their course grade. I&#8217;ve given students an end of year survey to complete, and those results are rolling in slowly as students complete their final exams.</li>
 </ul>
-<p>These are the big picture questions that add one more reason to be thankful that the summer is ahead. Getting back to my main point, I am brought back to the idea that quality feedback is the main way we as teachers add value.<a href="/2017/05/06/scaling-in-education/"> This, like many things in education, is not easy to scale.</a> This need for improving and scaling the transfer of feedback is really the only basis for innovation in the ed-tech realm that interests me at all these days. So far, despite the best intentions of many that are trying, machine learning is not the answer yet. Make it easy for me to organize and collect student thinking, respond to that thinking, and give helpful nudges to the resources needed to make progress, and then I&#8217;ll consider your product.</p>
+<p>These are the big picture questions that add one more reason to be thankful that the summer is ahead. Getting back to my main point, I am brought back to the idea that quality feedback is the main way we as teachers add value.<a href="http://evanweinberg.com/2017/05/06/scaling-in-education/"> This, like many things in education, is not easy to scale.</a> This need for improving and scaling the transfer of feedback is really the only basis for innovation in the ed-tech realm that interests me at all these days. So far, despite the best intentions of many that are trying, machine learning is not the answer yet. Make it easy for me to organize and collect student thinking, respond to that thinking, and give helpful nudges to the resources needed to make progress, and then I&#8217;ll consider your product.</p>
 <p>Final exam marking is ahead. Stay tuned.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/06/05/too-many-reassessments-just-in-time-for-summer/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/06/05/too-many-reassessments-just-in-time-for-summer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2739</post-id>	</item>
 		<item>
 		<title>Assumptions About the Basics</title>
-		<link>/2017/05/19/assumptions-about-the-basics/</link>
-					<comments>/2017/05/19/assumptions-about-the-basics/#respond</comments>
+		<link>/blog_archive/2017/05/19/assumptions-about-the-basics/</link>
+					<comments>/blog_archive/2017/05/19/assumptions-about-the-basics/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 19 May 2017 02:32:42 +0000</pubDate>
 				<category><![CDATA[teaching philosophy]]></category>
-		<guid isPermaLink="false">/?p=2719</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2719</guid>
 
 					<description><![CDATA[&#8220;I&#8217;m just going to teach it again from the basics.&#8221; This approach makes some assumptions: Students that didn&#8217;t understand the topic on a first exposure will benefit from just seeing the topic be developed again. Students that did understand the first time will get confirmation of what they remember. Colleagues]]></description>
 										<content:encoded><![CDATA[<h3>&#8220;I&#8217;m just going to teach it again from the basics.&#8221;</h3>
@@ -89,20 +89,20 @@
 <p>We must aim much higher than that. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/05/19/assumptions-about-the-basics/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/05/19/assumptions-about-the-basics/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2719</post-id>	</item>
 		<item>
 		<title>Scaling in Education</title>
-		<link>/2017/05/06/scaling-in-education/</link>
-					<comments>/2017/05/06/scaling-in-education/#respond</comments>
+		<link>/blog_archive/2017/05/06/scaling-in-education/</link>
+					<comments>/blog_archive/2017/05/06/scaling-in-education/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 06 May 2017 03:31:07 +0000</pubDate>
 				<category><![CDATA[teaching philosophy]]></category>
-		<guid isPermaLink="false">/?p=2707</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2707</guid>
 
 					<description><![CDATA[From today&#8217;s New York Times article, The Broken Promises of Choice in New York City Schools. &#8220;Ultimately, there just are not enough good schools to go around. And so it is a system in which some children win and others lose because of factors beyond their control — like where]]></description>
 										<content:encoded><![CDATA[<p>From today&#8217;s New York Times article, <a href="https://nyti.ms/2pcI71q">The Broken Promises of Choice in New York City Schools</a>.</p>
@@ -113,15 +113,15 @@
 <p>People matter. We should be skeptical of anyone that seeks to minimize this reality.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/05/06/scaling-in-education/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/05/06/scaling-in-education/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2707</post-id>	</item>
 		<item>
 		<title>An Experiment: Swapping Numerical Grades for Skill-Levels and Emoji</title>
-		<link>/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/</link>
-					<comments>/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/#respond</comments>
+		<link>/blog_archive/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/</link>
+					<comments>/blog_archive/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Wed, 19 Apr 2017 04:54:13 +0000</pubDate>
@@ -131,7 +131,7 @@
 		<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[emoji grading]]></category>
 		<category><![CDATA[numerical grades]]></category>
-		<guid isPermaLink="false">/?p=2693</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2693</guid>
 
 					<description><![CDATA[I decided to try something different for my pre-Calculus class for the past three weeks. There was a mix of factors that led me to do this when I did: The quarter ended one week, with spring break beginning at the end of the next. Not a great time to]]></description>
 										<content:encoded><![CDATA[<p>I decided to try something different for my pre-Calculus class for the past three weeks. There was a mix of factors that led me to do this when I did:</p>
@@ -151,7 +151,7 @@
 <li>Questions related to Unit 7 would still appear on the final exam for the semester, where scores will be point based.</li>
 </ul>
 <p>I also let students submit some examples of an appropriate scale. Here&#8217;s what I settled on based on their recommendations:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM.png"><img loading="lazy" class="alignnone size-medium wp-image-2696" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-300x32.png" alt="" width="300" height="32" srcset="/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-300x32.png 300w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-1024x109.png 1024w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-768x82.png 768w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-1200x127.png 1200w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM.png 1526w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM.png"><img loading="lazy" class="alignnone size-medium wp-image-2696" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-300x32.png" alt="" width="300" height="32" srcset="/blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-300x32.png 300w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-1024x109.png 1024w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-768x82.png 768w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM-1200x127.png 1200w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-10.58.05-AM.png 1526w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>I also asked them for their feedback before this all began. Here&#8217;s what they said:</p>
 <ul>
 <li>Positive Feedback:
@@ -172,8 +172,8 @@
 <p>So I proceeded with the unit. I used a mix of direct instruction, some Trello style lists of tasks from textbooks, websites, and Desmos, and lots of circulating and helping students individually where they needed it. I tried to keep the only major change to this unit to be the communication of the scores through the grade book using the emoji and verbal designation of beginner, intermediate, expert. As I also said earlier, I gave skills quizzes throughout.</p>
 <p>The unit exam was a series of medium level questions that I wanted to use to gauge where students were when everything was together. As with my other units, I gave a review class after the spring break where students could work on their own and in groups, asking questions where they needed it. Anecdotally, the class was as focused and productive as for any other unit this year.</p>
 <p>I was able to ask one group some questions about this after their unit test, and here&#8217;s how they responded:</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM.png"><img loading="lazy" class="alignnone wp-image-2697 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1024x303.png" alt="" width="604" height="179" srcset="/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1024x303.png 1024w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-300x89.png 300w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-768x227.png 768w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1536x454.png 1536w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-2048x605.png 2048w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1200x355.png 1200w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1980x585.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM.png"><img loading="lazy" class="alignnone wp-image-2698 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1024x300.png" alt="" width="604" height="177" srcset="/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1024x300.png 1024w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-300x88.png 300w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-768x225.png 768w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1536x449.png 1536w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-2048x599.png 2048w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1200x351.png 1200w, /wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1980x579.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM.png"><img loading="lazy" class="alignnone wp-image-2697 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1024x303.png" alt="" width="604" height="179" srcset="/blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1024x303.png 1024w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-300x89.png 300w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-768x227.png 768w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1536x454.png 1536w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-2048x605.png 2048w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1200x355.png 1200w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.21-AM-1980x585.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM.png"><img loading="lazy" class="alignnone wp-image-2698 size-large" src="http://blog.evanweinberg.org/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1024x300.png" alt="" width="604" height="177" srcset="/blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1024x300.png 1024w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-300x88.png 300w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-768x225.png 768w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1536x449.png 1536w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-2048x599.png 2048w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1200x351.png 1200w, /blog_archive/wp-content/uploads/2017/04/Screen-Shot-2017-04-19-at-11.36.10-AM-1980x579.png 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
 <p>The fact that the stress level was the same, if not less, was good to see. The effort level did drop in the case of a couple of students here, but for the most part, there isn&#8217;t any major change. This class as a whole values working independently, so I&#8217;m not surprised that none reported working <u>harder</u> during this unit.</p>
 <p>I also asked them to give me general feedback about the no-numerical-grades policy. Some of them deleted their responses before I could take a look, but here&#8217;s some of what they shared:</p>
 <ul>
@@ -192,25 +192,25 @@
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/04/19/an-experiment-swapping-numerical-grades-for-skill-levels-and-emoji/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2693</post-id>	</item>
 		<item>
 		<title>After Individualized Learning, What Comes Next?</title>
-		<link>/2017/01/20/after-individualized-learning-what-comes-next/</link>
-					<comments>/2017/01/20/after-individualized-learning-what-comes-next/#respond</comments>
+		<link>/blog_archive/2017/01/20/after-individualized-learning-what-comes-next/</link>
+					<comments>/blog_archive/2017/01/20/after-individualized-learning-what-comes-next/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 20 Jan 2017 09:42:22 +0000</pubDate>
 				<category><![CDATA[teaching philosophy]]></category>
 		<category><![CDATA[student centered learning]]></category>
-		<guid isPermaLink="false">/?p=2647</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2647</guid>
 
 					<description><![CDATA[This was my classroom in the latter part of the last block of the day. I should point out that I usually have students seated closer together in groups. Conversation happens more organically in that configuration. I gave a quiz where I didn&#8217;t want to set hard time limits. As]]></description>
 										<content:encoded><![CDATA[<p>This was my classroom in the latter part of the last block of the day.</p>
-<p><a href="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/IMG_4169.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/01/IMG_4169-1024x768.jpg" alt="" width="604" height="453" class="alignnone size-large wp-image-2648" srcset="/wp-content/uploads/2017/01/IMG_4169-1024x768.jpg 1024w, /wp-content/uploads/2017/01/IMG_4169-300x225.jpg 300w, /wp-content/uploads/2017/01/IMG_4169-768x576.jpg 768w, /wp-content/uploads/2017/01/IMG_4169-1536x1152.jpg 1536w, /wp-content/uploads/2017/01/IMG_4169-2048x1536.jpg 2048w, /wp-content/uploads/2017/01/IMG_4169-1200x900.jpg 1200w, /wp-content/uploads/2017/01/IMG_4169-1980x1485.jpg 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
+<p><a href="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/IMG_4169.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/01/IMG_4169-1024x768.jpg" alt="" width="604" height="453" class="alignnone size-large wp-image-2648" srcset="/blog_archive/wp-content/uploads/2017/01/IMG_4169-1024x768.jpg 1024w, /blog_archive/wp-content/uploads/2017/01/IMG_4169-300x225.jpg 300w, /blog_archive/wp-content/uploads/2017/01/IMG_4169-768x576.jpg 768w, /blog_archive/wp-content/uploads/2017/01/IMG_4169-1536x1152.jpg 1536w, /blog_archive/wp-content/uploads/2017/01/IMG_4169-2048x1536.jpg 2048w, /blog_archive/wp-content/uploads/2017/01/IMG_4169-1200x900.jpg 1200w, /blog_archive/wp-content/uploads/2017/01/IMG_4169-1980x1485.jpg 1980w" sizes="(max-width: 604px) 100vw, 604px" /></a></p>
 <p>I should point out that I usually have students seated closer together in groups. Conversation happens more organically in that configuration. I gave a quiz where I didn&#8217;t want to set hard time limits. As each finished, I nudged them to work on their own on a PearDeck assignment.</p>
 <p>This is what it looks like when everyone is working at their own pace. Each student with a single screen, each solving problems and answering questions.</p>
 <p>I like that I can drift from student to student and either ask or answer questions when the time seems right. I can see each student&#8217;s answers on the online teacher dashboard. I can decide which conversations I need to have. Students can also decide if they need to have conversations with me. I involved myself in student learning with surgical precision.</p>
@@ -240,53 +240,53 @@
 <p>All of these are crucial. Any one channel we use loses its effectiveness to learning when it becomes routine. I think this is especially the case when that routine involves staring at an entity that can&#8217;t talk or laugh back.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/01/20/after-individualized-learning-what-comes-next/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/01/20/after-individualized-learning-what-comes-next/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2647</post-id>	</item>
 		<item>
 		<title>Building Up or Breaking Down: Creating States-n-Plates</title>
-		<link>/2017/01/08/building-up-or-breaking-down-creating-states-n-plates/</link>
-					<comments>/2017/01/08/building-up-or-breaking-down-creating-states-n-plates/#respond</comments>
+		<link>/blog_archive/2017/01/08/building-up-or-breaking-down-creating-states-n-plates/</link>
+					<comments>/blog_archive/2017/01/08/building-up-or-breaking-down-creating-states-n-plates/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sun, 08 Jan 2017 13:33:18 +0000</pubDate>
 				<category><![CDATA[teaching philosophy]]></category>
 		<category><![CDATA[programming]]></category>
 		<category><![CDATA[react]]></category>
-		<guid isPermaLink="false">/?p=2605</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2605</guid>
 
 					<description><![CDATA[In piecing together States-n-Plates, I wanted to learn more about React, a web application library created by Facebook. In the process, I found myself finding parallels in how I go about learning anything. Before I describe the details, I&#8217;ll give a (hopefully brief) description of what React does. An HTML]]></description>
 										<content:encoded><![CDATA[<p>In piecing together <a href="http://mrmeyer.com/statesplates/">States-n-Plates</a>, I wanted to learn more about <a href="https://facebook.github.io/react/">React</a>, a web application library created by Facebook. In the process, I found myself finding parallels in how I go about learning <u>anything</u>. </p>
 <p>Before I describe the details, I&#8217;ll give a (hopefully brief) description of what React does. </p>
-<p><a href="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM.png"><img loading="lazy" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM.png" alt="" width="2008" height="1412" class="alignnone size-full wp-image-2606" srcset="/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM.png 2008w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-300x211.png 300w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-1024x720.png 1024w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-768x540.png 768w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-1536x1080.png 1536w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-1200x844.png 1200w, /wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-1980x1392.png 1980w" sizes="(max-width: 2008px) 100vw, 2008px" /></a></p>
+<p><a href="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM.png"><img loading="lazy" src="http://ec2-13-229-58-164.ap-southeast-1.compute.amazonaws.com/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM.png" alt="" width="2008" height="1412" class="alignnone size-full wp-image-2606" srcset="/blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM.png 2008w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-300x211.png 300w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-1024x720.png 1024w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-768x540.png 768w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-1536x1080.png 1536w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-1200x844.png 1200w, /blog_archive/wp-content/uploads/2017/01/Screen-Shot-2017-01-03-at-11.19.30-PM-1980x1392.png 1980w" sizes="(max-width: 2008px) 100vw, 2008px" /></a></p>
 <p>An HTML page normally consists of HTML tags that tell the browser what to display, with other rules that also describe how the HTML should look. A page created through React reframes that page as a series of components that each serve a different function. The image components need to have the ability to be dragged onto the targets. The targets need to be able to accept a dragged image, and need to be able to indicate whether the image dragged onto the target corresponds with the correct plate. The scoreboard needs to know how many states have been correctly matched at any given time. The components also have the ability to respond when a user clicks, types, or drags other components into them.</p>
 <p>In a well designed React application, each component uses information from the component that contains it in order to behave (or, um, react) as the application is used. Building the pathways for how this information flows from one component into another is deliberately designed so that each component can act independently from another. </p>
 <p>When I first started working on creating States and Plates, I started with a fully formed webpage that looked much like the final product above. I followed the React documents that then suggested breaking the page down into components, one by one. I did this without really understanding in detail what I was doing, but was able to get the components to each have the appearance of the original web page, which felt like real progress. Eventually, my progress was halted when I reached the limits of what I understood. I needed help. </p>
 <p>It was at this point when I picked up a book on React and started working through the basics. I began to understand better what the guiding philosophies of React were &#8211; the design decisions, the behaviors that one component had in response to another, and how to think through an application the React way. This was where it was helpful to read the perspectives of some people much more experienced then me &#8211; I understood the vocabulary they used and could make the connections I needed to make progress.</p>
 <p>With some of the basics figured out, I rethought the application from scratch. Rather than starting with the webpage as a whole, I started creating components and making sure each one worked as expected before moving on.</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/01/PastedGraphic-2.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/01/PastedGraphic-2.png" alt="" width="2332" height="552" class="alignnone size-full wp-image-2607" srcset="/wp-content/uploads/2017/01/PastedGraphic-2.png 2332w, /wp-content/uploads/2017/01/PastedGraphic-2-300x71.png 300w, /wp-content/uploads/2017/01/PastedGraphic-2-1024x242.png 1024w, /wp-content/uploads/2017/01/PastedGraphic-2-768x182.png 768w, /wp-content/uploads/2017/01/PastedGraphic-2-1536x364.png 1536w, /wp-content/uploads/2017/01/PastedGraphic-2-2048x485.png 2048w, /wp-content/uploads/2017/01/PastedGraphic-2-1200x284.png 1200w, /wp-content/uploads/2017/01/PastedGraphic-2-1980x469.png 1980w" sizes="(max-width: 2332px) 100vw, 2332px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2017/01/PastedGraphic-2.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2017/01/PastedGraphic-2.png" alt="" width="2332" height="552" class="alignnone size-full wp-image-2607" srcset="/blog_archive/wp-content/uploads/2017/01/PastedGraphic-2.png 2332w, /blog_archive/wp-content/uploads/2017/01/PastedGraphic-2-300x71.png 300w, /blog_archive/wp-content/uploads/2017/01/PastedGraphic-2-1024x242.png 1024w, /blog_archive/wp-content/uploads/2017/01/PastedGraphic-2-768x182.png 768w, /blog_archive/wp-content/uploads/2017/01/PastedGraphic-2-1536x364.png 1536w, /blog_archive/wp-content/uploads/2017/01/PastedGraphic-2-2048x485.png 2048w, /blog_archive/wp-content/uploads/2017/01/PastedGraphic-2-1200x284.png 1200w, /blog_archive/wp-content/uploads/2017/01/PastedGraphic-2-1980x469.png 1980w" sizes="(max-width: 2332px) 100vw, 2332px" /></a></p>
 <p>By the end, I felt comfortable thinking about my application both from a bird&#8217;s eye view and on an individual component level. I needed to have the experience of breaking the idea down into individual pieces and seeing how they interacted with each other to produce the whole. I needed to take time seeing what rules guided the function of one component in order to understand the whole. If I had started by reading the documentation as my step one, I would not have had the context that the big picture view of the application yielded for when I actually did so in my learning. Both views were important, and neither view was sufficient on its own to lead to full understanding or transfer.</p>
 <p>We need to give our students opportunities to have both views of the content we teach. Insisting that student mastery of the basics is a necessary gatekeeper to higher levels of thought misses opportunities to understand the context of that basic knowledge. Student exploration of concepts through Desmos or Geogebra or problem solving is a great way to engage with the standards of mathematical practice, but without discussion, review of underlying concepts, or (gasp!) direct instruction where needed, opportunities for growth might be limited. </p>
 <p>Let&#8217;s make sure, as a team, that we are attacking this problem from both ends.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/01/08/building-up-or-breaking-down-creating-states-n-plates/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/01/08/building-up-or-breaking-down-creating-states-n-plates/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2605</post-id>	</item>
 		<item>
 		<title>Zack Miller and his PBL/PBL Merger</title>
-		<link>/2017/01/03/zack-miller-and-his-pblpbl-merger/</link>
-					<comments>/2017/01/03/zack-miller-and-his-pblpbl-merger/#respond</comments>
+		<link>/blog_archive/2017/01/03/zack-miller-and-his-pblpbl-merger/</link>
+					<comments>/blog_archive/2017/01/03/zack-miller-and-his-pblpbl-merger/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 02 Jan 2017 17:10:19 +0000</pubDate>
 				<category><![CDATA[teaching philosophy]]></category>
 		<category><![CDATA[project based learning]]></category>
-		<guid isPermaLink="false">/?p=2599</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2599</guid>
 
 					<description><![CDATA[I&#8217;ve been skeptical about Project Based Learning (PBL) for a while, despite many people trying to sell me on it as being a step up from more traditional instruction. I like the concept, but I have too many reservations with veto-power to keep me from jumping in completely. These are]]></description>
 										<content:encoded><![CDATA[<p>I&#8217;ve been skeptical about Project Based Learning (PBL) for a while, despite many people trying to sell me on it as being a step up from more traditional instruction. I like the concept, but I have too many reservations with veto-power to keep me from jumping in completely. These are my main issues:</p>
@@ -299,21 +299,21 @@
 <p>His posts are pushing my thinking a bit, and I&#8217;m liking how it&#8217;s getting me to adjust some plans for this semester. Check out his blog when you can.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/01/03/zack-miller-and-his-pblpbl-merger/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/01/03/zack-miller-and-his-pblpbl-merger/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2599</post-id>	</item>
 		<item>
 		<title>More of What Matters</title>
-		<link>/2017/01/02/more-of-what-matters/</link>
-					<comments>/2017/01/02/more-of-what-matters/#respond</comments>
+		<link>/blog_archive/2017/01/02/more-of-what-matters/</link>
+					<comments>/blog_archive/2017/01/02/more-of-what-matters/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sun, 01 Jan 2017 17:01:33 +0000</pubDate>
 				<category><![CDATA[teaching philosophy]]></category>
 		<category><![CDATA[2017]]></category>
-		<guid isPermaLink="false">/?p=2595</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2595</guid>
 
 					<description><![CDATA[Just over a year ago, my first daughter was born. Like most newborns, she couldn&#8217;t hold her head up. Yesterday I watched her pick up her pacifier from a table and plop it in her mouth. It made me realize that I&#8217;ve witnessed the entire progression of skill development that]]></description>
 										<content:encoded><![CDATA[<p>Just over a year ago, my first daughter was born. Like most newborns, she couldn&#8217;t hold her head up. Yesterday I watched her pick up her pacifier from a table and plop it in her mouth. </p>
@@ -324,20 +324,20 @@
 <p>Be well, everyone. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2017/01/02/more-of-what-matters/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2017/01/02/more-of-what-matters/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2595</post-id>	</item>
 		<item>
 		<title>Acting Upon One&#8217;s Beliefs</title>
-		<link>/2016/11/18/acting-upon-ones-beliefs/</link>
-					<comments>/2016/11/18/acting-upon-ones-beliefs/#respond</comments>
+		<link>/blog_archive/2016/11/18/acting-upon-ones-beliefs/</link>
+					<comments>/blog_archive/2016/11/18/acting-upon-ones-beliefs/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 18 Nov 2016 02:53:02 +0000</pubDate>
 				<category><![CDATA[teaching philosophy]]></category>
-		<guid isPermaLink="false">/?p=2585</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2585</guid>
 
 					<description><![CDATA[Suppose you know in your heart that what you believe is right, and others disagree. If you are in control, do you charge on ahead and act upon your beliefs? Do you frame this as merely a communication problem, or is it something bigger? What is your responsibility to&#8230; &#8230;those]]></description>
 										<content:encoded><![CDATA[<p>Suppose you know in your heart that what you believe is right, and others disagree. </p>
@@ -354,15 +354,15 @@
 <p>These questions have bounced around in my head since last week, and not just in relation to the U.S. election. It bothers me a <u>lot</u> that I can&#8217;t answer my own questions with any certainty right now.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/11/18/acting-upon-ones-beliefs/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/11/18/acting-upon-ones-beliefs/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">2585</post-id>	</item>
 		<item>
 		<title>Class Notes and Workflow (On The Other Side of the Wall)</title>
-		<link>/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/</link>
-					<comments>/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/#respond</comments>
+		<link>/blog_archive/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/</link>
+					<comments>/blog_archive/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Mon, 31 Oct 2016 13:13:26 +0000</pubDate>
@@ -371,12 +371,12 @@
 		<category><![CDATA[Google docs]]></category>
 		<category><![CDATA[notebook]]></category>
 		<category><![CDATA[workflow]]></category>
-		<guid isPermaLink="false">/?p=2550</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2550</guid>
 
 					<description><![CDATA[I&#8217;ve struggled in the past with the role of class notes. I wrote more than a year ago about my solution using Microsoft OneNote. Since moving out of China, I&#8217;ve realized just how far behind I am in just awareness of what Google Docs are capable of doing. My new]]></description>
-										<content:encoded><![CDATA[<p>I&#8217;ve struggled in the past with the role of class notes. <a href="/2015/08/30/rethinking-class-notes-with-onenote/">I wrote more than a year ago about my solution using Microsoft OneNote</a>. Since moving out of China, I&#8217;ve realized just how far behind I am in just awareness of what Google Docs are capable of doing. My new school uses them extensively for all sorts of organizational and administrative purposes, not to mention applications in the classroom. I decided to upgrade my class notebook system this year to make better use of these tools. Now that we&#8217;re approaching three months in, I&#8217;m feeling pretty happy about my system thus far.</p>
+										<content:encoded><![CDATA[<p>I&#8217;ve struggled in the past with the role of class notes. <a href="http://evanweinberg.com/2015/08/30/rethinking-class-notes-with-onenote/">I wrote more than a year ago about my solution using Microsoft OneNote</a>. Since moving out of China, I&#8217;ve realized just how far behind I am in just awareness of what Google Docs are capable of doing. My new school uses them extensively for all sorts of organizational and administrative purposes, not to mention applications in the classroom. I decided to upgrade my class notebook system this year to make better use of these tools. Now that we&#8217;re approaching three months in, I&#8217;m feeling pretty happy about my system thus far.</p>
 <p>I now make all my handouts on Google Docs. The bandwidth and lack of a Great Firewall make it a reliable way to have access to files both at school and at home, which means that I&#8217;m not dragging my computer back and forth anymore. There&#8217;s something to be said for carrying a minimalist backpack, especially given the temperatures here. I relied on iCloud Drive last year which worked well enough, but the fact that I&#8217;m not worrying about files syncing between home and school is a clear change for the better. These files are titled <b>U3D02 &#8211; CW &#8211; Title of Day&#8217;s Lesson</b> to signify &#8216;Unit 3, Day 2&#8217; for ease of identifying files and their order. These are starting points for class activities, resources to use during class such as Desmos activities, videos, or other parts of what might be useful to students learning a given topic.</p>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1024x965.png" alt="screen-shot-2016-10-31-at-8-16-35-pm" width="500" height="471" class="alignnone size-large wp-image-2554" srcset="/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1024x965.png 1024w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-300x283.png 300w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-768x723.png 768w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1536x1447.png 1536w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1200x1130.png 1200w, /wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM.png 1896w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1024x965.png" alt="screen-shot-2016-10-31-at-8-16-35-pm" width="500" height="471" class="alignnone size-large wp-image-2554" srcset="/blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1024x965.png 1024w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-300x283.png 300w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-768x723.png 768w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1536x1447.png 1536w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM-1200x1130.png 1200w, /blog_archive/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-8.16.35-PM.png 1896w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>Each handout is shared with the class through <a href="http://www.hapara.com/">Hapara</a> teacher dashboard and Google Drive, and I give students read access on each file. Two students are randomly picked to be responsible for class notes. These two students make a copy of this handout during class, name it with the same title and unit/day designation, and then change CW (class work) to NB (notebook) file to indicate the purpose of this file.</p>
 <p>I take notes during class using <a href="http://gingerlabs.com/">Notability</a> and my Wacom tablet. It&#8217;s easy to copy and paste images from the digital handout into the notes, and then annotate them as needed. I take photos of student work with my phone and use Airdrop to get them to my classroom laptop. At the end of the class, I paste images of the notes I take during class into the relevant part of the notes. The two students are responsible for solving problems from the class handout and from homework, taking pictures, and putting them into the notes file on Google Docs. Links to these files are then shared on the course website with the rest of the class.</p>
 <p>My class handouts are still printed on A5 paper as an analog backup, and quizzes are usually still on paper as well. I still insist on students doing problems by hand since that&#8217;s ultimately how they will be assessed. The computer is there for access to <a href="http://www.desmos.com/calculator">Desmos</a>, Geogebra, and the digital handout. </p>
@@ -384,7 +384,7 @@
 <p>It&#8217;s pretty amazing what is possible when a major world power <u>isn&#8217;t</u> disrupting the technology you want to use in the classroom (or for whatever) on a regular basis.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2016/10/31/class-notes-and-workflow-on-the-other-side-of-the-wall/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

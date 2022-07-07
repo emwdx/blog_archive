@@ -12,8 +12,8 @@
 
 <channel>
 	<title>robotics</title>
-	<atom:link href="/category/robotics/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/blog_archive/category/robotics/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Sat, 25 Oct 2014 02:05:07 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,8 +24,8 @@
 	<generator>https://wordpress.org/?v=5.7.6</generator>
 <site xmlns="com-wordpress:feed-additions:1">180381780</site>	<item>
 		<title>Sensors First &#8211; Progress Report</title>
-		<link>/2014/10/25/sensors-first-progress-report/</link>
-					<comments>/2014/10/25/sensors-first-progress-report/#respond</comments>
+		<link>/blog_archive/2014/10/25/sensors-first-progress-report/</link>
+					<comments>/blog_archive/2014/10/25/sensors-first-progress-report/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 25 Oct 2014 02:05:07 +0000</pubDate>
@@ -35,10 +35,10 @@
 		<category><![CDATA[lego]]></category>
 		<category><![CDATA[robots]]></category>
 		<category><![CDATA[sensors]]></category>
-		<guid isPermaLink="false">/?p=1973</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=1973</guid>
 
 					<description><![CDATA[I wrote previously about my plans to change how I teach programming to my LEGO robotics students. By including sensor use as a starting point, my hope is to equip students with the experience to know when sensors can do a better job than simply aiming the robot toward the]]></description>
-										<content:encoded><![CDATA[<p>I wrote <a href="/2014/09/21/sensors-first-a-changed-approach/">previously</a> about my plans to change how I teach programming to my LEGO robotics students. By including sensor use as a starting point, my hope is to equip students with the experience to know when sensors can do a better job than simply aiming the robot toward the target and hoping for the best.</p>
+										<content:encoded><![CDATA[<p>I wrote <a href="http://evanweinberg.com/2014/09/21/sensors-first-a-changed-approach/">previously</a> about my plans to change how I teach programming to my LEGO robotics students. By including sensor use as a starting point, my hope is to equip students with the experience to know when sensors can do a better job than simply aiming the robot toward the target and hoping for the best.</p>
 <p><a href="http://blog.evanweinberg.org/wp-content/uploads/2014/10/IMG_0071-0.jpg"><img src="http://blog.evanweinberg.org/wp-content/uploads/2014/10/IMG_0071-0.jpg" alt="IMG_0071-0.JPG" class="alignnone size-full" /></a><br />
 Yesterday was my first open ended challenge after beginning this approach. Students needed to build and program their robots to retrieve the loops located at the ends of the black line paths. The time available for them to do so was kept short. As one more way to advantage sensors over a trial and error approach, I told them that I might tell them to start their robot anywhere along the line, and that they could only pick up their robot once while retrieving the two loops.</p>
 <p>I really didn&#8217;t need that final requirement. Students quickly figured out how to adapt the line following tricks I taught them to this task. In a forty minute period, all of the teams made progress and were able to make contact with the loop using a collection mechanism.</p>
@@ -46,15 +46,15 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p><a href="http://blog.evanweinberg.org/wp-content/uploads/2014/10/IMG_0073-1.jpg"><img src="http://blog.evanweinberg.org/wp-content/uploads/2014/10/IMG_0073-1.jpg" alt="IMG_0073-1.JPG" class="alignnone size-full" /></a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2014/10/25/sensors-first-progress-report/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2014/10/25/sensors-first-progress-report/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1973</post-id>	</item>
 		<item>
 		<title>Sensors First &#8211; A Changed Approach</title>
-		<link>/2014/09/21/sensors-first-a-changed-approach/</link>
-					<comments>/2014/09/21/sensors-first-a-changed-approach/#comments</comments>
+		<link>/blog_archive/2014/09/21/sensors-first-a-changed-approach/</link>
+					<comments>/blog_archive/2014/09/21/sensors-first-a-changed-approach/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sun, 21 Sep 2014 05:46:53 +0000</pubDate>
@@ -64,7 +64,7 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 		<category><![CDATA[mindstorms]]></category>
 		<category><![CDATA[programming]]></category>
 		<category><![CDATA[sensors]]></category>
-		<guid isPermaLink="false">/?p=1944</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=1944</guid>
 
 					<description><![CDATA[I presented to some FIRST LEGO League teachers on the programming software for the LEGO Mindstorms EV3 last week. My goal was to present the basics of programming in the system so that these teachers could coach their students through the process of building a program. The majority of programs]]></description>
 										<content:encoded><![CDATA[<p>I presented to some <a href="http://www.firstlegoleague.org/">FIRST LEGO League</a> teachers on the programming software for the <a href="http://www.lego.com/en-us/mindstorms/products/ev3/31313-mindstorms-ev3/">LEGO Mindstorms EV3</a> last week. My goal was to present the basics of programming in the system so that these teachers could coach their students through the process of building a program. </p>
@@ -81,7 +81,7 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p>One of my main points to the teachers in my presentation was that I&#8217;m making a subtle change to how I coach my students through this process. I&#8217;m calling it &#8216;sensors first&#8217;.</p>
 <p>The tasks I give my students in the beginning to learn programming are going to require sensors in order to complete. Instead of telling students to program their robot to drive a given distance and stop, I&#8217;ll ask them to drive their robot forward until a sensor on their robot sees a red line. I&#8217;ll also require that I start the robot anywhere <u>I</u> want in the test of their program.  </p>
 <p>It&#8217;s a subtle difference, and requires no difference in the programming. In the EV3 software, here&#8217;s what it looks like in both cases, using wheels to control the distance, and a sensor:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM-1024x217.png" alt="Screen Shot 2014-09-21 at 1.29.24 PM" width="500" height="105" class="alignnone size-large wp-image-1945" srcset="/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM-1024x217.png 1024w, /wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM-300x64.png 300w, /wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM-768x163.png 768w, /wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM.png 1051w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM.png"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM-1024x217.png" alt="Screen Shot 2014-09-21 at 1.29.24 PM" width="500" height="105" class="alignnone size-large wp-image-1945" srcset="/blog_archive/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM-1024x217.png 1024w, /blog_archive/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM-300x64.png 300w, /blog_archive/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM-768x163.png 768w, /blog_archive/wp-content/uploads/2014/09/Screen-Shot-2014-09-21-at-1.29.24-PM.png 1051w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>What am I hoping will be different?</p>
 <ul>
 <li>Students will look to the challenges I give them with the design requirement built in that aim-and-shoot isn&#8217;t an option that will result in success. If they start off thinking that way, they might always think how a sensor could be used to make the initial position of the robot irrelevant. FLL games always have a number of printed features on the mat that can be used to help with this sort of task.</li>
@@ -91,15 +91,15 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p>These sorts of problem solving approaches are exactly the way successful engineering design cycle works. Solutions should be found that maximize the effectiveness of a design while minimizing costs. I&#8217;m hoping this small change to the way I teach my students this year gets them spending more time using the tools built into the robot well, rather than trying to make a robot with high variability (caster wheels, anyone?) do the same thing two times in a row.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2014/09/21/sensors-first-a-changed-approach/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2014/09/21/sensors-first-a-changed-approach/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1944</post-id>	</item>
 		<item>
 		<title>Tea with Lee Magpili and the LEGO Mindstorms EV3</title>
-		<link>/2013/06/27/tea-with-lee-magpili-and-the-lego-mindstorms-ev3/</link>
-					<comments>/2013/06/27/tea-with-lee-magpili-and-the-lego-mindstorms-ev3/#respond</comments>
+		<link>/blog_archive/2013/06/27/tea-with-lee-magpili-and-the-lego-mindstorms-ev3/</link>
+					<comments>/blog_archive/2013/06/27/tea-with-lee-magpili-and-the-lego-mindstorms-ev3/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 27 Jun 2013 12:16:35 +0000</pubDate>
@@ -129,15 +129,15 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p>It was good catching up with Lee &#8211; he is a person to watch in the world of LEGO Education. He was at the <a href="http://www.firstlegoleague.org/event/worldfestival">FIRST World Festival</a> to demonstrate the EV3 to FIRST LEGO League teams, not to mention members of the Board of Directors at the LEGO group. He told me that his plans include photographing <a href="http://video.legoeducation.us/default.aspx?vID=86&amp;gID=3">Gyro Boy</a> in Times Square and Washington Square Park. Though he assures me that the <a href="http://www.technicbricks.com/2013/02/lee-magpilli-unveils-evan.html">robot named &#8216;Evan&#8217;</a> that has been touring the world to demonstrate the EV3 is not named after me, I&#8217;m going to continue to assume that it is.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/06/27/tea-with-lee-magpili-and-the-lego-mindstorms-ev3/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/06/27/tea-with-lee-magpili-and-the-lego-mindstorms-ev3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">1541</post-id>	</item>
 		<item>
 		<title>Playing with robots &#8211; a weekend well spent</title>
-		<link>/2013/03/02/playing-with-robots-a-weekend-well-spent/</link>
-					<comments>/2013/03/02/playing-with-robots-a-weekend-well-spent/#respond</comments>
+		<link>/blog_archive/2013/03/02/playing-with-robots-a-weekend-well-spent/</link>
+					<comments>/blog_archive/2013/03/02/playing-with-robots-a-weekend-well-spent/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Sat, 02 Mar 2013 14:41:14 +0000</pubDate>
@@ -162,15 +162,15 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p>Our bus lost its headlights on the way back, forcing us to spend an hour and a half at a repair place while the driver and nine other people figured it out while the usual pattern of loud Mandarin was punctuated with hacking and drags off cigarettes. The team, meanwhile, procured a healthy supply of snacks and seemed content to sing along to music played off their school laptops. This is a close group that has only grown closer. Easily the highlight of the whole weekend right there.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/03/02/playing-with-robots-a-weekend-well-spent/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/03/02/playing-with-robots-a-weekend-well-spent/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">984</post-id>	</item>
 		<item>
 		<title>Computational Thinking &#038; Spreadsheets</title>
-		<link>/2013/02/01/computational-thinking-spreadsheets/</link>
-					<comments>/2013/02/01/computational-thinking-spreadsheets/#respond</comments>
+		<link>/blog_archive/2013/02/01/computational-thinking-spreadsheets/</link>
+					<comments>/blog_archive/2013/02/01/computational-thinking-spreadsheets/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 01 Feb 2013 11:46:11 +0000</pubDate>
@@ -179,7 +179,7 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 		<category><![CDATA[robotics]]></category>
 		<category><![CDATA[studentwork]]></category>
 		<category><![CDATA[teaching stories]]></category>
-		<guid isPermaLink="false">/?p=922</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=922</guid>
 
 					<description><![CDATA[I feel sorry for the way spreadsheets are used most of the time in school. They are usually used as nothing more than a waypoint on the way to a chart or graph, inevitably with one of its data sets labeled &#8216;Series 1&#8217;. The most powerful uses of spreadsheets come]]></description>
 										<content:encoded><![CDATA[<p>I feel sorry for the way spreadsheets are used most of the time in school. They are usually used as nothing more than a waypoint on the way to a chart or graph, inevitably with one of its data sets labeled &#8216;Series 1&#8217;. The most powerful uses of spreadsheets come from how they provide ways to organize and calculate easily.</p>
@@ -190,7 +190,7 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <li>Showing calculations in a hand written document is easy &#8211; doing so in a document that is to be shared electronically is more difficult. There are also different times when you want to see how the calculation was made, and other times that you want to see the results. These are often presented in different parts of a report (body vs. appendix) but in a digital document, this isn&#8217;t entirely necessary.</li>
 </ul>
 <p style="text-align:center;">Here&#8217;s my model for how a spreadsheet can address some of these issues:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png"><img loading="lazy" class="aligncenter size-large wp-image-930" alt="Screen Shot 2013-02-01 at 7.47.59 PM" src="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png?w=500" width="500" height="161" srcset="/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png 803w, /wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-300x97.png 300w, /wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-768x249.png 768w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png"><img loading="lazy" class="aligncenter size-large wp-image-930" alt="Screen Shot 2013-02-01 at 7.47.59 PM" src="http://blog.evanweinberg.org/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png?w=500" width="500" height="161" srcset="/blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm.png 803w, /blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-300x97.png 300w, /blog_archive/wp-content/uploads/2013/02/screen-shot-2013-02-01-at-7-47-59-pm-768x249.png 768w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
 <p>Why I like it:</p>
 <ul>
 <li>The student puts all of the given information at the top. This information may be important or used for subsequent calculations, or not. It minimally has all of the information used to solve a problem in one place.</li>
@@ -222,15 +222,15 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2013/02/01/computational-thinking-spreadsheets/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2013/02/01/computational-thinking-spreadsheets/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">922</post-id>	</item>
 		<item>
 		<title>Bringing robotic cars and Udacity to my classroom</title>
-		<link>/2012/03/09/bringing-robotic-cars-and-udacity-to-my-classroom/</link>
-					<comments>/2012/03/09/bringing-robotic-cars-and-udacity-to-my-classroom/#respond</comments>
+		<link>/blog_archive/2012/03/09/bringing-robotic-cars-and-udacity-to-my-classroom/</link>
+					<comments>/blog_archive/2012/03/09/bringing-robotic-cars-and-udacity-to-my-classroom/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 09 Mar 2012 08:07:06 +0000</pubDate>
@@ -242,7 +242,7 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 		<category><![CDATA[programming]]></category>
 		<category><![CDATA[python]]></category>
 		<category><![CDATA[robotic car]]></category>
-		<guid isPermaLink="false">/?p=435</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=435</guid>
 
 					<description><![CDATA[I was really excited to learn about Udacity, a new online education system that premiered two courses on February 20th. That a course on programming a robotic car would appeal to me is probably not surprising to anyone that knows me. I also love having yet one more excuse to continue learning]]></description>
 										<content:encoded><![CDATA[<p>I was really excited to learn about <a href="http://www.udacity.com/">Udacity</a>, a new online education system that premiered two courses on February 20th. That a course on <a href="http://www.udacity.com/overview/Course/cs373">programming a robotic car</a> would appeal to me is probably not surprising to anyone that knows me. I also love having yet one more excuse to continue learning Python, especially one that gets me working with an expert in the field such as Professor Sebastian Thrun. I recall reading about him shortly before his team&#8217;s successful bid at the DARPA Grand Challenge, and have since seen his name repeated at many key moments along my development as a robotics enthusiast. </p>
@@ -264,15 +264,15 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p>All in all, it was a cool, low-key way to share my own learning with students after an exhausting week. I think we all needed a bit of a change.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2012/03/09/bringing-robotic-cars-and-udacity-to-my-classroom/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2012/03/09/bringing-robotic-cars-and-udacity-to-my-classroom/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">435</post-id>	</item>
 		<item>
 		<title>Getting started with LEGO Robotics &#8211; the book and the real thing.</title>
-		<link>/2011/12/09/getting-started-with-lego-robotics-the-book-and-the-real-thing/</link>
-					<comments>/2011/12/09/getting-started-with-lego-robotics-the-book-and-the-real-thing/#comments</comments>
+		<link>/blog_archive/2011/12/09/getting-started-with-lego-robotics-the-book-and-the-real-thing/</link>
+					<comments>/blog_archive/2011/12/09/getting-started-with-lego-robotics-the-book-and-the-real-thing/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Fri, 09 Dec 2011 10:20:14 +0000</pubDate>
@@ -284,14 +284,14 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 		<category><![CDATA[getting started with LEGO robotics]]></category>
 		<category><![CDATA[LEGO robotics]]></category>
 		<category><![CDATA[programming]]></category>
-		<guid isPermaLink="false">/?p=313</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=313</guid>
 
 					<description><![CDATA[This week I got a special early holiday present in my mailbox from my friend Mark Gura. Mark had invited me a couple years ago to be part of a book for helping teachers new to the field of LEGO robotics get started with their students. We had a great]]></description>
 										<content:encoded><![CDATA[<p><img loading="lazy" class="alignleft" src="http://www.iste.org/Images/Products/ROBOTS.jpg" alt="" width="136" height="180" />This week I got a special early holiday present in my mailbox from my friend<a href="http://www.markgura.blogspot.com/"> Mark Gura</a>. Mark had invited me a couple years ago to be part of a book for helping teachers new to the field of LEGO robotics get started with their students. We had a great conversation one evening after school over the phone during which we discussed the educational goldmine that building with LEGO is for students.</p>
 <p>Mark did this with a number of people with a range of LEGO robotics experiences, wrote up our conversations, and then combined them with a set of resources that could be immediately useful to novices in the book.</p>
 <p>The book, <a href="http://www.iste.org/store/product.aspx?ID=1690">Getting Started with LEGO Robotics</a>, is published by the <a href="http://www.iste.org/">International Society for Technology Education</a>. If you, or anyone you know, is just getting started with this exciting field, you will find some great stuff in here to help you work with students and get organized.</p>
 <p>It was a particularly perfect time for the book to arrive because we have a new group of students at my school getting started themselves with building and programming using the NXT. My colleague Doug Brunner teaches fifth graders across the hall. He volunteered (or more realistically, his students volunteered him) to take on coaching a group of students in the <a href="http://www.firstlegoleague.org/">FIRST LEGO League</a> program for the first time. After building the field for this year&#8217;s challenge, today the fifth graders actually got their hands on the robots and programming software. I had the robots built from the middle school exploratory class available so the students could immediately start with some programming tasks.</div>
-<div><a href="http://blog.evanweinberg.org/wp-content/uploads/2011/12/fifth-graders-with-robot.jpg"><img loading="lazy" class=" wp-image-314 alignright" title="fifth graders with robot" src="http://blog.evanweinberg.org/wp-content/uploads/2011/12/fifth-graders-with-robot.jpg" alt="" width="450" height="246" srcset="/wp-content/uploads/2011/12/fifth-graders-with-robot.jpg 600w, /wp-content/uploads/2011/12/fifth-graders-with-robot-300x164.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
+<div><a href="http://blog.evanweinberg.org/wp-content/uploads/2011/12/fifth-graders-with-robot.jpg"><img loading="lazy" class=" wp-image-314 alignright" title="fifth graders with robot" src="http://blog.evanweinberg.org/wp-content/uploads/2011/12/fifth-graders-with-robot.jpg" alt="" width="450" height="246" srcset="/blog_archive/wp-content/uploads/2011/12/fifth-graders-with-robot.jpg 600w, /blog_archive/wp-content/uploads/2011/12/fifth-graders-with-robot-300x164.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" /></a></p>
 <p>We started with my fall-back activity for the first time using the software &#8211; program the robot to drive across the length of the table and stop before falling over the edge. The students were into it from the start.  I stepped back to take pictures and Doug took over directing the rest of the two hours. He is a natural &#8211; he came up with a number of really great challenges of increasing difficulty and wasn&#8217;t afraid to sit down with students to figure out how the software worked. By the end of the session, the students were programming their robots to grab, push, and navigate around obstacles by dead reckoning. It was probably the most impressively productive single session I&#8217;ve ever seen.</p>
 <p>It&#8217;s always interesting to see how different people manage groups of students and LEGO. Some want to structure things within tight guidelines and teach step by step how to do everything. Others do a mini lesson on how to do one piece of the challenge, and then send the students off to figure out the rest. Some show by example that it&#8217;s perfectly fine to get something wrong in the process of solving a challenge by working alongside students. It was impressive to see Doug think on his feet and create opportunities for his students to work at different paces but all feel accomplished by the end of the day. It is also really unique to have to tell a bunch of students  at 5:15 PM on a Friday to go home from school, and yet this has now been the norm in the classroom for a couple straight weeks.</p>
 <p>Having robotics in my teaching load means that I am thinking about these ideas interspersed among planning activities for my regular content classes. There&#8217;s no reason why the philosophies between them can&#8217;t be the same, aside from the very substantial fact that you don&#8217;t have to tell students how to play with LEGO but you do often have to tell them how to play with mathematics or physics concepts. It&#8217;s easy for these robotics students to fail at a challenge twenty times and keep trying because they are having fun figuring it out. The holy grail of education is how to pose other content and challenge problems in the right way so it is equally compelling and motivating.</p>
@@ -300,15 +300,15 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p>Since this realization, I&#8217;ve been working to figure out how to bridge the gap. I am really appreciative that in my current teaching home, I am supported in my efforts to experiment by my my administrators. My students thankfully indulge my attempts to do things differently. I appreciate that while they don&#8217;t always enthusiastically endorse my methods, they are willing to try.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/12/09/getting-started-with-lego-robotics-the-book-and-the-real-thing/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2011/12/09/getting-started-with-lego-robotics-the-book-and-the-real-thing/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">313</post-id>	</item>
 		<item>
 		<title>Graphical Systems in Geogebra and crashing LEGO robots in Algebra 2</title>
-		<link>/2011/11/03/graphical-systems-in-geogebra-and-crashing-lego-robots-in-algebra-2/</link>
-					<comments>/2011/11/03/graphical-systems-in-geogebra-and-crashing-lego-robots-in-algebra-2/#comments</comments>
+		<link>/blog_archive/2011/11/03/graphical-systems-in-geogebra-and-crashing-lego-robots-in-algebra-2/</link>
+					<comments>/blog_archive/2011/11/03/graphical-systems-in-geogebra-and-crashing-lego-robots-in-algebra-2/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 03 Nov 2011 10:17:09 +0000</pubDate>
@@ -322,12 +322,12 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 		<category><![CDATA[measurements]]></category>
 		<category><![CDATA[robot]]></category>
 		<category><![CDATA[system of equations]]></category>
-		<guid isPermaLink="false">/?p=179</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=179</guid>
 
 					<description><![CDATA[In the Algebra 2 class, we started our unit on solving systems of equations. From a teaching perspective, this provides all sorts of opportunities for students to conceptualize what solutions to systems mean from a graphical, algebraic, and numerical perspective. Some students seem to like the topic because it tends]]></description>
 										<content:encoded><![CDATA[<p>In the Algebra 2 class, we started our unit on solving systems of equations. From a teaching perspective, this provides all sorts of opportunities for students to conceptualize what solutions to systems mean from a graphical, algebraic, and numerical perspective. Some students seem to like the topic because it tends to be fairly straight forward, is algorithmic, and has many ways to check and confirm whether it has been done correctly.</p>
 <p>I used this as my warm-up activity today:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2011/11/system-of-equations.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2011/11/system-of-equations.jpg?w=300" alt="" title="system of equations" width="300" height="218" class="aligncenter size-medium wp-image-182" srcset="/wp-content/uploads/2011/11/system-of-equations.jpg 962w, /wp-content/uploads/2011/11/system-of-equations-300x218.jpg 300w, /wp-content/uploads/2011/11/system-of-equations-768x559.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2011/11/system-of-equations.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2011/11/system-of-equations.jpg?w=300" alt="" title="system of equations" width="300" height="218" class="aligncenter size-medium wp-image-182" srcset="/blog_archive/wp-content/uploads/2011/11/system-of-equations.jpg 962w, /blog_archive/wp-content/uploads/2011/11/system-of-equations-300x218.jpg 300w, /blog_archive/wp-content/uploads/2011/11/system-of-equations-768x559.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>a) Estimate the solution of the system.</p>
 <p>b) Write an equation for each line in standard form.</p>
 <p>c) In Geogebra, select CAS view and type the following using your two equations: Solve[{7x+3y=6,3x-4y=12},{x,y}] </p>
@@ -341,22 +341,22 @@ Yesterday was my first open ended challenge after beginning this approach. Stude
 <p>You can measure anything you want using any units that you want using either robot individually. </p>
 <p>At some point, you should be able to show me how you are modeling the position of each robot as a function of time.
 </p></blockquote>
-<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2011/11/lego-robots-crashing.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2011/11/lego-robots-crashing.jpg?w=300" alt="" title="lego robots crashing" width="300" height="153" class="alignright size-medium wp-image-184" srcset="/wp-content/uploads/2011/11/lego-robots-crashing.jpg 1218w, /wp-content/uploads/2011/11/lego-robots-crashing-300x153.jpg 300w, /wp-content/uploads/2011/11/lego-robots-crashing-1024x523.jpg 1024w, /wp-content/uploads/2011/11/lego-robots-crashing-768x392.jpg 768w, /wp-content/uploads/2011/11/lego-robots-crashing-1200x613.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+<p><a href="http://blog.evanweinberg.org/wp-content/uploads/2011/11/lego-robots-crashing.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2011/11/lego-robots-crashing.jpg?w=300" alt="" title="lego robots crashing" width="300" height="153" class="alignright size-medium wp-image-184" srcset="/blog_archive/wp-content/uploads/2011/11/lego-robots-crashing.jpg 1218w, /blog_archive/wp-content/uploads/2011/11/lego-robots-crashing-300x153.jpg 300w, /blog_archive/wp-content/uploads/2011/11/lego-robots-crashing-1024x523.jpg 1024w, /blog_archive/wp-content/uploads/2011/11/lego-robots-crashing-768x392.jpg 768w, /blog_archive/wp-content/uploads/2011/11/lego-robots-crashing-1200x613.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
 And I set them off to figure things out. Despite the fact there were only two robots, the 12 kids naturally divided themselves up into a couple teams to characterize each robot, and there was some good sharing of data amidst some whining about how annoying it was to actually measure things. In the end, most students at least had some idea of how they were going to put together their models, and some had actually written out what they were. As one would hope for these types of activities, there were plenty of examples of students helping others to understand what they were doing. The engagement was clearly there, as confirmed by students visibly excited to run the robot and time how long it took for it to move around.</p>
 <p>It was a fun exercise that I plan to return to in a few ways during this unit &#8211; perhaps some interrobo-species interaction (my <a href="www.irobot.com/create/">iCreate robot</a> is charging up as we speak). Fun times.</p>
 <p>UPDATE: This is the video of the next day&#8217;s class when students solved their functions. I set the robots apart from each other and the students did the rest.<br />
 [youtube http://www.youtube.com/watch?v=As1JNGVPh0M&#038;w=420&#038;h=315]</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/11/03/graphical-systems-in-geogebra-and-crashing-lego-robots-in-algebra-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2011/11/03/graphical-systems-in-geogebra-and-crashing-lego-robots-in-algebra-2/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">179</post-id>	</item>
 		<item>
 		<title>Build the robot the way you want&#8230;No, you&#8217;re doing it wrong!</title>
-		<link>/2011/10/25/build-the-robot-the-way-you-want-no-youre-doing-it-wrong/</link>
-					<comments>/2011/10/25/build-the-robot-the-way-you-want-no-youre-doing-it-wrong/#respond</comments>
+		<link>/blog_archive/2011/10/25/build-the-robot-the-way-you-want-no-youre-doing-it-wrong/</link>
+					<comments>/blog_archive/2011/10/25/build-the-robot-the-way-you-want-no-youre-doing-it-wrong/#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2011 08:34:59 +0000</pubDate>
@@ -367,13 +367,13 @@ And I set them off to figure things out. Despite the fact there were only two ro
 		<category><![CDATA[exploration]]></category>
 		<category><![CDATA[lego]]></category>
 		<category><![CDATA[robot]]></category>
-		<guid isPermaLink="false">/?p=163</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=163</guid>
 
 					<description><![CDATA[I teach an exploratory class for middle school students in robotics. The students rotate between robotics and some other electives during each quarter of the year, and there are no grades &#8211; just an opportunity to learn something interesting while doing. I like the no grades part, particularly because assessing]]></description>
 										<content:encoded><![CDATA[<p>I teach an exploratory class for middle school students in robotics. The students rotate between robotics and some other electives during each quarter of the year, and there are no grades &#8211; just an opportunity to learn something interesting while doing. I like the no grades part, particularly because assessing progress in robotics is quite hard to do. My usual model is saying you get x points for doing the bare minimum (a D) and then incremental increases in the grade for doing progressively more challenging tasks.</p>
 <p>It works, but I really like getting the opportunity to not have to do it. There are so many things you <u>could</u> measure to assess the students in their building and programming skills, but in my experience, the students don&#8217;t tend to explore or tinker as much in that situation.</p>
 <p>Today while working on the day&#8217;s challenge on using sensors and loops, a student was fixated on building the following:<br />
-<a href="http://blog.evanweinberg.org/wp-content/uploads/2011/10/lego-creation.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2011/10/lego-creation.jpg?w=225" alt="" title="lego creation" width="225" height="300" class="alignright size-medium wp-image-164" srcset="/wp-content/uploads/2011/10/lego-creation.jpg 480w, /wp-content/uploads/2011/10/lego-creation-225x300.jpg 225w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
+<a href="http://blog.evanweinberg.org/wp-content/uploads/2011/10/lego-creation.jpg"><img loading="lazy" src="http://blog.evanweinberg.org/wp-content/uploads/2011/10/lego-creation.jpg?w=225" alt="" title="lego creation" width="225" height="300" class="alignright size-medium wp-image-164" srcset="/blog_archive/wp-content/uploads/2011/10/lego-creation.jpg 480w, /blog_archive/wp-content/uploads/2011/10/lego-creation-225x300.jpg 225w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
 <p>There weren&#8217;t any instructions to do this &#8211; he just started putting things together, liked what he had created, and continued building it today.</p>
 <p>I had to stop myself for a moment because teacher Evan started to come out and remind him to stay on task and contribute toward his team&#8217;s solution to the challenge. Thankfully robotics Evan intervened and let it happen. </p>
 <p>This is an exploratory class. It&#8217;s supposed to expose the students to new situations that might interest them later on. Why in the world would I <strong>stop</strong> the exact sort of thinking and exploring the class was designed to provoke? It also turned out that this student, along with the other two in the group, were all taking turns in the programming and building so that each would have a chance to play in this way. In spite of their taking time to free build, this group actually solved the three challenges before the rest in the class. </p>
@@ -383,7 +383,7 @@ And I set them off to figure things out. Despite the fact there were only two ro
 <p>The sad part? This made some of them stop. I can&#8217;t win! </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2011/10/25/build-the-robot-the-way-you-want-no-youre-doing-it-wrong/feed/</wfw:commentRss>
+					<wfw:commentRss>/blog_archive/2011/10/25/build-the-robot-the-way-you-want-no-youre-doing-it-wrong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

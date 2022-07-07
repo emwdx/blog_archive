@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Holiday Travel and Exporting PearDeck Data to Desmos	</title>
-	<atom:link href="/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/feed/" rel="self" type="application/rss+xml" />
-	<link>/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/</link>
+	<atom:link href="/blog_archive/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog_archive/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/</link>
 	<description>iteration, making, building, and coding in education</description>
 	<lastBuildDate>Wed, 01 Feb 2017 04:54:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -23,16 +23,16 @@
 	<item>
 		<title>
 		By: Evan Weinberg		</title>
-		<link>/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/#comment-494</link>
+		<link>/blog_archive/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/#comment-494</link>
 
 		<dc:creator><![CDATA[Evan Weinberg]]></dc:creator>
 		<pubDate>Wed, 01 Feb 2017 04:54:53 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2610#comment-494</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2610#comment-494</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/#comment-493&quot;&gt;Dan Meyer&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/blog_archive/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/#comment-493&quot;&gt;Dan Meyer&lt;/a&gt;.
 
 The ability to export the responses from the deck was key to my plans - check out my post on Notes to the Future to see why. Desmos activity builder certainly could have handled this task otherwise.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/#comment-493">Dan Meyer</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/blog_archive/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/#comment-493">Dan Meyer</a>.</p>
 <p>The ability to export the responses from the deck was key to my plans &#8211; check out my post on Notes to the Future to see why. Desmos activity builder certainly could have handled this task otherwise.</p>
 ]]></content:encoded>
 		
@@ -40,11 +40,11 @@ The ability to export the responses from the deck was key to my plans - check ou
 		<item>
 		<title>
 		By: Dan Meyer		</title>
-		<link>/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/#comment-493</link>
+		<link>/blog_archive/2017/01/09/holiday-travel-and-exporting-peardeck-data-to-desmos/#comment-493</link>
 
 		<dc:creator><![CDATA[Dan Meyer]]></dc:creator>
 		<pubDate>Wed, 01 Feb 2017 00:39:39 +0000</pubDate>
-		<guid isPermaLink="false">/?p=2610#comment-493</guid>
+		<guid isPermaLink="false">http://evanweinberg.com/?p=2610#comment-493</guid>
 
 					<description><![CDATA[Any reason you wouldn&#039;t create a movable point in Desmos on top of an image of the map?]]></description>
 			<content:encoded><![CDATA[<p>Any reason you wouldn&#8217;t create a movable point in Desmos on top of an image of the map?</p>
